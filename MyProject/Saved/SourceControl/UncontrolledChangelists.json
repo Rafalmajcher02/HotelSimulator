@@ -52,7 +52,12 @@
 				"D:/Repos/HotelSimulator/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/NB/NWWEVRQSGT6ARVZ8HQLCM9.uasset",
 				"D:/Repos/HotelSimulator/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CF/ZNIOCRD90Z70MMV9NMW778.uasset",
 				"D:/Repos/HotelSimulator/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/C8/Z38FT77DKZLKDXTQ7PZNM4.uasset",
-				"D:/Repos/HotelSimulator/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset"
+				"D:/Repos/HotelSimulator/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"D:/Repos/HotelSimulator/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"D:/Repos/HotelSimulator/MyProject/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"D:/Repos/HotelSimulator/MyProject/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"D:/Repos/HotelSimulator/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/Repos/HotelSimulator/MyProject/Content/UserInterface/WBP_HUD.uasset"
 			]
 		}
 	]
