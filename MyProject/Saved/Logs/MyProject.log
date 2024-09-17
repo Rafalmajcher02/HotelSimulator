@@ -3550,3 +3550,4 @@ Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Get bHasRifle
 [2024.09.17-13.30.13:929][763]LogContentValidation: Display: Validating /Game/Blueprints/BPC_Desk1.BPC_Desk1_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Desk1_C_UAID_F02F741C15231D1D02_1493288223
 [2024.09.17-13.30.13:929][763]LogContentValidation: Display: Validating /Game/Blueprints/BPC_Desk1.BPC_Desk1_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Desk1_C_UAID_F02F741C15231D1D02_1495545224
 [2024.09.17-13.30.13:929][763]LogContentValidation: Display: Validating /Game/Blueprints/BPC_Desk1.BPC_Desk1_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Desk1_C_UAID_F02F741C1523E90A02_1723278063
+[2024.09.17-13.31.09:923][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
