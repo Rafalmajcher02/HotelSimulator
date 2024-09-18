@@ -1182,3 +1182,563 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.09.18-11.09.38:009][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave took 327 ms
 [2024.09.18-11.09.38:015][ 20]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
 [2024.09.18-11.09.38:015][ 20]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.09.18-11.10.18:851][518]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.09.18-11.10.18:851][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.18-11.10.22:584][868]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.09.18-11.10.22:585][868]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.09.18-11.10.34:116][ 32]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_DeskMaster.BP_DeskMaster
+[2024.09.18-11.10.34:116][ 32]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.09.18-11.10.36:751][237]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BPC_Desk1.BPC_Desk1
+[2024.09.18-11.10.36:751][237]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.09.18-11.11.21:319][448]BlueprintLog: New page: Compile BP_DeskMaster
+[2024.09.18-11.11.21:456][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.09.18-11.11.22:057][506]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.18-11.11.22:120][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DeskMaster" FILE="../../../../../Repos/HotelSimulator/MyProject/Content/Blueprints/BP_DeskMaster.uasset" SILENT=true
+[2024.09.18-11.11.22:128][506]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_DeskMaster
+[2024.09.18-11.11.22:129][506]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/BP_DeskMaster3D7266844B41A2CF933E8FA6E749C9EE.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Content/Blueprints/BP_DeskMaster.uasset'
+[2024.09.18-11.11.22:136][506]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 406 ms)
+[2024.09.18-11.11.22:141][506]AssetCheck: New page: Asset Save: BP_DeskMaster
+[2024.09.18-11.11.22:141][506]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_DeskMaster.BP_DeskMaster
+[2024.09.18-11.13.15:576][216]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.09.18-11.13.23:816][148]LogSlate: Took 0.007995 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.09.18-11.14.05:990][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.09.18-11.14.06:036][956]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/XD/0W3R5PH07R5UBV1C8B8OOA_Auto1
+[2024.09.18-11.14.06:036][956]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/0W3R5PH07R5UBV1C8B8OOA_Auto1883134CB4D68334CE2F381870DCB67EE.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/XD/0W3R5PH07R5UBV1C8B8OOA_Auto1.uasset'
+[2024.09.18-11.14.06:064][956]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/JU/LOSNQWL8HCMVOGQVVEW4TE_Auto1
+[2024.09.18-11.14.06:065][956]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/LOSNQWL8HCMVOGQVVEW4TE_Auto143E9F4BF43BD75E217EFB4BC2003568E.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/JU/LOSNQWL8HCMVOGQVVEW4TE_Auto1.uasset'
+[2024.09.18-11.14.06:076][956]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/SU/Z6VVBUD3KWSYKBK2ZUU408_Auto1
+[2024.09.18-11.14.06:076][956]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/Z6VVBUD3KWSYKBK2ZUU408_Auto1B6C02FD34EFA3552799DD19A79DD5091.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/SU/Z6VVBUD3KWSYKBK2ZUU408_Auto1.uasset'
+[2024.09.18-11.14.06:080][956]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.137
+[2024.09.18-11.14.06:080][956]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.137
+[2024.09.18-11.14.06:081][956]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2024.09.18-11.14.06:081][956]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2024.09.18-11.14.06:112][956]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto1
+[2024.09.18-11.14.06:113][956]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/BP_FirstPersonCharacter_Auto1AB33860C4331DB065C23CAACFC0F0042.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto1.uasset'
+[2024.09.18-11.14.06:130][956]LogFileHelpers: Auto-saving content packages took 0.033
+[2024.09.18-11.14.09:062][300]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.09.18-11.14.09:140][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.09.18-11.15.24:245][985]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.09.18-11.15.24:324][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.09.18-11.15.24:801][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.18-11.15.24:888][ 30]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.09.18-11.15.24:889][ 30]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/BP_FirstPersonCharacter523BD95440DF5327FEB90CA4ACF2BDC6.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.09.18-11.15.24:897][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 502 ms)
+[2024.09.18-11.15.24:903][ 30]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.09.18-11.15.24:903][ 30]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.09.18-11.15.45:154][360]LogContentBrowser: Attempting asset rename: IMC_Default -> IMC_D
+[2024.09.18-11.15.46:101][360]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.18-11.15.46:187][360]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.09.18-11.15.46:188][360]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/BP_FirstPersonCharacter44277CF14F7C61DDC978EABC1C1970B5.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.09.18-11.15.46:190][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Input/IMC_D" FILE="../../../../../Repos/HotelSimulator/MyProject/Content/FirstPerson/Input/IMC_D.uasset" SILENT=true
+[2024.09.18-11.15.46:196][360]LogSavePackage: Moving output files for package: /Game/FirstPerson/Input/IMC_D
+[2024.09.18-11.15.46:196][360]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/IMC_D3D11F7DF466C7E7E8F4F37A0161AB0F2.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Content/FirstPerson/Input/IMC_D.uasset'
+[2024.09.18-11.15.46:206][360]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 607 ms)
+[2024.09.18-11.15.46:324][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.09.18-11.15.46:368][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.09.18-11.15.46:410][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.09.18-11.15.46:418][360]AssetCheck: New page: Asset Save: multiple assets
+[2024.09.18-11.15.46:418][360]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/FirstPerson/Input/IMC_D.IMC_D
+[2024.09.18-11.15.46:429][360]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.09.18-11.15.49:449][704]LogContentBrowser: Attempting asset rename: IMC_D -> IMC_Default
+[2024.09.18-11.15.49:490][704]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.18-11.15.49:584][704]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.09.18-11.15.49:585][704]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/BP_FirstPersonCharacter87EF4DDC4E454002E57E328A473E0F28.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.09.18-11.15.49:586][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Input/IMC_Default" FILE="../../../../../Repos/HotelSimulator/MyProject/Content/FirstPerson/Input/IMC_Default.uasset" SILENT=true
+[2024.09.18-11.15.49:590][704]LogSavePackage: Moving output files for package: /Game/FirstPerson/Input/IMC_Default
+[2024.09.18-11.15.49:591][704]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/IMC_Default13A5262149529AABFADFD9A4C95E7276.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Content/FirstPerson/Input/IMC_Default.uasset'
+[2024.09.18-11.15.49:600][704]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 715 ms)
+[2024.09.18-11.15.49:655][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.09.18-11.15.49:698][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.09.18-11.15.49:741][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.09.18-11.15.49:748][704]AssetCheck: New page: Asset Save: multiple assets
+[2024.09.18-11.15.49:748][704]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/FirstPerson/Input/IMC_Default.IMC_Default
+[2024.09.18-11.15.49:748][704]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.09.18-11.15.52:415][943]LogContentBrowser: Deferred new asset file creation: IMC_Default1
+[2024.09.18-11.15.52:443][943]LogContentBrowser: Creating deferred item: IMC_Default1
+[2024.09.18-11.15.52:452][944]LogContentBrowser: Renaming the item being created (Deferred Item: IMC_Default1).
+[2024.09.18-11.15.56:769][453]LogContentBrowser: Attempting asset rename: IMC_Default1 -> IMC_SittingDown
+[2024.09.18-11.15.56:785][453]LogContentBrowser: End creating deferred item IMC_Default1
+[2024.09.18-11.15.57:227][506]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/FirstPerson/Input/IMC_SittingDown.IMC_SittingDown
+[2024.09.18-11.16.00:680][797]LogSlate: Window 'IMC_SittingDown' being destroyed
+[2024.09.18-11.16.07:667][530]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.18-11.16.07:719][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Input/IMC_SittingDown" FILE="../../../../../Repos/HotelSimulator/MyProject/Content/FirstPerson/Input/IMC_SittingDown.uasset" SILENT=true
+[2024.09.18-11.16.07:722][530]LogSavePackage: Moving output files for package: /Game/FirstPerson/Input/IMC_SittingDown
+[2024.09.18-11.16.07:722][530]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/IMC_SittingDown73D708A543E58463873E0AA25F71774C.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Content/FirstPerson/Input/IMC_SittingDown.uasset'
+[2024.09.18-11.16.07:729][530]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 778 ms)
+[2024.09.18-11.16.07:735][530]AssetCheck: New page: Asset Save: IMC_SittingDown
+[2024.09.18-11.16.07:735][530]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/FirstPerson/Input/IMC_SittingDown.IMC_SittingDown
+[2024.09.18-11.16.10:570][813]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/FirstPerson/Input/IMC_Default.IMC_Default
+[2024.09.18-11.16.14:738][251]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/FirstPerson/Input/IMC_Weapons.IMC_Weapons
+[2024.09.18-11.16.28:003][440]LogSlate: Window 'IMC_Weapons' being destroyed
+[2024.09.18-11.16.28:011][440]LogSlate: Window 'IMC_Weapons' being destroyed
+[2024.09.18-11.16.36:589][397]LogContentBrowser: Deferred new asset file creation: IMC_Default1
+[2024.09.18-11.16.36:610][397]LogContentBrowser: Creating deferred item: IMC_Default1
+[2024.09.18-11.16.36:619][398]LogContentBrowser: Renaming the item being created (Deferred Item: IMC_Default1).
+[2024.09.18-11.16.40:768][886]LogContentBrowser: Attempting asset rename: IMC_Default1 -> IMC_Walking
+[2024.09.18-11.16.40:769][886]LogContentBrowser: End creating deferred item IMC_Default1
+[2024.09.18-11.16.41:112][927]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/FirstPerson/Input/IMC_Walking.IMC_Walking
+[2024.09.18-11.16.48:579][563]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.18-11.16.48:636][563]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Input/IMC_Walking" FILE="../../../../../Repos/HotelSimulator/MyProject/Content/FirstPerson/Input/IMC_Walking.uasset" SILENT=true
+[2024.09.18-11.16.48:640][563]LogSavePackage: Moving output files for package: /Game/FirstPerson/Input/IMC_Walking
+[2024.09.18-11.16.48:640][563]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/IMC_WalkingB8527B1C4901A6725AB5F197A6D6F87F.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Content/FirstPerson/Input/IMC_Walking.uasset'
+[2024.09.18-11.16.48:651][563]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 850 ms)
+[2024.09.18-11.16.48:660][563]AssetCheck: New page: Asset Save: IMC_Walking
+[2024.09.18-11.16.48:660][563]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/FirstPerson/Input/IMC_Walking.IMC_Walking
+[2024.09.18-11.16.49:667][655]LogSlate: Window 'IMC_Walking' being destroyed
+[2024.09.18-11.16.49:673][655]LogSlate: Window 'IMC_Walking' being destroyed
+[2024.09.18-11.16.50:504][737]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/FirstPerson/Input/IMC_SittingDown.IMC_SittingDown
+[2024.09.18-11.17.07:219][729]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.18-11.17.07:284][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Input/IMC_SittingDown" FILE="../../../../../Repos/HotelSimulator/MyProject/Content/FirstPerson/Input/IMC_SittingDown.uasset" SILENT=true
+[2024.09.18-11.17.07:289][729]LogSavePackage: Moving output files for package: /Game/FirstPerson/Input/IMC_SittingDown
+[2024.09.18-11.17.07:289][729]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/IMC_SittingDownD746C4D04F0132DAC39A2CAA20A8E68D.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Content/FirstPerson/Input/IMC_SittingDown.uasset'
+[2024.09.18-11.17.07:298][729]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 929 ms)
+[2024.09.18-11.17.07:303][729]AssetCheck: New page: Asset Save: IMC_SittingDown
+[2024.09.18-11.17.07:303][729]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/FirstPerson/Input/IMC_SittingDown.IMC_SittingDown
+[2024.09.18-11.17.10:579][ 54]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/FirstPerson/Input/IMC_Walking.IMC_Walking
+[2024.09.18-11.17.17:363][608]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.18-11.17.17:436][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Input/IMC_Walking" FILE="../../../../../Repos/HotelSimulator/MyProject/Content/FirstPerson/Input/IMC_Walking.uasset" SILENT=true
+[2024.09.18-11.17.17:441][608]LogSavePackage: Moving output files for package: /Game/FirstPerson/Input/IMC_Walking
+[2024.09.18-11.17.17:442][608]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/IMC_Walking1990C31D4BD83142B4F696A1D8927636.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Content/FirstPerson/Input/IMC_Walking.uasset'
+[2024.09.18-11.17.17:450][608]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 1.01 sec)
+[2024.09.18-11.17.17:458][608]AssetCheck: New page: Asset Save: IMC_Walking
+[2024.09.18-11.17.17:458][608]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/FirstPerson/Input/IMC_Walking.IMC_Walking
+[2024.09.18-11.17.18:498][697]LogSlate: Window 'IMC_Walking' being destroyed
+[2024.09.18-11.17.18:509][697]LogSlate: Window 'IMC_Walking' being destroyed
+[2024.09.18-11.17.19:464][788]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/FirstPerson/Input/IMC_Default.IMC_Default
+[2024.09.18-11.17.26:366][503]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.18-11.17.26:417][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Input/IMC_Default" FILE="../../../../../Repos/HotelSimulator/MyProject/Content/FirstPerson/Input/IMC_Default.uasset" SILENT=true
+[2024.09.18-11.17.26:421][503]LogSavePackage: Moving output files for package: /Game/FirstPerson/Input/IMC_Default
+[2024.09.18-11.17.26:422][503]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/IMC_Default9728CB5A4B938DB58587E2BBBA842B66.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Content/FirstPerson/Input/IMC_Default.uasset'
+[2024.09.18-11.17.26:432][503]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 1.08 sec)
+[2024.09.18-11.17.26:437][503]AssetCheck: New page: Asset Save: IMC_Default
+[2024.09.18-11.17.26:437][503]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/FirstPerson/Input/IMC_Default.IMC_Default
+[2024.09.18-11.18.00:519][379]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.09.18-11.18.00:601][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.09.18-11.18.01:118][421]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.18-11.18.01:199][421]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.09.18-11.18.01:200][421]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/BP_FirstPersonCharacter5567821E429BF644F1CD0BA4822A3C82.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.09.18-11.18.01:209][421]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 1.17 sec)
+[2024.09.18-11.18.01:215][421]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.09.18-11.18.01:215][421]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.09.18-11.18.22:744][874]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.09.18-11.18.22:825][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.09.18-11.18.23:277][915]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.18-11.18.23:369][915]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.09.18-11.18.23:369][915]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/BP_FirstPersonCharacter4E64670245EBEBA7EC0547AD75AE42A4.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.09.18-11.18.23:378][915]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 1.27 sec)
+[2024.09.18-11.18.23:383][915]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.09.18-11.18.23:384][915]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.09.18-11.18.24:622][ 29]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.09.18-11.18.24:631][ 29]LogContentBundle: [Container: FirstPersonMap] Generating Streaming for 0 Content Bundles.
+[2024.09.18-11.18.24:632][ 29]LogWorldPartition: Display: GenerateStreaming started...
+[2024.09.18-11.18.24:632][ 29]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.09.18-11.18.24:632][ 29]LogWorldPartition: Display: GetPartitionedActors took 6 us (total: 881 us)
+[2024.09.18-11.18.24:632][ 29]LogWorldPartition: Display: GenerateStreaming took 103 us (total: 2 ms)
+[2024.09.18-11.18.24:634][ 29]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.09.18-11.18.24:635][ 29]PIE: New page: PIE session: FirstPersonMap (18 Sep 2024, 13:18:24)
+[2024.09.18-11.18.24:658][ 29]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.09.18-11.18.24:661][ 29]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002966s)
+[2024.09.18-11.18.24:661][ 29]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003006s)
+[2024.09.18-11.18.24:661][ 29]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.09.18-11.18.24:661][ 29]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.09.18-11.18.24:661][ 29]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.09.18-11.18.24:661][ 29]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.09.18-11.18.24:661][ 29]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.09.18-11.18.24:662][ 29]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2024.09.18-11.18.24:662][ 29]LogWorldPartition: Display: WorldPartition initialize took 582 us (total: 3.04 sec)
+[2024.09.18-11.18.24:662][ 29]LogPlayLevel: PIE: World Init took: (0.001481s)
+[2024.09.18-11.18.24:701][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.09.18-11.18.24:704][ 29]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.09.18-11.18.24:704][ 29]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.18-11.18.24:704][ 29]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.18-11.18.24:704][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.18-11.18.24:704][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.18-11.18.24:704][ 29]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.09.18-11.18.24:704][ 29]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.09.18-11.18.24:704][ 29]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.09.18-11.18.24:704][ 29]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.18-11.18.24:704][ 29]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.18-11.18.24:704][ 29]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.18-11.18.24:704][ 29]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.18-11.18.24:707][ 29]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.18-11.18.24:733][ 29]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2024.09.18-11.18.24:733][ 29]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.18-11.18.24:733][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.18-11.18.24:733][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.18-11.18.24:734][ 29]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.09.18-11.18.24:734][ 29]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.09.18-11.18.24:735][ 29]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.09.18-11.18.24:735][ 29]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.09.18-11.18.24:735][ 29]LogInit: FAudioDevice initialized.
+[2024.09.18-11.18.24:735][ 29]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonMap'.
+[2024.09.18-11.18.24:739][ 29]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.09.18-11.18.24:740][ 29]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.09.18-12.18.24
+[2024.09.18-11.18.24:740][ 29]LogWorld: Bringing up level for play took: 0.000757
+[2024.09.18-11.18.24:743][ 29]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2024.09.18-11.18.24:744][ 29]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.338
+[2024.09.18-11.18.24:744][ 29]PIE: Server logged in
+[2024.09.18-11.18.24:745][ 29]PIE: Play in editor total start time 0.114 seconds.
+[2024.09.18-11.18.28:307][440]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1493288223] hasTag
+[2024.09.18-11.18.28:312][440]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1493288223] On
+[2024.09.18-11.18.30:317][677]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1495545224] hasTag
+[2024.09.18-11.18.30:317][677]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1495545224] On
+[2024.09.18-11.18.30:323][678]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C1523E90A02_1723278063] hasTag
+[2024.09.18-11.18.30:323][678]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C1523E90A02_1723278063] On
+[2024.09.18-11.18.31:315][795]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C1523E90A02_1723278063] Exit
+[2024.09.18-11.18.31:316][795]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C1523E90A02_1723278063] Off
+[2024.09.18-11.18.31:324][796]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1493288223] Exit
+[2024.09.18-11.18.31:324][796]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1493288223] Off
+[2024.09.18-11.18.31:340][798]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1495545224] Exit
+[2024.09.18-11.18.31:340][798]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1495545224] Off
+[2024.09.18-11.18.32:492][936]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1495545224] hasTag
+[2024.09.18-11.18.32:492][936]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1495545224] On
+[2024.09.18-11.18.33:943][110]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1495545224] Exit
+[2024.09.18-11.18.33:943][110]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1495545224] Off
+[2024.09.18-11.18.36:377][399]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.18-11.18.36:377][399]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.09.18-11.18.36:377][399]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.09.18-11.18.36:377][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.18-11.18.36:377][399]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2024.09.18-11.18.36:382][399]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.18-11.18.36:386][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.18-11.18.36:426][399]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.09.18-11.18.36:426][399]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.09.18-11.18.36:428][399]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.09.18-11.18.36:432][399]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.18-11.18.36:434][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.09.18-11.18.36:469][400]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2024.09.18-11.18.37:502][505]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/FirstPerson/Input/IMC_Walking.IMC_Walking
+[2024.09.18-11.18.39:522][680]LogSlate: Window 'IMC_Walking' being destroyed
+[2024.09.18-11.18.39:531][680]LogSlate: Window 'IMC_Walking' being destroyed
+[2024.09.18-11.18.40:332][763]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/FirstPerson/Input/IMC_Default.IMC_Default
+[2024.09.18-11.19.02:353][149]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.09.18-11.19.02:431][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.09.18-11.19.03:491][238]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.09.18-11.19.03:500][238]LogContentBundle: [Container: FirstPersonMap] Generating Streaming for 0 Content Bundles.
+[2024.09.18-11.19.03:501][238]LogWorldPartition: Display: GenerateStreaming started...
+[2024.09.18-11.19.03:501][238]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.09.18-11.19.03:501][238]LogWorldPartition: Display: GetPartitionedActors took 5 us (total: 887 us)
+[2024.09.18-11.19.03:501][238]LogWorldPartition: Display: GenerateStreaming took 91 us (total: 2 ms)
+[2024.09.18-11.19.03:503][238]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.09.18-11.19.03:503][238]PIE: New page: PIE session: FirstPersonMap (18 Sep 2024, 13:19:03)
+[2024.09.18-11.19.03:527][238]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.09.18-11.19.03:530][238]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002704s)
+[2024.09.18-11.19.03:530][238]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.002742s)
+[2024.09.18-11.19.03:530][238]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.09.18-11.19.03:530][238]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.09.18-11.19.03:530][238]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.09.18-11.19.03:530][238]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.09.18-11.19.03:530][238]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.09.18-11.19.03:531][238]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2024.09.18-11.19.03:531][238]LogWorldPartition: Display: WorldPartition initialize took 572 us (total: 3.04 sec)
+[2024.09.18-11.19.03:531][238]LogPlayLevel: PIE: World Init took: (0.001430s)
+[2024.09.18-11.19.03:571][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.09.18-11.19.03:573][238]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.09.18-11.19.03:573][238]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.18-11.19.03:573][238]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.18-11.19.03:573][238]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.18-11.19.03:573][238]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.18-11.19.03:573][238]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.09.18-11.19.03:573][238]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.09.18-11.19.03:573][238]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.09.18-11.19.03:573][238]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.18-11.19.03:573][238]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.18-11.19.03:573][238]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.18-11.19.03:573][238]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.18-11.19.03:577][238]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.18-11.19.03:601][238]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2024.09.18-11.19.03:601][238]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.18-11.19.03:601][238]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.18-11.19.03:601][238]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.18-11.19.03:602][238]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.09.18-11.19.03:602][238]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.09.18-11.19.03:603][238]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.09.18-11.19.03:603][238]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.09.18-11.19.03:603][238]LogInit: FAudioDevice initialized.
+[2024.09.18-11.19.03:603][238]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstPersonMap'.
+[2024.09.18-11.19.03:606][238]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.09.18-11.19.03:607][238]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.09.18-12.19.03
+[2024.09.18-11.19.03:607][238]LogWorld: Bringing up level for play took: 0.000860
+[2024.09.18-11.19.03:609][238]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2024.09.18-11.19.03:610][238]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.338
+[2024.09.18-11.19.03:611][238]PIE: Server logged in
+[2024.09.18-11.19.03:612][238]PIE: Play in editor total start time 0.112 seconds.
+[2024.09.18-11.19.07:377][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.18-11.19.07:377][675]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.09.18-11.19.07:377][675]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.09.18-11.19.07:378][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.18-11.19.07:378][675]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2024.09.18-11.19.07:382][675]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.18-11.19.07:387][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.18-11.19.07:431][675]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.09.18-11.19.07:431][675]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.09.18-11.19.07:433][675]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.09.18-11.19.07:436][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.18-11.19.07:438][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.09.18-11.19.07:471][676]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2024.09.18-11.19.10:244][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.09.18-11.19.11:813][981]LogSlate: Window 'Save Content' being destroyed
+[2024.09.18-11.19.11:823][981]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.18-11.19.11:916][981]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.09.18-11.19.11:917][981]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/BP_FirstPersonCharacter8603F2884B5EAEF64C56ADA87AF26669.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.09.18-11.19.11:985][981]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/JU/LOSNQWL8HCMVOGQVVEW4TE
+[2024.09.18-11.19.11:987][981]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/LOSNQWL8HCMVOGQVVEW4TE9BB89A8740CEE1ABE01DD18FD6C65A43.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/JU/LOSNQWL8HCMVOGQVVEW4TE.uasset'
+[2024.09.18-11.19.11:992][981]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/SU/Z6VVBUD3KWSYKBK2ZUU408
+[2024.09.18-11.19.11:993][981]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/Z6VVBUD3KWSYKBK2ZUU40838C857FA4173CDABEDD5F798851A67B7.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/SU/Z6VVBUD3KWSYKBK2ZUU408.uasset'
+[2024.09.18-11.19.12:017][981]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/XD/0W3R5PH07R5UBV1C8B8OOA
+[2024.09.18-11.19.12:018][981]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/0W3R5PH07R5UBV1C8B8OOA334D73984F1F98DD49A14D8446F60C40.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/XD/0W3R5PH07R5UBV1C8B8OOA.uasset'
+[2024.09.18-11.19.12:030][981]LogFileHelpers: InternalPromptForCheckoutAndSave took 208 ms (total: 1.48 sec)
+[2024.09.18-11.19.12:036][981]AssetCheck: New page: Asset Save: multiple assets
+[2024.09.18-11.19.12:036][981]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.09.18-11.19.12:037][981]LogContentValidation: Display: Validating /Game/Blueprints/BPC_Desk1.BPC_Desk1_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Desk1_C_UAID_F02F741C15231D1D02_1495545224
+[2024.09.18-11.19.12:037][981]LogContentValidation: Display: Validating /Game/Blueprints/BPC_Desk1.BPC_Desk1_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Desk1_C_UAID_F02F741C1523E90A02_1723278063
+[2024.09.18-11.19.12:037][981]LogContentValidation: Display: Validating /Game/Blueprints/BPC_Desk1.BPC_Desk1_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Desk1_C_UAID_F02F741C15231D1D02_1493288223
+[2024.09.18-11.19.32:461][749]LogContentBrowser: Deferred new asset file creation: NewPlayerMappableInputConfig
+[2024.09.18-11.19.32:469][749]LogContentBrowser: Creating deferred item: NewPlayerMappableInputConfig
+[2024.09.18-11.19.32:483][750]LogContentBrowser: Renaming the item being created (Deferred Item: NewPlayerMappableInputConfig).
+[2024.09.18-11.19.37:519][314]LogContentBrowser: Attempting asset rename: NewPlayerMappableInputConfig -> NewPlayerMappableInputConfig
+[2024.09.18-11.19.37:520][314]LogContentBrowser: End creating deferred item NewPlayerMappableInputConfig
+[2024.09.18-11.19.45:783][ 34]LogContentBrowser: Deferred new asset file creation: NewPlayerMappableInputConfig
+[2024.09.18-11.19.45:791][ 34]LogContentBrowser: Creating deferred item: NewPlayerMappableInputConfig
+[2024.09.18-11.19.45:801][ 35]LogContentBrowser: Renaming the item being created (Deferred Item: NewPlayerMappableInputConfig).
+[2024.09.18-11.19.49:184][441]LogContentBrowser: Attempting asset rename: NewPlayerMappableInputConfig -> PMIC_Default
+[2024.09.18-11.19.49:187][441]LogContentBrowser: End creating deferred item NewPlayerMappableInputConfig
+[2024.09.18-11.19.49:356][461]LogAssetEditorSubsystem: Opening Asset editor for PlayerMappableInputConfig /Game/FirstPerson/Input/PMIC_Default.PMIC_Default
+[2024.09.18-11.20.00:652][478]LogSlate: Window 'PMIC_Default' being destroyed
+[2024.09.18-11.20.00:661][478]LogSlate: Window 'PMIC_Default' being destroyed
+[2024.09.18-11.20.01:990][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.09.18-11.20.02:424][576]LogSlate: Window 'Delete Assets' being destroyed
+[2024.09.18-11.20.02:498][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.09.18-11.20.02:542][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.09.18-11.20.02:582][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.09.18-11.20.04:652][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.09.18-11.20.06:883][  3]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/FirstPerson/Input/IMC_Walking.IMC_Walking
+[2024.09.18-11.20.11:379][387]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/FirstPerson/Input/IMC_SittingDown.IMC_SittingDown
+[2024.09.18-11.20.16:934][ 27]LogSlate: Window 'IMC_Walking' being destroyed
+[2024.09.18-11.20.16:945][ 27]LogSlate: Window 'IMC_Walking' being destroyed
+[2024.09.18-11.20.21:569][518]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.09.18-11.20.21:577][518]LogContentBundle: [Container: FirstPersonMap] Generating Streaming for 0 Content Bundles.
+[2024.09.18-11.20.21:578][518]LogWorldPartition: Display: GenerateStreaming started...
+[2024.09.18-11.20.21:578][518]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.09.18-11.20.21:578][518]LogWorldPartition: Display: GetPartitionedActors took 6 us (total: 893 us)
+[2024.09.18-11.20.21:578][518]LogWorldPartition: Display: GenerateStreaming took 101 us (total: 2 ms)
+[2024.09.18-11.20.21:581][518]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.09.18-11.20.21:581][518]PIE: New page: PIE session: FirstPersonMap (18 Sep 2024, 13:20:21)
+[2024.09.18-11.20.21:607][518]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.09.18-11.20.21:610][518]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003170s)
+[2024.09.18-11.20.21:610][518]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003213s)
+[2024.09.18-11.20.21:610][518]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.09.18-11.20.21:610][518]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.09.18-11.20.21:611][518]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.09.18-11.20.21:611][518]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.09.18-11.20.21:611][518]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.09.18-11.20.21:611][518]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2024.09.18-11.20.21:611][518]LogWorldPartition: Display: WorldPartition initialize took 578 us (total: 3.04 sec)
+[2024.09.18-11.20.21:611][518]LogPlayLevel: PIE: World Init took: (0.001460s)
+[2024.09.18-11.20.21:654][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.09.18-11.20.21:655][518]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.09.18-11.20.21:655][518]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.18-11.20.21:655][518]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.18-11.20.21:655][518]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.18-11.20.21:655][518]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.18-11.20.21:655][518]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.09.18-11.20.21:655][518]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.09.18-11.20.21:655][518]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.09.18-11.20.21:655][518]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.18-11.20.21:655][518]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.18-11.20.21:655][518]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.18-11.20.21:655][518]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.18-11.20.21:658][518]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.18-11.20.21:683][518]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2024.09.18-11.20.21:684][518]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.18-11.20.21:684][518]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.18-11.20.21:684][518]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.18-11.20.21:684][518]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.09.18-11.20.21:684][518]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.09.18-11.20.21:686][518]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.09.18-11.20.21:686][518]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.09.18-11.20.21:686][518]LogInit: FAudioDevice initialized.
+[2024.09.18-11.20.21:686][518]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstPersonMap'.
+[2024.09.18-11.20.21:689][518]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.09.18-11.20.21:690][518]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.09.18-12.20.21
+[2024.09.18-11.20.21:690][518]LogWorld: Bringing up level for play took: 0.000896
+[2024.09.18-11.20.21:693][518]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2024.09.18-11.20.21:694][518]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.338
+[2024.09.18-11.20.21:695][518]PIE: Server logged in
+[2024.09.18-11.20.21:695][518]PIE: Play in editor total start time 0.118 seconds.
+[2024.09.18-11.20.21:881][529]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.20.21:882][529]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.20.21:882][529]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.20.21:882][529]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.20.22:344][584]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.20.22:344][584]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.20.22:344][584]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.20.22:344][584]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.20.22:718][629]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.20.22:718][629]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.20.22:718][629]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.20.22:718][629]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.20.23:026][666]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.20.23:027][666]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.20.23:027][666]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.20.23:027][666]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.20.23:228][690]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.20.23:228][690]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.20.23:228][690]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.20.23:228][690]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.20.25:010][904]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.20.25:010][904]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.20.25:010][904]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.20.25:011][904]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk3
+[2024.09.18-11.20.25:011][904]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-11.20.25:011][904]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1495545224] Player Sits Down
+[2024.09.18-11.20.25:011][904]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.20.25:034][907]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1495545224] hasTag
+[2024.09.18-11.20.25:034][907]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1495545224] On
+[2024.09.18-11.20.25:945][ 16]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.20.25:945][ 16]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.20.25:945][ 16]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.20.25:945][ 16]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk1
+[2024.09.18-11.20.25:945][ 16]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-11.20.25:945][ 16]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C1523E90A02_1723278063] Player Sits Down
+[2024.09.18-11.20.25:945][ 16]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.20.26:002][ 23]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C1523E90A02_1723278063] hasTag
+[2024.09.18-11.20.26:002][ 23]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C1523E90A02_1723278063] On
+[2024.09.18-11.20.26:321][ 61]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.20.26:321][ 61]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.20.26:321][ 61]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.20.26:321][ 61]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk2
+[2024.09.18-11.20.26:321][ 61]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-11.20.26:321][ 61]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1493288223] Player Sits Down
+[2024.09.18-11.20.26:321][ 61]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.20.26:751][112]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C1523E90A02_1723278063] Exit
+[2024.09.18-11.20.26:751][112]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C1523E90A02_1723278063] Off
+[2024.09.18-11.20.26:792][117]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1495545224] Exit
+[2024.09.18-11.20.26:792][117]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1495545224] Off
+[2024.09.18-11.20.26:875][127]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1493288223] hasTag
+[2024.09.18-11.20.26:875][127]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1493288223] On
+[2024.09.18-11.20.27:417][188]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1493288223] Exit
+[2024.09.18-11.20.27:417][188]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1493288223] Off
+[2024.09.18-11.20.27:808][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.18-11.20.27:808][231]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.09.18-11.20.27:808][231]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.09.18-11.20.27:808][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.18-11.20.27:809][231]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2024.09.18-11.20.27:812][231]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.18-11.20.27:817][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.18-11.20.27:855][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.18-11.20.27:856][231]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.09.18-11.20.27:858][231]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.09.18-11.20.27:864][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.09.18-11.20.27:898][232]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.09.18-11.20.30:145][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.09.18-11.20.31:197][468]LogSlate: Window 'Save Content' being destroyed
+[2024.09.18-11.20.31:205][468]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.18-11.20.31:269][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Input/IMC_Walking" FILE="../../../../../Repos/HotelSimulator/MyProject/Content/FirstPerson/Input/IMC_Walking.uasset" SILENT=true
+[2024.09.18-11.20.31:274][468]LogSavePackage: Moving output files for package: /Game/FirstPerson/Input/IMC_Walking
+[2024.09.18-11.20.31:275][468]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/IMC_WalkingE085AEEA4078FE5AB2D784B075658770.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Content/FirstPerson/Input/IMC_Walking.uasset'
+[2024.09.18-11.20.31:282][468]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 1.56 sec)
+[2024.09.18-11.20.31:288][468]AssetCheck: New page: Asset Save: IMC_Walking
+[2024.09.18-11.20.31:288][468]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/FirstPerson/Input/IMC_Walking.IMC_Walking
+[2024.09.18-11.21.41:267][327]BlueprintLog: New page: Compile BP_DeskMaster
+[2024.09.18-11.21.41:368][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.09.18-11.21.41:836][374]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.18-11.21.41:901][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DeskMaster" FILE="../../../../../Repos/HotelSimulator/MyProject/Content/Blueprints/BP_DeskMaster.uasset" SILENT=true
+[2024.09.18-11.21.41:917][374]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_DeskMaster
+[2024.09.18-11.21.41:918][374]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/BP_DeskMasterCE46F2924FE717B4D99781B7F89FF905.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Content/Blueprints/BP_DeskMaster.uasset'
+[2024.09.18-11.21.41:928][374]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 1.65 sec)
+[2024.09.18-11.21.41:933][374]AssetCheck: New page: Asset Save: BP_DeskMaster
+[2024.09.18-11.21.41:933][374]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_DeskMaster.BP_DeskMaster
+[2024.09.18-11.21.43:189][489]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.09.18-11.21.43:199][489]LogContentBundle: [Container: FirstPersonMap] Generating Streaming for 0 Content Bundles.
+[2024.09.18-11.21.43:200][489]LogWorldPartition: Display: GenerateStreaming started...
+[2024.09.18-11.21.43:200][489]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.09.18-11.21.43:200][489]LogWorldPartition: Display: GetPartitionedActors took 5 us (total: 899 us)
+[2024.09.18-11.21.43:200][489]LogWorldPartition: Display: GenerateStreaming took 96 us (total: 2 ms)
+[2024.09.18-11.21.43:202][489]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.09.18-11.21.43:202][489]PIE: New page: PIE session: FirstPersonMap (18 Sep 2024, 13:21:43)
+[2024.09.18-11.21.43:236][489]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.09.18-11.21.43:240][489]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003362s)
+[2024.09.18-11.21.43:240][489]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003407s)
+[2024.09.18-11.21.43:240][489]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.09.18-11.21.43:240][489]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.09.18-11.21.43:241][489]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.09.18-11.21.43:241][489]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.09.18-11.21.43:241][489]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.09.18-11.21.43:242][489]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2024.09.18-11.21.43:242][489]LogWorldPartition: Display: WorldPartition initialize took 685 us (total: 3.04 sec)
+[2024.09.18-11.21.43:242][489]LogPlayLevel: PIE: World Init took: (0.001840s)
+[2024.09.18-11.21.43:283][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.09.18-11.21.43:287][489]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.09.18-11.21.43:287][489]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.18-11.21.43:287][489]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.18-11.21.43:287][489]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.18-11.21.43:287][489]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.18-11.21.43:287][489]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.09.18-11.21.43:287][489]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.09.18-11.21.43:287][489]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.09.18-11.21.43:287][489]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.18-11.21.43:288][489]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.18-11.21.43:288][489]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.18-11.21.43:288][489]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.18-11.21.43:290][489]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.18-11.21.43:316][489]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2024.09.18-11.21.43:316][489]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.18-11.21.43:316][489]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.18-11.21.43:316][489]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.18-11.21.43:318][489]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.09.18-11.21.43:318][489]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.09.18-11.21.43:320][489]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.09.18-11.21.43:320][489]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.09.18-11.21.43:320][489]LogInit: FAudioDevice initialized.
+[2024.09.18-11.21.43:320][489]LogAudio: Display: Audio Device (ID: 6) registered with world 'FirstPersonMap'.
+[2024.09.18-11.21.43:322][489]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.09.18-11.21.43:323][489]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.09.18-12.21.43
+[2024.09.18-11.21.43:323][489]LogWorld: Bringing up level for play took: 0.000743
+[2024.09.18-11.21.43:325][489]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2024.09.18-11.21.43:326][489]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.338
+[2024.09.18-11.21.43:327][489]PIE: Server logged in
+[2024.09.18-11.21.43:327][489]PIE: Play in editor total start time 0.129 seconds.
+[2024.09.18-11.21.43:837][538]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.21.43:837][538]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.21.43:837][538]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.21.43:837][538]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.21.45:883][783]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1495545224] hasTag
+[2024.09.18-11.21.45:883][783]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1495545224] On
+[2024.09.18-11.21.46:059][804]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C1523E90A02_1723278063] hasTag
+[2024.09.18-11.21.46:059][804]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C1523E90A02_1723278063] On
+[2024.09.18-11.21.46:267][829]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.21.46:267][829]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.21.46:267][829]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.21.46:267][829]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk1
+[2024.09.18-11.21.46:267][829]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-11.21.46:267][829]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C1523E90A02_1723278063] Player Sits Down
+[2024.09.18-11.21.46:267][829]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.21.50:257][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.18-11.21.50:257][302]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.09.18-11.21.50:257][302]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.09.18-11.21.50:257][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.18-11.21.50:257][302]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2024.09.18-11.21.50:261][302]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.18-11.21.50:265][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.18-11.21.50:305][302]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.09.18-11.21.50:305][302]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.09.18-11.21.50:307][302]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.09.18-11.21.50:310][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.18-11.21.50:312][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.09.18-11.21.50:653][303]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2024.09.18-11.21.52:864][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.09.18-11.21.54:136][545]LogSlate: Window 'Save Content' being destroyed
+[2024.09.18-11.21.54:147][545]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.18-11.21.54:205][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/JU/LOSNQWL8HCMVOGQVVEW4TE
+[2024.09.18-11.21.54:205][545]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/LOSNQWL8HCMVOGQVVEW4TE48E3306A4A1866B94CB14587CDF76364.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/JU/LOSNQWL8HCMVOGQVVEW4TE.uasset'
+[2024.09.18-11.21.54:210][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/SU/Z6VVBUD3KWSYKBK2ZUU408
+[2024.09.18-11.21.54:211][545]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/Z6VVBUD3KWSYKBK2ZUU408EA2875304B7D2371E9BBDDBEDCA27CAD.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/SU/Z6VVBUD3KWSYKBK2ZUU408.uasset'
+[2024.09.18-11.21.54:217][545]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/XD/0W3R5PH07R5UBV1C8B8OOA
+[2024.09.18-11.21.54:217][545]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/0W3R5PH07R5UBV1C8B8OOAD7154C8441F1A7D8836965AD3AB41831.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/XD/0W3R5PH07R5UBV1C8B8OOA.uasset'
+[2024.09.18-11.21.54:228][545]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 1.73 sec)
+[2024.09.18-11.21.54:234][545]AssetCheck: New page: Asset Save: multiple assets
+[2024.09.18-11.21.54:234][545]LogContentValidation: Display: Validating /Game/Blueprints/BPC_Desk1.BPC_Desk1_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Desk1_C_UAID_F02F741C15231D1D02_1493288223
+[2024.09.18-11.21.54:234][545]LogContentValidation: Display: Validating /Game/Blueprints/BPC_Desk1.BPC_Desk1_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Desk1_C_UAID_F02F741C1523E90A02_1723278063
+[2024.09.18-11.21.54:234][545]LogContentValidation: Display: Validating /Game/Blueprints/BPC_Desk1.BPC_Desk1_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Desk1_C_UAID_F02F741C15231D1D02_1495545224
+[2024.09.18-11.23.09:078][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
