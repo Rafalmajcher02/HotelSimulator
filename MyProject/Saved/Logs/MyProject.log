@@ -1742,3 +1742,1311 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.09.18-11.21.54:234][545]LogContentValidation: Display: Validating /Game/Blueprints/BPC_Desk1.BPC_Desk1_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Desk1_C_UAID_F02F741C1523E90A02_1723278063
 [2024.09.18-11.21.54:234][545]LogContentValidation: Display: Validating /Game/Blueprints/BPC_Desk1.BPC_Desk1_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Desk1_C_UAID_F02F741C15231D1D02_1495545224
 [2024.09.18-11.23.09:078][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.09.18-11.24.58:326][790]LogViewport: Scene viewport resized to 1228x686, mode Windowed.
+[2024.09.18-11.25.32:629][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.09.18-11.25.32:631][ 54]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.043
+[2024.09.18-11.25.32:632][ 54]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_DeskMaster] ([2] browsable assets)...
+[2024.09.18-11.25.32:632][ 54]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_DeskMaster]
+[2024.09.18-11.25.32:632][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DeskMaster" FILE="../../../../../Repos/HotelSimulator/MyProject/Saved/Autosaves/Game/Blueprints/BP_DeskMaster_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.09.18-11.25.32:653][ 54]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_DeskMaster_Auto2
+[2024.09.18-11.25.32:654][ 54]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/BP_DeskMaster_Auto2B25DCD074DA34CB27B23578A298C7B74.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Saved/Autosaves/Game/Blueprints/BP_DeskMaster_Auto2.uasset'
+[2024.09.18-11.25.32:655][ 54]LogFileHelpers: Auto-saving content packages took 0.024
+[2024.09.18-11.29.04:872][855]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.18-11.29.04:933][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DeskMaster" FILE="../../../../../Repos/HotelSimulator/MyProject/Content/Blueprints/BP_DeskMaster.uasset" SILENT=true
+[2024.09.18-11.29.04:941][855]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_DeskMaster
+[2024.09.18-11.29.04:942][855]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/BP_DeskMasterEE8E77694ADC822B5A7039A33F0252CB.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Content/Blueprints/BP_DeskMaster.uasset'
+[2024.09.18-11.29.04:951][855]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 1.81 sec)
+[2024.09.18-11.29.04:957][855]AssetCheck: New page: Asset Save: BP_DeskMaster
+[2024.09.18-11.29.04:957][855]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_DeskMaster.BP_DeskMaster
+[2024.09.18-11.30.06:162][ 79]BlueprintLog: New page: Compile BPC_Desk1
+[2024.09.18-11.30.06:227][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.09.18-11.30.06:705][128]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.18-11.30.06:841][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_Desk1" FILE="../../../../../Repos/HotelSimulator/MyProject/Content/Blueprints/BPC_Desk1.uasset" SILENT=true
+[2024.09.18-11.30.06:904][128]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_Desk1
+[2024.09.18-11.30.06:905][128]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/BPC_Desk1C4CE7B15450B4D90708B51B24CBA0F31.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Content/Blueprints/BPC_Desk1.uasset'
+[2024.09.18-11.30.06:920][128]LogFileHelpers: InternalPromptForCheckoutAndSave took 214 ms (total: 2.02 sec)
+[2024.09.18-11.30.06:926][128]AssetCheck: New page: Asset Save: BPC_Desk1
+[2024.09.18-11.30.06:926][128]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_Desk1.BPC_Desk1
+[2024.09.18-11.30.12:727][802]BlueprintLog: New page: Compile BPC_Desk1
+[2024.09.18-11.30.12:791][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.09.18-11.30.13:306][846]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.18-11.30.13:376][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_Desk1" FILE="../../../../../Repos/HotelSimulator/MyProject/Content/Blueprints/BPC_Desk1.uasset" SILENT=true
+[2024.09.18-11.30.13:399][846]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_Desk1
+[2024.09.18-11.30.13:400][846]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/BPC_Desk1F38F7B00441F1744BD130EAEA3124116.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Content/Blueprints/BPC_Desk1.uasset'
+[2024.09.18-11.30.13:409][846]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 2.12 sec)
+[2024.09.18-11.30.13:414][846]AssetCheck: New page: Asset Save: BPC_Desk1
+[2024.09.18-11.30.13:414][846]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_Desk1.BPC_Desk1
+[2024.09.18-11.32.07:203][314]LogShaderCompilers: Display: ================================================
+[2024.09.18-11.32.07:203][314]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.09.18-11.32.07:203][314]LogShaderCompilers: Display: Total job queries 93, among them cache hits 2 (2.15%)
+[2024.09.18-11.32.07:203][314]LogShaderCompilers: Display: Tracking 88 distinct input hashes that result in 73 distinct outputs (82.95%)
+[2024.09.18-11.32.07:203][314]LogShaderCompilers: Display: RAM used: 0.78 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.09%
+[2024.09.18-11.32.07:203][314]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.09.18-11.32.07:203][314]LogShaderCompilers: Display: Shaders Compiled: 1
+[2024.09.18-11.32.07:203][314]LogShaderCompilers: Display: Jobs assigned 4, completed 1 (25.00%)
+[2024.09.18-11.32.07:203][314]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.09 s
+[2024.09.18-11.32.07:203][314]LogShaderCompilers: Display: Job execution time: average 1.82 s, max 1.82 s
+[2024.09.18-11.32.07:203][314]LogShaderCompilers: Display: Job life time (pending + execution): average 1.91 s, max 1.91
+[2024.09.18-11.32.07:203][314]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.91 s
+[2024.09.18-11.32.07:203][314]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.09.18-11.32.07:203][314]LogShaderCompilers: Display: Average processing rate: 0.52 jobs/sec
+[2024.09.18-11.32.07:203][314]LogShaderCompilers: Display: Total thread time: 0.38 s
+[2024.09.18-11.32.07:203][314]LogShaderCompilers: Display: Total thread preprocess time: 0.03 s
+[2024.09.18-11.32.07:203][314]LogShaderCompilers: Display: Percentage time preprocessing: 8.23%
+[2024.09.18-11.32.07:226][314]LogShaderCompilers: Display: Effective parallelization: 0.20 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.09.18-11.32.07:226][314]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.09.18-11.32.07:226][314]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.38 sec, max 0.38 sec, min 0.38 sec)
+[2024.09.18-11.32.07:226][314]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.09.18-11.32.07:226][314]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.38 sec, max 0.38 sec, min 0.38 sec)
+[2024.09.18-11.32.07:226][314]LogShaderCompilers: Display: ================================================
+[2024.09.18-11.32.31:670][967]BlueprintLog: New page: Compile BPC_Desk1
+[2024.09.18-11.32.31:803][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.09.18-11.32.32:286][  5]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.18-11.32.32:362][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_Desk1" FILE="../../../../../Repos/HotelSimulator/MyProject/Content/Blueprints/BPC_Desk1.uasset" SILENT=true
+[2024.09.18-11.32.32:373][  5]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_Desk1
+[2024.09.18-11.32.32:375][  5]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/BPC_Desk1C3A56A8B491FD8CBF66001B605AF3CE7.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Content/Blueprints/BPC_Desk1.uasset'
+[2024.09.18-11.32.32:383][  5]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 2.22 sec)
+[2024.09.18-11.32.32:391][  5]AssetCheck: New page: Asset Save: BPC_Desk1
+[2024.09.18-11.32.32:391][  5]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_Desk1.BPC_Desk1
+[2024.09.18-11.33.23:723][507]BlueprintLog: New page: Compile BPC_Desk1
+[2024.09.18-11.33.23:808][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.09.18-11.33.24:433][561]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.18-11.33.24:492][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_Desk1" FILE="../../../../../Repos/HotelSimulator/MyProject/Content/Blueprints/BPC_Desk1.uasset" SILENT=true
+[2024.09.18-11.33.24:503][561]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_Desk1
+[2024.09.18-11.33.24:504][561]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/BPC_Desk172E2F3EB412FC0D4DD258BADE7BD42F1.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Content/Blueprints/BPC_Desk1.uasset'
+[2024.09.18-11.33.24:512][561]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 2.30 sec)
+[2024.09.18-11.33.24:518][561]AssetCheck: New page: Asset Save: BPC_Desk1
+[2024.09.18-11.33.24:518][561]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_Desk1.BPC_Desk1
+[2024.09.18-11.35.33:224][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.09.18-11.35.33:231][660]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/XD/0W3R5PH07R5UBV1C8B8OOA_Auto3
+[2024.09.18-11.35.33:231][660]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/0W3R5PH07R5UBV1C8B8OOA_Auto3CAD16F8D46A65C78F22C33B138A94686.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/XD/0W3R5PH07R5UBV1C8B8OOA_Auto3.uasset'
+[2024.09.18-11.35.33:249][660]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/JU/LOSNQWL8HCMVOGQVVEW4TE_Auto3
+[2024.09.18-11.35.33:249][660]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/LOSNQWL8HCMVOGQVVEW4TE_Auto312B9ECA24222B1E65EBF04A423A4AB35.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/JU/LOSNQWL8HCMVOGQVVEW4TE_Auto3.uasset'
+[2024.09.18-11.35.33:265][660]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/SU/Z6VVBUD3KWSYKBK2ZUU408_Auto3
+[2024.09.18-11.35.33:265][660]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/Z6VVBUD3KWSYKBK2ZUU408_Auto301CBD91142A8AF0ACFCB0EB73C0D04DE.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/SU/Z6VVBUD3KWSYKBK2ZUU408_Auto3.uasset'
+[2024.09.18-11.35.33:268][660]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.091
+[2024.09.18-11.35.33:268][660]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.091
+[2024.09.18-11.39.41:139][ 46]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.09.18-11.39.41:227][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.09.18-11.39.41:743][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.18-11.39.41:840][ 99]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.09.18-11.39.41:841][ 99]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/BP_FirstPersonCharacterF128DABD462B589012511597F0801A7C.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.09.18-11.39.41:849][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 2.41 sec)
+[2024.09.18-11.39.41:857][ 99]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.09.18-11.39.41:857][ 99]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.09.18-11.42.12:973][715]BlueprintLog: New page: Compile BP_DeskMaster
+[2024.09.18-11.42.13:056][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.09.18-11.42.13:608][773]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.18-11.42.13:665][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DeskMaster" FILE="../../../../../Repos/HotelSimulator/MyProject/Content/Blueprints/BP_DeskMaster.uasset" SILENT=true
+[2024.09.18-11.42.13:676][773]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_DeskMaster
+[2024.09.18-11.42.13:677][773]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/BP_DeskMasterF19EA02C4686514E144EA6B961D93E64.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Content/Blueprints/BP_DeskMaster.uasset'
+[2024.09.18-11.42.13:684][773]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 2.48 sec)
+[2024.09.18-11.42.13:691][773]AssetCheck: New page: Asset Save: BP_DeskMaster
+[2024.09.18-11.42.13:691][773]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_DeskMaster.BP_DeskMaster
+[2024.09.18-11.44.42:501][127]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.09.18-11.44.42:593][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.09.18-11.44.43:280][196]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.18-11.44.43:365][196]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.09.18-11.44.43:366][196]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/BP_FirstPersonCharacterE6FECCEE45FDA2C7F049D7B03DA92C9E.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.09.18-11.44.43:374][196]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 2.58 sec)
+[2024.09.18-11.44.43:379][196]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.09.18-11.44.43:379][196]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.09.18-11.45.33:623][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.09.18-11.45.33:629][958]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/XD/0W3R5PH07R5UBV1C8B8OOA_Auto4
+[2024.09.18-11.45.33:629][958]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/0W3R5PH07R5UBV1C8B8OOA_Auto4CE285D4646E52EE2509865B6CF632995.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/XD/0W3R5PH07R5UBV1C8B8OOA_Auto4.uasset'
+[2024.09.18-11.45.33:674][958]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/JU/LOSNQWL8HCMVOGQVVEW4TE_Auto4
+[2024.09.18-11.45.33:674][958]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/LOSNQWL8HCMVOGQVVEW4TE_Auto454C2174E46677909C927E1A4C4F92340.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/JU/LOSNQWL8HCMVOGQVVEW4TE_Auto4.uasset'
+[2024.09.18-11.45.33:678][958]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/SU/Z6VVBUD3KWSYKBK2ZUU408_Auto4
+[2024.09.18-11.45.33:678][958]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/Z6VVBUD3KWSYKBK2ZUU408_Auto475C3434B402EB48A8E7C3F9CC9E1B1CB.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/SU/Z6VVBUD3KWSYKBK2ZUU408_Auto4.uasset'
+[2024.09.18-11.45.33:681][958]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.106
+[2024.09.18-11.45.33:681][958]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.106
+[2024.09.18-11.47.35:436][695]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.09.18-11.47.35:437][695]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.09.18-11.47.35:437][695]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.09.18-11.49.24:807][318]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.09.18-11.49.24:897][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.09.18-11.49.25:363][361]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.18-11.49.25:449][361]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.09.18-11.49.25:450][361]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/BP_FirstPersonCharacterACABB82B42DECFA3D292B398306CB3DF.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.09.18-11.49.25:458][361]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 2.67 sec)
+[2024.09.18-11.49.25:464][361]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.09.18-11.49.25:464][361]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.09.18-11.49.26:975][511]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.09.18-11.49.26:984][511]LogContentBundle: [Container: FirstPersonMap] Generating Streaming for 0 Content Bundles.
+[2024.09.18-11.49.26:985][511]LogWorldPartition: Display: GenerateStreaming started...
+[2024.09.18-11.49.26:985][511]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.09.18-11.49.26:985][511]LogWorldPartition: Display: GetPartitionedActors took 6 us (total: 905 us)
+[2024.09.18-11.49.26:985][511]LogWorldPartition: Display: GenerateStreaming took 98 us (total: 2 ms)
+[2024.09.18-11.49.27:077][511]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.09.18-11.49.27:077][511]PIE: New page: PIE session: FirstPersonMap (18 Sep 2024, 13:49:27)
+[2024.09.18-11.49.27:077][511]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.09.18-11.49.27:080][511]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002877s)
+[2024.09.18-11.49.27:080][511]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.002904s)
+[2024.09.18-11.49.27:080][511]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.09.18-11.49.27:081][511]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.09.18-11.49.27:081][511]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.09.18-11.49.27:081][511]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.09.18-11.49.27:081][511]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.09.18-11.49.27:081][511]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2024.09.18-11.49.27:081][511]LogWorldPartition: Display: WorldPartition initialize took 616 us (total: 3.04 sec)
+[2024.09.18-11.49.27:081][511]LogPlayLevel: PIE: World Init took: (0.001464s)
+[2024.09.18-11.49.27:121][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.09.18-11.49.27:124][511]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.09.18-11.49.27:124][511]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.18-11.49.27:124][511]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.18-11.49.27:124][511]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.18-11.49.27:124][511]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.18-11.49.27:124][511]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.09.18-11.49.27:124][511]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.09.18-11.49.27:124][511]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.09.18-11.49.27:124][511]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.18-11.49.27:124][511]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.18-11.49.27:124][511]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.18-11.49.27:124][511]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.18-11.49.27:127][511]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.18-11.49.27:154][511]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2024.09.18-11.49.27:155][511]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.18-11.49.27:155][511]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.18-11.49.27:155][511]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.18-11.49.27:156][511]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.09.18-11.49.27:156][511]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.09.18-11.49.27:157][511]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.09.18-11.49.27:157][511]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.09.18-11.49.27:157][511]LogInit: FAudioDevice initialized.
+[2024.09.18-11.49.27:157][511]LogAudio: Display: Audio Device (ID: 7) registered with world 'FirstPersonMap'.
+[2024.09.18-11.49.27:160][511]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.09.18-11.49.27:161][511]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.09.18-12.49.27
+[2024.09.18-11.49.27:161][511]LogWorld: Bringing up level for play took: 0.000907
+[2024.09.18-11.49.27:164][511]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2024.09.18-11.49.27:165][511]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.338
+[2024.09.18-11.49.27:165][511]PIE: Server logged in
+[2024.09.18-11.49.27:166][511]PIE: Play in editor total start time 0.183 seconds.
+[2024.09.18-11.49.27:651][557]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.49.27:651][557]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.49.27:651][557]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.49.27:651][557]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.49.29:464][773]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1493288223] hasTag
+[2024.09.18-11.49.29:464][773]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1493288223] On
+[2024.09.18-11.49.30:114][851]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.49.30:114][851]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.49.30:114][851]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.49.30:114][851]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk2
+[2024.09.18-11.49.30:114][851]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-11.49.30:138][851]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.49.30:828][934]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1493288223] Exit
+[2024.09.18-11.49.30:828][934]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1493288223] Off
+[2024.09.18-11.49.31:437][  7]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.49.31:437][  7]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.49.31:437][  7]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.49.31:437][  7]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.49.32:344][116]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1493288223] hasTag
+[2024.09.18-11.49.32:345][116]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1493288223] On
+[2024.09.18-11.49.32:355][117]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.49.32:355][117]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.49.32:355][117]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.49.32:355][117]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk2
+[2024.09.18-11.49.32:355][117]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-11.49.32:355][117]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.49.33:411][244]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1493288223] Exit
+[2024.09.18-11.49.33:412][244]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1493288223] Off
+[2024.09.18-11.49.33:703][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.18-11.49.33:703][275]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.09.18-11.49.33:703][275]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.09.18-11.49.33:703][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.18-11.49.33:703][275]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2024.09.18-11.49.33:708][275]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.18-11.49.33:713][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.18-11.49.33:754][275]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.09.18-11.49.33:755][275]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.09.18-11.49.33:756][275]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.09.18-11.49.33:760][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.18-11.49.33:761][275]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.09.18-11.49.33:801][276]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.09.18-11.49.39:045][730]LogViewport: Scene viewport resized to 1228x685, mode Windowed.
+[2024.09.18-11.49.53:807][137]LogSlate: Window 'Color Picker' being destroyed
+[2024.09.18-11.49.54:822][248]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.09.18-11.49.54:915][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.09.18-11.49.55:800][316]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.09.18-11.49.55:810][316]LogContentBundle: [Container: FirstPersonMap] Generating Streaming for 0 Content Bundles.
+[2024.09.18-11.49.55:811][316]LogWorldPartition: Display: GenerateStreaming started...
+[2024.09.18-11.49.55:811][316]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.09.18-11.49.55:811][316]LogWorldPartition: Display: GetPartitionedActors took 5 us (total: 911 us)
+[2024.09.18-11.49.55:811][316]LogWorldPartition: Display: GenerateStreaming took 92 us (total: 2 ms)
+[2024.09.18-11.49.55:813][316]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.09.18-11.49.55:813][316]PIE: New page: PIE session: FirstPersonMap (18 Sep 2024, 13:49:55)
+[2024.09.18-11.49.55:853][316]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.09.18-11.49.55:856][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003121s)
+[2024.09.18-11.49.55:856][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003168s)
+[2024.09.18-11.49.55:856][316]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.09.18-11.49.55:856][316]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.09.18-11.49.55:857][316]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.09.18-11.49.55:857][316]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.09.18-11.49.55:857][316]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.09.18-11.49.55:857][316]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2024.09.18-11.49.55:857][316]LogWorldPartition: Display: WorldPartition initialize took 629 us (total: 3.04 sec)
+[2024.09.18-11.49.55:857][316]LogPlayLevel: PIE: World Init took: (0.001602s)
+[2024.09.18-11.49.55:897][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.09.18-11.49.55:898][316]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.09.18-11.49.55:898][316]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.18-11.49.55:898][316]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.18-11.49.55:898][316]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.18-11.49.55:898][316]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.18-11.49.55:898][316]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.09.18-11.49.55:898][316]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.09.18-11.49.55:898][316]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.09.18-11.49.55:898][316]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.18-11.49.55:899][316]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.18-11.49.55:899][316]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.18-11.49.55:899][316]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.18-11.49.55:902][316]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.18-11.49.55:928][316]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2024.09.18-11.49.55:928][316]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.18-11.49.55:928][316]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.18-11.49.55:928][316]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.18-11.49.55:929][316]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.09.18-11.49.55:929][316]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.09.18-11.49.55:931][316]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.09.18-11.49.55:931][316]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.09.18-11.49.55:931][316]LogInit: FAudioDevice initialized.
+[2024.09.18-11.49.55:931][316]LogAudio: Display: Audio Device (ID: 8) registered with world 'FirstPersonMap'.
+[2024.09.18-11.49.55:934][316]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.09.18-11.49.55:935][316]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.09.18-12.49.55
+[2024.09.18-11.49.55:935][316]LogWorld: Bringing up level for play took: 0.000870
+[2024.09.18-11.49.55:938][316]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2024.09.18-11.49.55:939][316]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.338
+[2024.09.18-11.49.55:939][316]PIE: Server logged in
+[2024.09.18-11.49.55:940][316]PIE: Play in editor total start time 0.13 seconds.
+[2024.09.18-11.49.56:438][364]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.49.56:438][364]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.49.56:438][364]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.49.56:438][364]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.49.58:068][555]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.49.58:069][555]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.49.58:069][555]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.49.58:069][555]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk2
+[2024.09.18-11.49.58:069][555]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-11.49.58:069][555]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C_UAID_F02F741C15231D1D02_1495545224
+[2024.09.18-11.49.58:069][555]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.49.58:167][566]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1493288223] hasTag
+[2024.09.18-11.49.58:167][566]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1493288223] On
+[2024.09.18-11.49.59:627][741]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.49.59:627][741]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.49.59:627][741]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.49.59:627][741]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk2
+[2024.09.18-11.49.59:627][741]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-11.49.59:627][741]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C_UAID_F02F741C15231D1D02_1495545224
+[2024.09.18-11.49.59:627][741]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.50.00:105][798]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.50.00:105][798]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.50.00:105][798]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.50.00:105][798]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk2
+[2024.09.18-11.50.00:105][798]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-11.50.00:105][798]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C_UAID_F02F741C15231D1D02_1495545224
+[2024.09.18-11.50.00:105][798]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.50.00:313][823]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.50.00:313][823]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.50.00:313][823]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.50.00:313][823]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk2
+[2024.09.18-11.50.00:313][823]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-11.50.00:313][823]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C_UAID_F02F741C15231D1D02_1495545224
+[2024.09.18-11.50.00:313][823]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.50.00:505][846]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.50.00:505][846]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.50.00:505][846]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.50.00:505][846]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk2
+[2024.09.18-11.50.00:505][846]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-11.50.00:505][846]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C_UAID_F02F741C15231D1D02_1495545224
+[2024.09.18-11.50.00:505][846]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.50.00:679][867]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.50.00:679][867]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.50.00:679][867]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.50.00:679][867]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk2
+[2024.09.18-11.50.00:680][867]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-11.50.00:680][867]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C_UAID_F02F741C15231D1D02_1495545224
+[2024.09.18-11.50.00:680][867]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.50.01:404][954]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1493288223] Exit
+[2024.09.18-11.50.01:404][954]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1493288223] Off
+[2024.09.18-11.50.01:880][ 11]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C1523E90A02_1723278063] hasTag
+[2024.09.18-11.50.01:880][ 11]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C1523E90A02_1723278063] On
+[2024.09.18-11.50.02:014][ 27]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.50.02:014][ 27]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.50.02:014][ 27]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.50.02:014][ 27]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk1
+[2024.09.18-11.50.02:014][ 27]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-11.50.02:014][ 27]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C_UAID_F02F741C15231D1D02_1495545224
+[2024.09.18-11.50.02:014][ 27]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.50.02:222][ 52]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.50.02:222][ 52]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.50.02:222][ 52]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.50.02:222][ 52]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk1
+[2024.09.18-11.50.02:222][ 52]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-11.50.02:222][ 52]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C_UAID_F02F741C15231D1D02_1495545224
+[2024.09.18-11.50.02:222][ 52]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.50.02:672][106]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C1523E90A02_1723278063] Exit
+[2024.09.18-11.50.02:672][106]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C1523E90A02_1723278063] Off
+[2024.09.18-11.50.02:863][129]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1495545224] hasTag
+[2024.09.18-11.50.02:863][129]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1495545224] On
+[2024.09.18-11.50.02:981][143]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.50.02:981][143]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.50.02:981][143]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.50.02:981][143]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk3
+[2024.09.18-11.50.02:981][143]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-11.50.02:982][143]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C_UAID_F02F741C15231D1D02_1495545224
+[2024.09.18-11.50.02:982][143]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.50.03:166][165]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.50.03:166][165]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.50.03:166][165]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.50.03:166][165]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk3
+[2024.09.18-11.50.03:166][165]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-11.50.03:166][165]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C_UAID_F02F741C15231D1D02_1495545224
+[2024.09.18-11.50.03:166][165]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.50.03:574][214]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1495545224] Exit
+[2024.09.18-11.50.03:574][214]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1495545224] Off
+[2024.09.18-11.50.04:201][289]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.50.04:201][289]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.50.04:201][289]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.50.04:201][289]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.50.05:383][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.18-11.50.05:383][426]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.09.18-11.50.05:383][426]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.09.18-11.50.05:383][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.18-11.50.05:383][426]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2024.09.18-11.50.05:388][426]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.18-11.50.05:394][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.18-11.50.05:433][426]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.09.18-11.50.05:434][426]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.09.18-11.50.05:435][426]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.09.18-11.50.05:438][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.18-11.50.05:440][426]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.09.18-11.50.05:492][427]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.09.18-11.50.17:605][703]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.09.18-11.50.17:698][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.09.18-11.50.18:800][782]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.09.18-11.50.18:809][782]LogContentBundle: [Container: FirstPersonMap] Generating Streaming for 0 Content Bundles.
+[2024.09.18-11.50.18:810][782]LogWorldPartition: Display: GenerateStreaming started...
+[2024.09.18-11.50.18:811][782]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.09.18-11.50.18:811][782]LogWorldPartition: Display: GetPartitionedActors took 5 us (total: 916 us)
+[2024.09.18-11.50.18:811][782]LogWorldPartition: Display: GenerateStreaming took 99 us (total: 2 ms)
+[2024.09.18-11.50.18:814][782]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.09.18-11.50.18:814][782]PIE: New page: PIE session: FirstPersonMap (18 Sep 2024, 13:50:18)
+[2024.09.18-11.50.18:853][782]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.09.18-11.50.18:857][782]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003951s)
+[2024.09.18-11.50.18:857][782]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004034s)
+[2024.09.18-11.50.18:857][782]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.09.18-11.50.18:857][782]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.09.18-11.50.18:858][782]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.09.18-11.50.18:858][782]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.09.18-11.50.18:858][782]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.09.18-11.50.18:858][782]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2024.09.18-11.50.18:858][782]LogWorldPartition: Display: WorldPartition initialize took 797 us (total: 3.05 sec)
+[2024.09.18-11.50.18:858][782]LogPlayLevel: PIE: World Init took: (0.001853s)
+[2024.09.18-11.50.18:904][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.09.18-11.50.18:906][782]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.09.18-11.50.18:906][782]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.18-11.50.18:906][782]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.18-11.50.18:906][782]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.18-11.50.18:906][782]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.18-11.50.18:906][782]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.09.18-11.50.18:906][782]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.09.18-11.50.18:906][782]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.09.18-11.50.18:906][782]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.18-11.50.18:907][782]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.18-11.50.18:907][782]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.18-11.50.18:907][782]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.18-11.50.18:909][782]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.18-11.50.18:935][782]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2024.09.18-11.50.18:935][782]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.18-11.50.18:935][782]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.18-11.50.18:935][782]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.18-11.50.18:937][782]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.09.18-11.50.18:938][782]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.09.18-11.50.18:939][782]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.09.18-11.50.18:939][782]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.09.18-11.50.18:939][782]LogInit: FAudioDevice initialized.
+[2024.09.18-11.50.18:939][782]LogAudio: Display: Audio Device (ID: 9) registered with world 'FirstPersonMap'.
+[2024.09.18-11.50.18:942][782]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.09.18-11.50.18:944][782]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.09.18-12.50.18
+[2024.09.18-11.50.18:944][782]LogWorld: Bringing up level for play took: 0.000982
+[2024.09.18-11.50.18:946][782]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2024.09.18-11.50.18:947][782]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.338
+[2024.09.18-11.50.18:948][782]PIE: Server logged in
+[2024.09.18-11.50.18:949][782]PIE: Play in editor total start time 0.14 seconds.
+[2024.09.18-11.50.19:386][822]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.50.19:386][822]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.50.19:386][822]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.50.19:386][822]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.50.20:986][  8]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.50.20:986][  8]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.50.20:986][  8]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.50.20:986][  8]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk2
+[2024.09.18-11.50.20:986][  8]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-11.50.20:986][  8]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk3
+[2024.09.18-11.50.20:986][  8]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.50.21:036][ 14]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1493288223] hasTag
+[2024.09.18-11.50.21:036][ 14]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1493288223] On
+[2024.09.18-11.50.21:635][ 86]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1493288223] Exit
+[2024.09.18-11.50.21:635][ 86]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1493288223] Off
+[2024.09.18-11.50.22:186][151]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C1523E90A02_1723278063] hasTag
+[2024.09.18-11.50.22:187][151]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C1523E90A02_1723278063] On
+[2024.09.18-11.50.22:213][154]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.50.22:213][154]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.50.22:213][154]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.50.22:213][154]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk1
+[2024.09.18-11.50.22:213][154]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-11.50.22:213][154]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk3
+[2024.09.18-11.50.22:213][154]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.50.22:656][207]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C1523E90A02_1723278063] Exit
+[2024.09.18-11.50.22:656][207]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C1523E90A02_1723278063] Off
+[2024.09.18-11.50.22:969][244]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.50.22:969][244]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.50.22:969][244]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.50.22:969][244]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk3
+[2024.09.18-11.50.22:969][244]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-11.50.22:969][244]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk3
+[2024.09.18-11.50.22:969][244]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.50.22:995][247]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1495545224] hasTag
+[2024.09.18-11.50.22:995][247]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1495545224] On
+[2024.09.18-11.50.23:421][298]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.50.23:421][298]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.50.23:421][298]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.50.23:421][298]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk3
+[2024.09.18-11.50.23:421][298]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-11.50.23:421][298]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk3
+[2024.09.18-11.50.23:421][298]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.50.23:613][321]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.50.23:613][321]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.50.23:613][321]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.50.23:613][321]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk3
+[2024.09.18-11.50.23:613][321]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-11.50.23:613][321]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk3
+[2024.09.18-11.50.23:613][321]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.50.24:320][406]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1495545224] Exit
+[2024.09.18-11.50.24:321][406]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1495545224] Off
+[2024.09.18-11.50.24:429][419]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C1523E90A02_1723278063] hasTag
+[2024.09.18-11.50.24:429][419]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C1523E90A02_1723278063] On
+[2024.09.18-11.50.24:513][429]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.50.24:513][429]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.50.24:513][429]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.50.24:513][429]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.50.24:774][453]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.50.24:774][453]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.50.24:774][453]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.50.24:774][453]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk1
+[2024.09.18-11.50.24:774][453]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-11.50.24:775][453]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk3
+[2024.09.18-11.50.24:775][453]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.50.24:955][474]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.50.24:955][474]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.50.24:955][474]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.50.24:955][474]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk1
+[2024.09.18-11.50.24:955][474]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-11.50.24:955][474]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk3
+[2024.09.18-11.50.24:955][474]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.50.25:146][497]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.50.25:146][497]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.50.25:146][497]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.50.25:146][497]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk1
+[2024.09.18-11.50.25:146][497]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-11.50.25:146][497]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk3
+[2024.09.18-11.50.25:146][497]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.50.25:604][552]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C1523E90A02_1723278063] Exit
+[2024.09.18-11.50.25:604][552]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C1523E90A02_1723278063] Off
+[2024.09.18-11.50.26:088][610]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.50.26:088][610]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.50.26:088][610]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.50.26:088][610]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk2
+[2024.09.18-11.50.26:088][610]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-11.50.26:088][610]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk3
+[2024.09.18-11.50.26:088][610]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.50.26:289][634]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.50.26:289][634]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.50.26:289][634]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.50.26:289][634]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk2
+[2024.09.18-11.50.26:289][634]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-11.50.26:289][634]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk3
+[2024.09.18-11.50.26:289][634]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.50.26:447][653]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.50.26:447][653]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.50.26:447][653]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.50.26:447][653]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk2
+[2024.09.18-11.50.26:447][653]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-11.50.26:447][653]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk3
+[2024.09.18-11.50.26:447][653]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.50.27:630][793]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.50.27:630][793]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.50.27:630][793]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.50.27:630][793]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.50.27:930][829]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.50.27:930][829]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.50.27:930][829]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.50.27:930][829]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk3
+[2024.09.18-11.50.27:930][829]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-11.50.27:930][829]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk3
+[2024.09.18-11.50.27:930][829]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.50.28:104][850]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1495545224] hasTag
+[2024.09.18-11.50.28:104][850]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1495545224] On
+[2024.09.18-11.50.28:173][858]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.50.28:173][858]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.50.28:173][858]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.50.28:173][858]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk3
+[2024.09.18-11.50.28:173][858]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-11.50.28:173][858]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk3
+[2024.09.18-11.50.28:173][858]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.50.28:364][881]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.50.28:364][881]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.50.28:364][881]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.50.28:364][881]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk3
+[2024.09.18-11.50.28:364][881]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-11.50.28:364][881]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk3
+[2024.09.18-11.50.28:364][881]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.50.28:714][923]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1495545224] Exit
+[2024.09.18-11.50.28:714][923]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1495545224] Off
+[2024.09.18-11.50.29:276][990]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.50.29:276][990]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.50.29:276][990]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.50.29:276][990]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk1
+[2024.09.18-11.50.29:276][990]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-11.50.29:276][990]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk3
+[2024.09.18-11.50.29:276][990]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.50.29:448][ 10]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C1523E90A02_1723278063] hasTag
+[2024.09.18-11.50.29:448][ 10]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C1523E90A02_1723278063] On
+[2024.09.18-11.50.29:482][ 14]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.50.29:483][ 14]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.50.29:483][ 14]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.50.29:483][ 14]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk1
+[2024.09.18-11.50.29:483][ 14]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-11.50.29:483][ 14]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk3
+[2024.09.18-11.50.29:483][ 14]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.50.29:683][ 38]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.50.29:683][ 38]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.50.29:683][ 38]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.50.29:683][ 38]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk1
+[2024.09.18-11.50.29:683][ 38]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-11.50.29:683][ 38]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk3
+[2024.09.18-11.50.29:683][ 38]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.50.29:824][ 55]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C1523E90A02_1723278063] Exit
+[2024.09.18-11.50.29:824][ 55]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C1523E90A02_1723278063] Off
+[2024.09.18-11.50.29:875][ 61]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.50.29:875][ 61]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.50.29:875][ 61]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.50.29:875][ 61]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk1
+[2024.09.18-11.50.29:875][ 61]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-11.50.29:875][ 61]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk3
+[2024.09.18-11.50.29:875][ 61]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.50.30:867][180]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.50.30:868][180]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.50.30:868][180]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.50.30:868][180]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk2
+[2024.09.18-11.50.30:868][180]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-11.50.30:868][180]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk3
+[2024.09.18-11.50.30:868][180]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.50.31:068][204]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.50.31:068][204]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.50.31:068][204]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.50.31:068][204]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk2
+[2024.09.18-11.50.31:068][204]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-11.50.31:068][204]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk3
+[2024.09.18-11.50.31:068][204]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.50.31:260][227]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.50.31:260][227]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.50.31:260][227]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.50.31:260][227]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk2
+[2024.09.18-11.50.31:260][227]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-11.50.31:260][227]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk3
+[2024.09.18-11.50.31:260][227]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.50.32:379][360]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.50.32:379][360]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.50.32:379][360]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.50.32:379][360]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.50.32:578][384]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.50.32:579][384]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.50.32:579][384]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.50.32:579][384]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.50.32:795][410]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.50.32:795][410]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.50.32:795][410]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.50.32:795][410]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.50.32:995][434]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.50.32:995][434]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.50.32:995][434]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.50.32:995][434]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.50.33:205][459]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.50.33:205][459]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.50.33:205][459]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.50.33:205][459]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.50.33:405][483]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.50.33:405][483]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.50.33:405][483]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.50.33:405][483]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.50.33:663][514]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.50.33:663][514]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.50.33:663][514]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.50.33:663][514]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.50.33:905][543]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.50.33:905][543]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.50.33:905][543]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.50.33:905][543]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.50.34:130][570]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-11.50.34:130][570]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-11.50.34:130][570]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-11.50.34:130][570]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-11.50.34:553][616]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.18-11.50.34:553][616]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.09.18-11.50.34:553][616]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.09.18-11.50.34:554][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.18-11.50.34:554][616]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2024.09.18-11.50.34:559][616]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.18-11.50.34:564][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.18-11.50.34:609][616]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.09.18-11.50.34:609][616]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.09.18-11.50.34:610][616]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.09.18-11.50.34:614][616]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.18-11.50.34:616][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.09.18-11.50.34:665][617]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.09.18-11.53.45:214][128]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.09.18-11.53.45:304][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.09.18-11.56.22:779][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.09.18-11.56.22:780][384]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.053
+[2024.09.18-11.56.22:781][384]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2024.09.18-11.56.22:781][384]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2024.09.18-11.56.22:815][384]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto5
+[2024.09.18-11.56.22:816][384]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/BP_FirstPersonCharacter_Auto502D9565046FC15FDB2BEEDB98EE07B76.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto5.uasset'
+[2024.09.18-11.56.22:833][384]LogFileHelpers: Auto-saving content packages took 0.053
+[2024.09.18-11.57.02:861][868]LogBlueprint: Warning: [AssetLog] D:\Repos\HotelSimulator\MyProject\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] Could not find a variable named "bHasRifle" in 'BP_FirstPersonCharacter_C'.
+Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Get bHasRifle
+[2024.09.18-11.57.02:916][868]LogBlueprint: Warning: [AssetLog] D:\Repos\HotelSimulator\MyProject\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] Could not find a variable named "bHasRifle" in 'BP_FirstPersonCharacter_C'.
+Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Get bHasRifle
+[2024.09.18-11.57.02:917][868]LogBlueprint: Error: [AssetLog] D:\Repos\HotelSimulator\MyProject\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] The property associated with  Has Rifle  could not be found in '/Game/FirstPersonArms/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C'
+[2024.09.18-11.57.04:463][ 13]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.09.18-11.57.04:475][ 13]LogBlueprint: Warning: [AssetLog] D:\Repos\HotelSimulator\MyProject\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] Could not find a variable named "bHasRifle" in 'BP_FirstPersonCharacter_C'.
+Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Get bHasRifle
+[2024.09.18-11.57.04:486][ 13]LogBlueprint: Warning: [AssetLog] D:\Repos\HotelSimulator\MyProject\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] Could not find a variable named "bHasRifle" in 'BP_FirstPersonCharacter_C'.
+Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Get bHasRifle
+[2024.09.18-11.57.04:500][ 13]LogBlueprint: Error: [AssetLog] D:\Repos\HotelSimulator\MyProject\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] The property associated with  Has Rifle  could not be found in '/Game/FirstPersonArms/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C'
+[2024.09.18-11.57.04:600][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.09.18-11.57.05:032][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.18-11.57.05:137][ 56]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.09.18-11.57.05:138][ 56]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/BP_FirstPersonCharacter2FAB5083466DD01184DCE99AF67BA4CF.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.09.18-11.57.05:146][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 2.79 sec)
+[2024.09.18-11.57.05:153][ 56]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.09.18-11.57.05:153][ 56]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.09.18-11.57.21:614][914]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.09.18-11.57.21:627][914]LogBlueprint: Warning: [AssetLog] D:\Repos\HotelSimulator\MyProject\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] Could not find a variable named "bHasRifle" in 'BP_FirstPersonCharacter_C'.
+Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Get bHasRifle
+[2024.09.18-11.57.21:638][914]LogBlueprint: Warning: [AssetLog] D:\Repos\HotelSimulator\MyProject\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] Could not find a variable named "bHasRifle" in 'BP_FirstPersonCharacter_C'.
+Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Get bHasRifle
+[2024.09.18-11.57.21:652][914]LogBlueprint: Error: [AssetLog] D:\Repos\HotelSimulator\MyProject\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] The property associated with  Has Rifle  could not be found in '/Game/FirstPersonArms/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C'
+[2024.09.18-11.57.21:733][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.09.18-11.57.47:621][818]BlueprintLog: New page: Compile BPC_Desk1
+[2024.09.18-11.57.47:693][818]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.09.18-11.57.48:138][857]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.18-11.57.48:231][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPC_Desk1" FILE="../../../../../Repos/HotelSimulator/MyProject/Content/Blueprints/BPC_Desk1.uasset" SILENT=true
+[2024.09.18-11.57.48:243][857]LogSavePackage: Moving output files for package: /Game/Blueprints/BPC_Desk1
+[2024.09.18-11.57.48:244][857]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/BPC_Desk1547374A9435E9DD66A6710B3D1255E15.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Content/Blueprints/BPC_Desk1.uasset'
+[2024.09.18-11.57.48:251][857]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 2.90 sec)
+[2024.09.18-11.57.48:257][857]AssetCheck: New page: Asset Save: BPC_Desk1
+[2024.09.18-11.57.48:257][857]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPC_Desk1.BPC_Desk1
+[2024.09.18-12.03.35:233][857]LogDerivedDataCache: C:/Users/rafal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.070 and deleted 0 files with total size 0 MiB. Scanned 271 files in 271 folders with total size 6 MiB.
+[2024.09.18-12.06.51:685][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.09.18-12.06.51:691][141]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/XD/0W3R5PH07R5UBV1C8B8OOA_Auto6
+[2024.09.18-12.06.51:691][141]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/0W3R5PH07R5UBV1C8B8OOA_Auto6F224370B45E1BC16D7D444860A145E89.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/XD/0W3R5PH07R5UBV1C8B8OOA_Auto6.uasset'
+[2024.09.18-12.06.51:696][141]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/JU/LOSNQWL8HCMVOGQVVEW4TE_Auto6
+[2024.09.18-12.06.51:696][141]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/LOSNQWL8HCMVOGQVVEW4TE_Auto6D25C8A3440161D488D2177A915BE18CE.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/JU/LOSNQWL8HCMVOGQVVEW4TE_Auto6.uasset'
+[2024.09.18-12.06.51:700][141]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/SU/Z6VVBUD3KWSYKBK2ZUU408_Auto6
+[2024.09.18-12.06.51:700][141]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/Z6VVBUD3KWSYKBK2ZUU408_Auto63D37F88341B555D6E3422BB749A2910D.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/SU/Z6VVBUD3KWSYKBK2ZUU408_Auto6.uasset'
+[2024.09.18-12.06.51:704][141]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.065
+[2024.09.18-12.06.51:704][141]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.065
+[2024.09.18-12.06.51:704][141]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2024.09.18-12.06.51:704][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2024.09.18-12.06.51:936][141]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto6
+[2024.09.18-12.06.51:937][141]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/BP_FirstPersonCharacter_Auto6FEB068984C1FC446A791E096A67DC6A3.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto6.uasset'
+[2024.09.18-12.06.52:012][141]LogFileHelpers: Auto-saving content packages took 0.308
+[2024.09.18-12.08.46:309][318]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.09.18-12.08.46:323][318]LogBlueprint: Warning: [AssetLog] D:\Repos\HotelSimulator\MyProject\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] Could not find a variable named "bHasRifle" in 'BP_FirstPersonCharacter_C'.
+Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Get bHasRifle
+[2024.09.18-12.08.46:334][318]LogBlueprint: Warning: [AssetLog] D:\Repos\HotelSimulator\MyProject\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] Could not find a variable named "bHasRifle" in 'BP_FirstPersonCharacter_C'.
+Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Get bHasRifle
+[2024.09.18-12.08.46:350][318]LogBlueprint: Error: [AssetLog] D:\Repos\HotelSimulator\MyProject\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] The property associated with  Has Rifle  could not be found in '/Game/FirstPersonArms/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C'
+[2024.09.18-12.08.46:458][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.09.18-12.08.47:630][413]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.09.18-12.08.47:639][413]LogContentBundle: [Container: FirstPersonMap] Generating Streaming for 0 Content Bundles.
+[2024.09.18-12.08.47:646][413]LogWorldPartition: Display: GenerateStreaming started...
+[2024.09.18-12.08.47:646][413]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.09.18-12.08.47:646][413]LogWorldPartition: Display: GetPartitionedActors took 6 us (total: 923 us)
+[2024.09.18-12.08.47:646][413]LogWorldPartition: Display: GenerateStreaming took 110 us (total: 2 ms)
+[2024.09.18-12.08.47:648][413]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.09.18-12.08.47:648][413]BlueprintLog: Warning: Blueprint failed to compile:  FirstPerson_AnimBP
+[2024.09.18-12.08.48:906][413]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2024.09.18-12.08.48:929][413]PIE: New page: PIE session: FirstPersonMap (18 Sep 2024, 14:08:48)
+[2024.09.18-12.08.48:949][413]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.09.18-12.08.48:953][413]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003115s)
+[2024.09.18-12.08.48:953][413]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003164s)
+[2024.09.18-12.08.48:953][413]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.09.18-12.08.48:953][413]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.09.18-12.08.48:953][413]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.09.18-12.08.48:953][413]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.09.18-12.08.48:953][413]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.09.18-12.08.48:954][413]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2024.09.18-12.08.48:954][413]LogWorldPartition: Display: WorldPartition initialize took 633 us (total: 3.05 sec)
+[2024.09.18-12.08.48:954][413]LogPlayLevel: PIE: World Init took: (0.001528s)
+[2024.09.18-12.08.49:001][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.09.18-12.08.49:004][413]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.09.18-12.08.49:004][413]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.18-12.08.49:004][413]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.18-12.08.49:004][413]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.18-12.08.49:004][413]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.18-12.08.49:004][413]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.09.18-12.08.49:004][413]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.09.18-12.08.49:004][413]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.09.18-12.08.49:004][413]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.18-12.08.49:005][413]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.18-12.08.49:005][413]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.18-12.08.49:005][413]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.18-12.08.49:007][413]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.18-12.08.49:032][413]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2024.09.18-12.08.49:032][413]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.18-12.08.49:032][413]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.18-12.08.49:032][413]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.18-12.08.49:034][413]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.09.18-12.08.49:034][413]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.09.18-12.08.49:036][413]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.09.18-12.08.49:036][413]LogInit: FAudioDevice initialized.
+[2024.09.18-12.08.49:036][413]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.09.18-12.08.49:036][413]LogAudio: Display: Audio Device (ID: 10) registered with world 'FirstPersonMap'.
+[2024.09.18-12.08.49:039][413]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.09.18-12.08.49:039][413]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.09.18-13.08.49
+[2024.09.18-12.08.49:039][413]LogWorld: Bringing up level for play took: 0.000936
+[2024.09.18-12.08.49:042][413]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2024.09.18-12.08.49:043][413]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.338
+[2024.09.18-12.08.49:044][413]PIE: Server logged in
+[2024.09.18-12.08.49:045][413]PIE: Play in editor total start time 1.405 seconds.
+[2024.09.18-12.08.50:060][521]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-12.08.50:060][521]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-12.08.50:060][521]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-12.08.50:060][521]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-12.08.50:420][561]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.18-12.08.50:420][561]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.09.18-12.08.50:420][561]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.09.18-12.08.50:420][561]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.18-12.08.50:420][561]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2024.09.18-12.08.50:433][561]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.18-12.08.50:438][561]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.18-12.08.50:481][561]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.09.18-12.08.50:481][561]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.09.18-12.08.50:483][561]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.09.18-12.08.50:486][561]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.18-12.08.50:488][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.09.18-12.08.50:545][562]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.09.18-12.08.53:926][904]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.09.18-12.08.53:936][904]LogContentBundle: [Container: FirstPersonMap] Generating Streaming for 0 Content Bundles.
+[2024.09.18-12.08.53:937][904]LogWorldPartition: Display: GenerateStreaming started...
+[2024.09.18-12.08.53:937][904]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.09.18-12.08.53:937][904]LogWorldPartition: Display: GetPartitionedActors took 5 us (total: 928 us)
+[2024.09.18-12.08.53:937][904]LogWorldPartition: Display: GenerateStreaming took 106 us (total: 2 ms)
+[2024.09.18-12.08.53:939][904]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.09.18-12.08.53:939][904]PIE: New page: PIE session: FirstPersonMap (18 Sep 2024, 14:08:53)
+[2024.09.18-12.08.53:970][904]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.09.18-12.08.53:973][904]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003280s)
+[2024.09.18-12.08.53:974][904]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003325s)
+[2024.09.18-12.08.53:974][904]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.09.18-12.08.53:974][904]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.09.18-12.08.53:974][904]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.09.18-12.08.53:974][904]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.09.18-12.08.53:974][904]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.09.18-12.08.53:975][904]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2024.09.18-12.08.53:975][904]LogWorldPartition: Display: WorldPartition initialize took 686 us (total: 3.05 sec)
+[2024.09.18-12.08.53:975][904]LogPlayLevel: PIE: World Init took: (0.001586s)
+[2024.09.18-12.08.54:014][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.09.18-12.08.54:015][904]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.09.18-12.08.54:016][904]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.18-12.08.54:016][904]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.18-12.08.54:016][904]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.18-12.08.54:016][904]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.18-12.08.54:016][904]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.09.18-12.08.54:016][904]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.09.18-12.08.54:016][904]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.09.18-12.08.54:016][904]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.18-12.08.54:016][904]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.18-12.08.54:016][904]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.18-12.08.54:016][904]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.18-12.08.54:018][904]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.18-12.08.54:044][904]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2024.09.18-12.08.54:044][904]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.18-12.08.54:044][904]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.18-12.08.54:044][904]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.18-12.08.54:045][904]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.09.18-12.08.54:045][904]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.09.18-12.08.54:046][904]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.09.18-12.08.54:046][904]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.09.18-12.08.54:046][904]LogInit: FAudioDevice initialized.
+[2024.09.18-12.08.54:046][904]LogAudio: Display: Audio Device (ID: 11) registered with world 'FirstPersonMap'.
+[2024.09.18-12.08.54:049][904]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.09.18-12.08.54:050][904]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.09.18-13.08.54
+[2024.09.18-12.08.54:051][904]LogWorld: Bringing up level for play took: 0.001444
+[2024.09.18-12.08.54:053][904]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2024.09.18-12.08.54:054][904]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.338
+[2024.09.18-12.08.54:054][904]PIE: Server logged in
+[2024.09.18-12.08.54:055][904]PIE: Play in editor total start time 0.12 seconds.
+[2024.09.18-12.08.54:556][952]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-12.08.54:557][952]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-12.08.54:557][952]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-12.08.54:557][952]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-12.08.55:441][ 58]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-12.08.55:441][ 58]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-12.08.55:441][ 58]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-12.08.55:441][ 58]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-12.08.56:525][188]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-12.08.56:525][188]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-12.08.56:525][188]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-12.08.56:525][188]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk2
+[2024.09.18-12.08.56:525][188]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-12.08.56:525][188]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 1 On going
+[2024.09.18-12.08.56:525][188]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 2 On going
+[2024.09.18-12.08.56:525][188]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Found
+[2024.09.18-12.08.56:525][188]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 2 Completed
+[2024.09.18-12.08.56:525][188]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 1 Completed
+[2024.09.18-12.08.56:557][188]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-12.08.58:581][431]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-12.08.58:581][431]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-12.08.58:581][431]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-12.08.58:581][431]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk2
+[2024.09.18-12.08.58:581][431]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-12.08.58:581][431]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 1 On going
+[2024.09.18-12.08.58:581][431]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 2 On going
+[2024.09.18-12.08.58:581][431]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Found
+[2024.09.18-12.08.58:581][431]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 2 Completed
+[2024.09.18-12.08.58:581][431]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 1 Completed
+[2024.09.18-12.08.58:581][431]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-12.08.59:064][489]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1493288223] hasTag
+[2024.09.18-12.08.59:064][489]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1493288223] On
+[2024.09.18-12.08.59:391][528]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-12.08.59:392][528]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-12.08.59:392][528]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-12.08.59:392][528]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk2
+[2024.09.18-12.08.59:392][528]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-12.08.59:392][528]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 1 On going
+[2024.09.18-12.08.59:392][528]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 2 On going
+[2024.09.18-12.08.59:392][528]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Found
+[2024.09.18-12.08.59:392][528]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 2 Completed
+[2024.09.18-12.08.59:392][528]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 1 Completed
+[2024.09.18-12.08.59:392][528]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-12.09.00:520][663]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-12.09.00:520][663]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-12.09.00:520][663]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-12.09.00:520][663]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk2
+[2024.09.18-12.09.00:520][663]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-12.09.00:520][663]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 1 On going
+[2024.09.18-12.09.00:520][663]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 2 On going
+[2024.09.18-12.09.00:520][663]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Found
+[2024.09.18-12.09.00:520][663]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 2 Completed
+[2024.09.18-12.09.00:520][663]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 1 Completed
+[2024.09.18-12.09.00:520][663]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-12.09.01:561][788]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-12.09.01:561][788]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-12.09.01:561][788]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-12.09.01:561][788]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk2
+[2024.09.18-12.09.01:561][788]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-12.09.01:561][788]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 1 On going
+[2024.09.18-12.09.01:561][788]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 2 On going
+[2024.09.18-12.09.01:561][788]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Found
+[2024.09.18-12.09.01:561][788]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 2 Completed
+[2024.09.18-12.09.01:561][788]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 1 Completed
+[2024.09.18-12.09.01:561][788]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-12.09.02:337][881]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-12.09.02:337][881]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-12.09.02:337][881]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-12.09.02:337][881]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk2
+[2024.09.18-12.09.02:337][881]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-12.09.02:337][881]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 1 On going
+[2024.09.18-12.09.02:337][881]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 2 On going
+[2024.09.18-12.09.02:337][881]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Found
+[2024.09.18-12.09.02:337][881]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 2 Completed
+[2024.09.18-12.09.02:337][881]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 1 Completed
+[2024.09.18-12.09.02:337][881]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-12.09.03:261][992]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-12.09.03:261][992]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-12.09.03:261][992]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-12.09.03:261][992]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk2
+[2024.09.18-12.09.03:261][992]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-12.09.03:261][992]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 1 On going
+[2024.09.18-12.09.03:261][992]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 2 On going
+[2024.09.18-12.09.03:261][992]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Found
+[2024.09.18-12.09.03:261][992]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 2 Completed
+[2024.09.18-12.09.03:261][992]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 1 Completed
+[2024.09.18-12.09.03:261][992]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-12.09.03:778][ 54]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-12.09.03:778][ 54]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-12.09.03:778][ 54]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-12.09.03:778][ 54]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk2
+[2024.09.18-12.09.03:778][ 54]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-12.09.03:778][ 54]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 1 On going
+[2024.09.18-12.09.03:778][ 54]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 2 On going
+[2024.09.18-12.09.03:778][ 54]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Found
+[2024.09.18-12.09.03:778][ 54]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 2 Completed
+[2024.09.18-12.09.03:778][ 54]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 1 Completed
+[2024.09.18-12.09.03:778][ 54]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-12.09.04:119][ 95]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-12.09.04:119][ 95]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-12.09.04:119][ 95]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-12.09.04:119][ 95]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk2
+[2024.09.18-12.09.04:119][ 95]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-12.09.04:119][ 95]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 1 On going
+[2024.09.18-12.09.04:119][ 95]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 2 On going
+[2024.09.18-12.09.04:119][ 95]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Found
+[2024.09.18-12.09.04:119][ 95]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 2 Completed
+[2024.09.18-12.09.04:119][ 95]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 1 Completed
+[2024.09.18-12.09.04:119][ 95]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-12.09.05:050][202]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.18-12.09.05:051][202]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.09.18-12.09.05:051][202]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.09.18-12.09.05:051][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.18-12.09.05:051][202]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2024.09.18-12.09.05:064][202]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.18-12.09.05:069][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.18-12.09.05:110][202]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.09.18-12.09.05:111][202]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.09.18-12.09.05:112][202]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.09.18-12.09.05:115][202]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.18-12.09.05:118][202]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.09.18-12.09.05:173][203]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.09.18-12.09.16:859][506]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.09.18-12.09.16:873][506]LogBlueprint: Warning: [AssetLog] D:\Repos\HotelSimulator\MyProject\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] Could not find a variable named "bHasRifle" in 'BP_FirstPersonCharacter_C'.
+Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Get bHasRifle
+[2024.09.18-12.09.16:885][506]LogBlueprint: Warning: [AssetLog] D:\Repos\HotelSimulator\MyProject\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] Could not find a variable named "bHasRifle" in 'BP_FirstPersonCharacter_C'.
+Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Get bHasRifle
+[2024.09.18-12.09.16:899][506]LogBlueprint: Error: [AssetLog] D:\Repos\HotelSimulator\MyProject\Content\FirstPerson\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_DeskMaster  to imply a specific type.
+[2024.09.18-12.09.16:900][506]LogBlueprint: Error: [AssetLog] D:\Repos\HotelSimulator\MyProject\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] The property associated with  Has Rifle  could not be found in '/Game/FirstPersonArms/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C'
+[2024.09.18-12.09.16:903][506]LogBlueprint: Error: [AssetLog] D:\Repos\HotelSimulator\MyProject\Content\FirstPerson\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2024.09.18-12.09.16:997][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.09.18-12.09.25:977][463]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.09.18-12.09.25:989][463]LogBlueprint: Warning: [AssetLog] D:\Repos\HotelSimulator\MyProject\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] Could not find a variable named "bHasRifle" in 'BP_FirstPersonCharacter_C'.
+Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Get bHasRifle
+[2024.09.18-12.09.26:000][463]LogBlueprint: Warning: [AssetLog] D:\Repos\HotelSimulator\MyProject\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] Could not find a variable named "bHasRifle" in 'BP_FirstPersonCharacter_C'.
+Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Get bHasRifle
+[2024.09.18-12.09.26:016][463]LogBlueprint: Error: [AssetLog] D:\Repos\HotelSimulator\MyProject\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] The property associated with  Has Rifle  could not be found in '/Game/FirstPersonArms/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C'
+[2024.09.18-12.09.26:121][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.09.18-12.09.27:204][548]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.09.18-12.09.27:212][548]LogContentBundle: [Container: FirstPersonMap] Generating Streaming for 0 Content Bundles.
+[2024.09.18-12.09.27:214][548]LogWorldPartition: Display: GenerateStreaming started...
+[2024.09.18-12.09.27:214][548]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.09.18-12.09.27:214][548]LogWorldPartition: Display: GetPartitionedActors took 5 us (total: 933 us)
+[2024.09.18-12.09.27:214][548]LogWorldPartition: Display: GenerateStreaming took 94 us (total: 3 ms)
+[2024.09.18-12.09.27:216][548]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.09.18-12.09.27:216][548]BlueprintLog: Warning: Blueprint failed to compile:  FirstPerson_AnimBP
+[2024.09.18-12.09.28:476][548]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2024.09.18-12.09.28:498][548]PIE: New page: PIE session: FirstPersonMap (18 Sep 2024, 14:09:28)
+[2024.09.18-12.09.28:530][548]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.09.18-12.09.28:533][548]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003113s)
+[2024.09.18-12.09.28:533][548]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003156s)
+[2024.09.18-12.09.28:533][548]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.09.18-12.09.28:533][548]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.09.18-12.09.28:534][548]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.09.18-12.09.28:534][548]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.09.18-12.09.28:534][548]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.09.18-12.09.28:535][548]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2024.09.18-12.09.28:535][548]LogWorldPartition: Display: WorldPartition initialize took 717 us (total: 3.05 sec)
+[2024.09.18-12.09.28:535][548]LogPlayLevel: PIE: World Init took: (0.001948s)
+[2024.09.18-12.09.28:578][548]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.09.18-12.09.28:581][548]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.09.18-12.09.28:581][548]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.18-12.09.28:581][548]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.18-12.09.28:581][548]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.18-12.09.28:581][548]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.18-12.09.28:581][548]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.09.18-12.09.28:581][548]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.09.18-12.09.28:581][548]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.09.18-12.09.28:581][548]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.18-12.09.28:581][548]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.18-12.09.28:581][548]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.18-12.09.28:581][548]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.18-12.09.28:584][548]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.18-12.09.28:609][548]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2024.09.18-12.09.28:609][548]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.18-12.09.28:609][548]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.18-12.09.28:609][548]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.18-12.09.28:611][548]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.09.18-12.09.28:611][548]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.09.18-12.09.28:612][548]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.09.18-12.09.28:612][548]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.09.18-12.09.28:612][548]LogInit: FAudioDevice initialized.
+[2024.09.18-12.09.28:612][548]LogAudio: Display: Audio Device (ID: 12) registered with world 'FirstPersonMap'.
+[2024.09.18-12.09.28:615][548]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.09.18-12.09.28:615][548]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.09.18-13.09.28
+[2024.09.18-12.09.28:616][548]LogWorld: Bringing up level for play took: 0.000916
+[2024.09.18-12.09.28:618][548]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2024.09.18-12.09.28:620][548]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.338
+[2024.09.18-12.09.28:620][548]PIE: Server logged in
+[2024.09.18-12.09.28:621][548]PIE: Play in editor total start time 1.409 seconds.
+[2024.09.18-12.09.29:120][594]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-12.09.29:120][594]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-12.09.29:120][594]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-12.09.29:120][594]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-12.09.29:637][656]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-12.09.29:637][656]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-12.09.29:637][656]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-12.09.29:637][656]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-12.09.30:072][708]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-12.09.30:072][708]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-12.09.30:072][708]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-12.09.30:072][708]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-12.09.30:515][761]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-12.09.30:515][761]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-12.09.30:515][761]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-12.09.30:515][761]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk2
+[2024.09.18-12.09.30:515][761]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-12.09.30:515][761]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 1 On going
+[2024.09.18-12.09.30:516][761]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 2 On going
+[2024.09.18-12.09.30:516][761]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Found
+[2024.09.18-12.09.30:516][761]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 2 Completed
+[2024.09.18-12.09.30:516][761]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 1 Completed
+[2024.09.18-12.09.30:516][761]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Desk Selection made
+[2024.09.18-12.09.30:516][761]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1493288223] Player Sits Down
+[2024.09.18-12.09.30:516][761]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Desk Cast  made
+[2024.09.18-12.09.30:516][761]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-12.09.31:677][900]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-12.09.31:677][900]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-12.09.31:677][900]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-12.09.31:677][900]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk2
+[2024.09.18-12.09.31:677][900]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-12.09.31:677][900]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 1 On going
+[2024.09.18-12.09.31:677][900]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 2 On going
+[2024.09.18-12.09.31:677][900]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Found
+[2024.09.18-12.09.31:677][900]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 2 Completed
+[2024.09.18-12.09.31:677][900]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 1 Completed
+[2024.09.18-12.09.31:677][900]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Desk Selection made
+[2024.09.18-12.09.31:677][900]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1493288223] Player Sits Down
+[2024.09.18-12.09.31:677][900]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Desk Cast  made
+[2024.09.18-12.09.31:677][900]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-12.09.33:071][ 67]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-12.09.33:071][ 67]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-12.09.33:071][ 67]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-12.09.33:071][ 67]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-12.09.33:297][ 94]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-12.09.33:297][ 94]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-12.09.33:297][ 94]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-12.09.33:297][ 94]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-12.09.33:462][114]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-12.09.33:462][114]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-12.09.33:462][114]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-12.09.33:462][114]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk2
+[2024.09.18-12.09.33:462][114]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-12.09.33:462][114]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 1 On going
+[2024.09.18-12.09.33:462][114]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 2 On going
+[2024.09.18-12.09.33:462][114]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Found
+[2024.09.18-12.09.33:462][114]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 2 Completed
+[2024.09.18-12.09.33:462][114]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 1 Completed
+[2024.09.18-12.09.33:462][114]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Desk Selection made
+[2024.09.18-12.09.33:462][114]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1493288223] Player Sits Down
+[2024.09.18-12.09.33:462][114]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Desk Cast  made
+[2024.09.18-12.09.33:462][114]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-12.09.33:646][136]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-12.09.33:646][136]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-12.09.33:646][136]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-12.09.33:646][136]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk2
+[2024.09.18-12.09.33:646][136]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-12.09.33:646][136]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 1 On going
+[2024.09.18-12.09.33:646][136]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 2 On going
+[2024.09.18-12.09.33:646][136]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Found
+[2024.09.18-12.09.33:646][136]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 2 Completed
+[2024.09.18-12.09.33:646][136]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 1 Completed
+[2024.09.18-12.09.33:646][136]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Desk Selection made
+[2024.09.18-12.09.33:646][136]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1493288223] Player Sits Down
+[2024.09.18-12.09.33:646][136]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Desk Cast  made
+[2024.09.18-12.09.33:646][136]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-12.09.33:812][156]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-12.09.33:813][156]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-12.09.33:813][156]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-12.09.33:813][156]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk2
+[2024.09.18-12.09.33:813][156]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-12.09.33:813][156]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 1 On going
+[2024.09.18-12.09.33:813][156]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 2 On going
+[2024.09.18-12.09.33:813][156]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Found
+[2024.09.18-12.09.33:813][156]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 2 Completed
+[2024.09.18-12.09.33:813][156]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 1 Completed
+[2024.09.18-12.09.33:813][156]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Desk Selection made
+[2024.09.18-12.09.33:813][156]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1493288223] Player Sits Down
+[2024.09.18-12.09.33:813][156]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Desk Cast  made
+[2024.09.18-12.09.33:813][156]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-12.09.33:979][176]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-12.09.33:979][176]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-12.09.33:979][176]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-12.09.33:979][176]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk2
+[2024.09.18-12.09.33:979][176]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-12.09.33:979][176]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 1 On going
+[2024.09.18-12.09.33:979][176]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 2 On going
+[2024.09.18-12.09.33:979][176]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Found
+[2024.09.18-12.09.33:979][176]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 2 Completed
+[2024.09.18-12.09.33:979][176]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 1 Completed
+[2024.09.18-12.09.33:979][176]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Desk Selection made
+[2024.09.18-12.09.33:979][176]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1493288223] Player Sits Down
+[2024.09.18-12.09.33:979][176]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Desk Cast  made
+[2024.09.18-12.09.33:979][176]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-12.09.34:163][198]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-12.09.34:163][198]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-12.09.34:163][198]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-12.09.34:163][198]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk2
+[2024.09.18-12.09.34:163][198]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-12.09.34:163][198]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 1 On going
+[2024.09.18-12.09.34:163][198]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 2 On going
+[2024.09.18-12.09.34:163][198]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Found
+[2024.09.18-12.09.34:163][198]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 2 Completed
+[2024.09.18-12.09.34:163][198]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 1 Completed
+[2024.09.18-12.09.34:163][198]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Desk Selection made
+[2024.09.18-12.09.34:163][198]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1493288223] Player Sits Down
+[2024.09.18-12.09.34:163][198]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Desk Cast  made
+[2024.09.18-12.09.34:163][198]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-12.09.34:321][217]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-12.09.34:321][217]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-12.09.34:321][217]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-12.09.34:321][217]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk2
+[2024.09.18-12.09.34:321][217]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-12.09.34:321][217]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 1 On going
+[2024.09.18-12.09.34:321][217]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 2 On going
+[2024.09.18-12.09.34:321][217]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Found
+[2024.09.18-12.09.34:321][217]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 2 Completed
+[2024.09.18-12.09.34:321][217]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 1 Completed
+[2024.09.18-12.09.34:321][217]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Desk Selection made
+[2024.09.18-12.09.34:321][217]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1493288223] Player Sits Down
+[2024.09.18-12.09.34:321][217]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Desk Cast  made
+[2024.09.18-12.09.34:321][217]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-12.09.34:479][236]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-12.09.34:480][236]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-12.09.34:480][236]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-12.09.34:480][236]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk2
+[2024.09.18-12.09.34:480][236]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-12.09.34:480][236]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 1 On going
+[2024.09.18-12.09.34:480][236]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 2 On going
+[2024.09.18-12.09.34:480][236]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Found
+[2024.09.18-12.09.34:480][236]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 2 Completed
+[2024.09.18-12.09.34:480][236]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Loop 1 Completed
+[2024.09.18-12.09.34:480][236]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Desk Selection made
+[2024.09.18-12.09.34:480][236]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1493288223] Player Sits Down
+[2024.09.18-12.09.34:480][236]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Desk Cast  made
+[2024.09.18-12.09.34:480][236]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-12.09.34:820][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.18-12.09.34:820][272]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.09.18-12.09.34:820][272]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.09.18-12.09.34:821][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.18-12.09.34:821][272]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2024.09.18-12.09.34:825][272]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.18-12.09.34:830][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.18-12.09.34:871][272]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.09.18-12.09.34:872][272]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.09.18-12.09.34:873][272]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.09.18-12.09.34:876][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.18-12.09.34:879][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.09.18-12.09.34:935][273]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.09.18-12.17.15:224][962]LogSlate: Window 'Color Picker' being destroyed
+[2024.09.18-12.17.25:197][104]LogSlate: Window 'Color Picker' being destroyed
+[2024.09.18-12.17.35:838][210]LogSlate: Window 'Color Picker' being destroyed
+[2024.09.18-12.17.44:544][155]LogSlate: Window 'Color Picker' being destroyed
+[2024.09.18-12.18.07:978][743]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.09.18-12.18.07:990][743]LogBlueprint: Warning: [AssetLog] D:\Repos\HotelSimulator\MyProject\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] Could not find a variable named "bHasRifle" in 'BP_FirstPersonCharacter_C'.
+Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Get bHasRifle
+[2024.09.18-12.18.08:001][743]LogBlueprint: Warning: [AssetLog] D:\Repos\HotelSimulator\MyProject\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] Could not find a variable named "bHasRifle" in 'BP_FirstPersonCharacter_C'.
+Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Get bHasRifle
+[2024.09.18-12.18.08:017][743]LogBlueprint: Error: [AssetLog] D:\Repos\HotelSimulator\MyProject\Content\FirstPersonArms\Animations\FirstPerson_AnimBP.uasset: [Compiler] The property associated with  Has Rifle  could not be found in '/Game/FirstPersonArms/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C'
+[2024.09.18-12.18.08:131][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.09.18-12.18.08:725][801]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.18-12.18.08:845][801]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.09.18-12.18.08:845][801]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/BP_FirstPersonCharacter8546D4FA4D74BA6F36463CA2E7C9DB3A.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.09.18-12.18.08:855][801]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 3.03 sec)
+[2024.09.18-12.18.08:860][801]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.09.18-12.18.08:860][801]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.09.18-12.18.10:118][897]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.09.18-12.18.10:126][897]LogContentBundle: [Container: FirstPersonMap] Generating Streaming for 0 Content Bundles.
+[2024.09.18-12.18.10:129][897]LogWorldPartition: Display: GenerateStreaming started...
+[2024.09.18-12.18.10:129][897]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.09.18-12.18.10:129][897]LogWorldPartition: Display: GetPartitionedActors took 5 us (total: 939 us)
+[2024.09.18-12.18.10:129][897]LogWorldPartition: Display: GenerateStreaming took 96 us (total: 3 ms)
+[2024.09.18-12.18.10:132][897]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.09.18-12.18.10:132][897]BlueprintLog: Warning: Blueprint failed to compile:  FirstPerson_AnimBP
+[2024.09.18-12.18.11:308][897]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2024.09.18-12.18.11:330][897]PIE: New page: PIE session: FirstPersonMap (18 Sep 2024, 14:18:11)
+[2024.09.18-12.18.11:358][897]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.09.18-12.18.11:361][897]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003053s)
+[2024.09.18-12.18.11:361][897]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003096s)
+[2024.09.18-12.18.11:361][897]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.09.18-12.18.11:362][897]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.09.18-12.18.11:362][897]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.09.18-12.18.11:362][897]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.09.18-12.18.11:362][897]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.09.18-12.18.11:363][897]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2024.09.18-12.18.11:363][897]LogWorldPartition: Display: WorldPartition initialize took 627 us (total: 3.05 sec)
+[2024.09.18-12.18.11:363][897]LogPlayLevel: PIE: World Init took: (0.001512s)
+[2024.09.18-12.18.11:409][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.09.18-12.18.11:410][897]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.09.18-12.18.11:411][897]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.18-12.18.11:411][897]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.18-12.18.11:411][897]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.18-12.18.11:411][897]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.18-12.18.11:411][897]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.09.18-12.18.11:411][897]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.09.18-12.18.11:411][897]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.09.18-12.18.11:411][897]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.18-12.18.11:411][897]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.18-12.18.11:411][897]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.18-12.18.11:411][897]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.18-12.18.11:413][897]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.18-12.18.11:441][897]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2024.09.18-12.18.11:441][897]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.18-12.18.11:441][897]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.18-12.18.11:441][897]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.18-12.18.11:442][897]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.09.18-12.18.11:442][897]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.09.18-12.18.11:443][897]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.09.18-12.18.11:443][897]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.09.18-12.18.11:443][897]LogInit: FAudioDevice initialized.
+[2024.09.18-12.18.11:443][897]LogAudio: Display: Audio Device (ID: 13) registered with world 'FirstPersonMap'.
+[2024.09.18-12.18.11:447][897]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.09.18-12.18.11:447][897]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.09.18-13.18.11
+[2024.09.18-12.18.11:447][897]LogWorld: Bringing up level for play took: 0.000872
+[2024.09.18-12.18.11:449][897]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2024.09.18-12.18.11:451][897]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.338
+[2024.09.18-12.18.11:451][897]PIE: Server logged in
+[2024.09.18-12.18.11:452][897]PIE: Play in editor total start time 1.326 seconds.
+[2024.09.18-12.18.12:045][953]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-12.18.12:045][953]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-12.18.12:045][953]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-12.18.12:045][953]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-12.18.13:590][138]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Started IA_Interact
+[2024.09.18-12.18.13:590][138]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Exit Successful
+[2024.09.18-12.18.13:590][138]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Closed
+[2024.09.18-12.18.13:591][138]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Player Trace Line Hit: BPC_Desk2
+[2024.09.18-12.18.13:591][138]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BPC_Desk1_C
+[2024.09.18-12.18.13:591][138]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] FPC -> CTC -> Loop 1 On going
+[2024.09.18-12.18.13:591][138]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] FPC -> CTC -> Loop 2 On going
+[2024.09.18-12.18.13:591][138]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] FPC -> CTC -> Found
+[2024.09.18-12.18.13:591][138]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] FPC -> CTC -> Loop 2 Completed
+[2024.09.18-12.18.13:591][138]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] FPC -> CTC -> Loop 1 Completed
+[2024.09.18-12.18.13:591][138]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] FPC -> CTC -> Desk Selection made
+[2024.09.18-12.18.13:591][138]LogBlueprintUserMessages: [BPC_Desk1_C_UAID_F02F741C15231D1D02_1493288223] Player Sits Down
+[2024.09.18-12.18.13:591][138]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] FPC -> CTC -> Desk Cast  made
+[2024.09.18-12.18.13:591][138]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] BP_FirstPersonCharacter --> IA_Interact --> Gate Opened
+[2024.09.18-12.18.15:009][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.18-12.18.15:009][302]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.09.18-12.18.15:009][302]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.09.18-12.18.15:009][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.18-12.18.15:010][302]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2024.09.18-12.18.15:014][302]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.18-12.18.15:019][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.18-12.18.15:062][302]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.09.18-12.18.15:062][302]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.09.18-12.18.15:063][302]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.09.18-12.18.15:067][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.18-12.18.15:069][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.09.18-12.18.15:125][303]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.09.18-12.18.17:233][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.09.18-12.18.18:306][507]LogSlate: Window 'Save Content' being destroyed
+[2024.09.18-12.18.18:315][507]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.18-12.18.18:380][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/JU/LOSNQWL8HCMVOGQVVEW4TE
+[2024.09.18-12.18.18:380][507]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/LOSNQWL8HCMVOGQVVEW4TE7B07957A4BF0A056EEF89D9E9A450BE0.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/JU/LOSNQWL8HCMVOGQVVEW4TE.uasset'
+[2024.09.18-12.18.18:391][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/SU/Z6VVBUD3KWSYKBK2ZUU408
+[2024.09.18-12.18.18:391][507]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/Z6VVBUD3KWSYKBK2ZUU40855FF4950479682DF9C1E45B656993746.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/SU/Z6VVBUD3KWSYKBK2ZUU408.uasset'
+[2024.09.18-12.18.18:396][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/XD/0W3R5PH07R5UBV1C8B8OOA
+[2024.09.18-12.18.18:397][507]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/MyProject/Saved/0W3R5PH07R5UBV1C8B8OOA2CC1980D4CAA0E53A1D7108D4A8CA4EE.tmp' to '../../../../../Repos/HotelSimulator/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/XD/0W3R5PH07R5UBV1C8B8OOA.uasset'
+[2024.09.18-12.18.18:409][507]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 3.12 sec)
+[2024.09.18-12.18.18:414][507]AssetCheck: New page: Asset Save: multiple assets
+[2024.09.18-12.18.18:414][507]LogContentValidation: Display: Validating /Game/Blueprints/BPC_Desk1.BPC_Desk1_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Desk1_C_UAID_F02F741C15231D1D02_1493288223
+[2024.09.18-12.18.18:414][507]LogContentValidation: Display: Validating /Game/Blueprints/BPC_Desk1.BPC_Desk1_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Desk1_C_UAID_F02F741C1523E90A02_1723278063
+[2024.09.18-12.18.18:414][507]LogContentValidation: Display: Validating /Game/Blueprints/BPC_Desk1.BPC_Desk1_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Desk1_C_UAID_F02F741C15231D1D02_1495545224
