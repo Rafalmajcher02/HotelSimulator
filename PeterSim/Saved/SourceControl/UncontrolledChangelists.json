@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Repos/HotelSimulator/PeterSim/Content/__ExternalActors__/MainHotelMap/3/F5/VA64YMAU4NUO913C04PFZQ.uasset",
+				"D:/Repos/HotelSimulator/PeterSim/Content/__ExternalObjects__/MainHotelMap/A/C2/2K0BK5WCMNV0E0P6OAB4GL.uasset",
+				"D:/Repos/HotelSimulator/PeterSim/Content/__ExternalObjects__/MainHotelMap/7/GI/3I3UBHWLQYZDHBYZT6PWYE.uasset",
+				"D:/Repos/HotelSimulator/PeterSim/Content/__ExternalActors__/MainHotelMap/4/VO/Q742TMFO4BCZQWXL5FXAS1.uasset",
+				"D:/Repos/HotelSimulator/PeterSim/Content/__ExternalActors__/MainHotelMap/1/C1/PIUS8K2RGKFQGLG6BL8NGN.uasset",
+				"D:/Repos/HotelSimulator/PeterSim/Content/__ExternalActors__/MainHotelMap/5/Y1/4KOKZBQSSYKMQQBGXMS8JY.uasset",
+				"D:/Repos/HotelSimulator/PeterSim/Content/__ExternalActors__/MainHotelMap/8/F6/AO95QN2VDVINO05V3VFRT7.uasset",
+				"D:/Repos/HotelSimulator/PeterSim/Content/__ExternalActors__/MainHotelMap/2/ZJ/49AKOIL7I10LDCCP0VRQLA.uasset",
+				"D:/Repos/HotelSimulator/PeterSim/Content/__ExternalActors__/MainHotelMap/0/OG/LZVBHZYL9OWP5ZOBPK8IA3.uasset",
+				"D:/Repos/HotelSimulator/PeterSim/Content/__ExternalActors__/MainHotelMap/C/9G/GAK2JF6BC8JTTL8FVYOY5J.uasset",
+				"D:/Repos/HotelSimulator/PeterSim/Content/__ExternalActors__/MainHotelMap/5/46/909196M4573ZQT300QW8SH.uasset",
+				"D:/Repos/HotelSimulator/PeterSim/Content/__ExternalActors__/MainHotelMap/D/WJ/3W56HRPGQYC95J8VWAB1I7.uasset",
+				"D:/Repos/HotelSimulator/PeterSim/Content/__ExternalActors__/MainHotelMap/2/TY/D6PT6PI45OV5MBVUGGPS37.uasset",
+				"D:/Repos/HotelSimulator/PeterSim/Content/__ExternalActors__/MainHotelMap/B/2S/SWZ2KAMQJKXZKU76QMELPS.uasset",
+				"D:/Repos/HotelSimulator/PeterSim/Content/__ExternalActors__/MainHotelMap/1/7Q/OB7YW2XOH751MK72X36WCC.uasset",
+				"D:/Repos/HotelSimulator/PeterSim/Content/__ExternalActors__/MainHotelMap/7/KJ/O9P0MU6BAKM60SUSJHNZ1B.uasset",
+				"D:/Repos/HotelSimulator/PeterSim/Content/__ExternalActors__/MainHotelMap/4/XG/KITKHINJXBFIKP1GCUB4UO.uasset",
+				"D:/Repos/HotelSimulator/PeterSim/Content/MainHotelMap.umap",
+				"D:/Repos/HotelSimulator/PeterSim/Content/FirstPersonMap.umap"
+			]
+		}
+	]
+}
