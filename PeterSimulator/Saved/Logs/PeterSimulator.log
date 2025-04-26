@@ -877,3 +877,216 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.04.26-14.12.20:494][  0]LogMaterial: Display: Missing cached shadermap for DefaultDeferredDecalMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: 017975E0332039894602B3F81B0C93EA1ADA58F9), compiling. 
 [2025.04.26-14.12.20:749][  0]LogMaterial: Display: Missing cached shadermap for DefaultLightFunctionMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: 7278229B3DF015FB6573AB1CC20A336CB9CA443E), compiling. 
 [2025.04.26-14.13.45:598][  0]LogDerivedDataCache: C:/Users/rafal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:08.363 and deleted 2 files with total size 0 MiB. Scanned 4446 files in 4423 folders with total size 330 MiB.
+[2025.04.26-14.16.25:759][  0]LogMaterial: Display: Missing cached shadermap for DefaultPostProcessMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: AE529176DAD5F3C6957AF7B9B1AF1BD08BA06B14), compiling. 
+[2025.04.26-14.16.25:816][  0]LogTurnkeySupport: Turnkey Device: Win64@HUSKYCOMP23: (Name=HUSKYCOMP23, Type=Computer, Status=Valid, , Flags="Device_InstallSoftwareValid")
+[2025.04.26-14.16.27:582][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2025.04.26-14.16.27:582][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2025.04.26-14.16.27:582][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2025.04.26-14.16.27:582][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2025.04.26-14.16.27:582][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2025.04.26-14.16.31:901][  0]LogNetVersion: PeterSimulator 1.0.0, NetCL: 23058290, EngineNetVer: 30, GameNetVer: 0 (Checksum: 2392779939)
+[2025.04.26-14.16.38:325][  0]LogUObjectArray: 20936 objects as part of root set at end of initial load.
+[2025.04.26-14.16.38:325][  0]LogUObjectAllocator: 5786176 out of 0 bytes used by permanent object pool.
+[2025.04.26-14.16.38:329][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2025.04.26-14.16.38:938][  0]LogSlate: Border
+[2025.04.26-14.16.38:938][  0]LogSlate: BreadcrumbButton
+[2025.04.26-14.16.38:938][  0]LogSlate: Brushes.Title
+[2025.04.26-14.16.38:938][  0]LogSlate: Default
+[2025.04.26-14.16.38:938][  0]LogSlate: Icons.Save
+[2025.04.26-14.16.38:938][  0]LogSlate: Icons.Toolbar.Settings
+[2025.04.26-14.16.38:938][  0]LogSlate: ListView
+[2025.04.26-14.16.38:938][  0]LogSlate: SoftwareCursor_CardinalCross
+[2025.04.26-14.16.38:938][  0]LogSlate: SoftwareCursor_Grab
+[2025.04.26-14.16.38:938][  0]LogSlate: TableView.DarkRow
+[2025.04.26-14.16.38:938][  0]LogSlate: TableView.Row
+[2025.04.26-14.16.38:939][  0]LogSlate: TreeView
+[2025.04.26-14.16.49:226][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2025.04.26-14.16.49:297][  0]LogMetasoundEngine: MetaSound Engine Initialized
+[2025.04.26-14.16.50:850][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 653B0D404DE7320E5611958B1A6648DD | Instance: 340F8E4D417B7140F4F6DDA7673AC88A (HUSKYCOMP23-36156).
+[2025.04.26-14.16.53:521][  0]LogPython: Using Python 3.9.7
+[2025.04.26-14.16.55:239][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2025.04.26-14.16.55:270][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2025.04.26-14.16.55:286][  0]LogUdpMessaging: Display: Added local interface '192.168.13.76' to multicast group '230.0.0.1:6666'
+[2025.04.26-14.16.55:286][  0]LogUdpMessaging: Display: Added local interface '192.168.1.193' to multicast group '230.0.0.1:6666'
+[2025.04.26-14.17.00:401][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2025.04.26-14.17.00:510][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.04.26-14.17.00:510][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.04.26-14.17.01:256][  0]SourceControl: Source control is disabled
+[2025.04.26-14.17.01:345][  0]SourceControl: Source control is disabled
+[2025.04.26-14.17.01:430][  0]SourceControl: Source control is disabled
+[2025.04.26-14.17.01:498][  0]LogUProjectInfo: Found projects:
+[2025.04.26-14.17.01:519][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2025.04.26-14.17.01:520][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2025.04.26-14.17.01:520][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2025.04.26-14.17.04:055][  0]LogOpenImageDenoise: OIDN starting up
+[2025.04.26-14.17.04:551][  0]LogCollectionManager: Loaded 0 collections in 0.001129 seconds
+[2025.04.26-14.17.04:564][  0]LogFileCache: Scanning file cache for directory 'D:/Repos/HotelSimulator/PeterSimulator/Saved/Collections/' took 0.00s
+[2025.04.26-14.17.04:566][  0]LogFileCache: Scanning file cache for directory 'D:/Repos/HotelSimulator/PeterSimulator/Content/Developers/rafal/Collections/' took 0.00s
+[2025.04.26-14.17.04:567][  0]LogFileCache: Scanning file cache for directory 'D:/Repos/HotelSimulator/PeterSimulator/Content/Collections/' took 0.00s
+[2025.04.26-14.17.09:199][  0]LogAutomationTest: Warning: Smoke tests took >2s to run (2.23s). 'FAutomationTestAttemptToFindUninitializedScriptStructMembers' took 1943ms. SmokeFilter tier tests should take less than 1ms. Please optimize or move 'FAutomationTestAttemptToFindUninitializedScriptStructMembers' to a slower tier than SmokeFilter.
+[2025.04.26-14.17.09:384][  0]LogEngine: Initializing Engine...
+[2025.04.26-14.17.09:601][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2025.04.26-14.17.09:730][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.024 s
+[2025.04.26-14.17.09:739][  0]LogMaterial: Display: Missing cached shadermap for WireframeMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: 8926245CA3165D43D603BDF4F4E6973561F8A3E5), compiling. Is special engine material.
+[2025.04.26-14.17.09:770][  0]LogMaterial: Display: Missing cached shadermap for LevelColorationLitMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: 7DDC8655DBE05F0390A1AEF0640DB4B4AC72E4B4), compiling. Is special engine material.
+[2025.04.26-14.17.09:775][  0]LogMaterial: Display: Missing cached shadermap for LevelColorationUnlitMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: 73494A7DB84770E310F3ED8D4B9AF22AD17465ED), compiling. Is special engine material.
+[2025.04.26-14.17.09:865][  0]LogMaterial: Display: Missing cached shadermap for MAT_LevelColorationLitLightmapUV in PCD3D_SM6, Default, SM6 (DDC key hash: 064EC68D5BD8117F6D744CD7CAABC1D1A8A23750), compiling. Is special engine material.
+[2025.04.26-14.17.09:908][  0]LogMaterial: Display: Missing cached shadermap for ShadedLevelColorationLitMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: D120C1EA2A607B527DC78DAB4AD9EF1CC3406338), compiling. Is special engine material.
+[2025.04.26-14.17.09:912][  0]LogMaterial: Display: Missing cached shadermap for ShadedLevelColorationUnlitMateri in PCD3D_SM6, Default, SM6 (DDC key hash: 6C58EB20AF8F835877F3C270520754245EB965D4), compiling. Is special engine material.
+[2025.04.26-14.17.10:914][  0]LogInit: Initializing FReadOnlyCVARCache
+[2025.04.26-14.17.11:308][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.26-14.17.11:841][  0]LogAIModule: Creating AISystem for world Untitled
+[2025.04.26-14.17.11:947][  0]LogNetVersion: Set ProjectVersion to 0.1.0 Early Access. Version Checksum will be recalculated on next use.
+[2025.04.26-14.17.11:947][  0]LogInit: Texture streaming: Enabled
+[2025.04.26-14.17.12:150][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.1.0-23058290+++UE5+Release-5.1
+[2025.04.26-14.17.12:239][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2025.04.26-14.17.12:345][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2025.04.26-14.17.12:354][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2025.04.26-14.17.12:356][  0]LogAudio: Display: AudioInfo: 'BINKA' Registered
+[2025.04.26-14.17.12:358][  0]LogAudio: Display: AudioInfo: 'PCM' Registered
+[2025.04.26-14.17.12:358][  0]LogAudio: Display: AudioInfo: 'ADPCM' Registered
+[2025.04.26-14.17.12:358][  0]LogAudio: Display: AudioInfo: 'OGG' Registered
+[2025.04.26-14.17.12:358][  0]LogAudio: Display: AudioInfo: 'OPUS' Registered
+[2025.04.26-14.17.12:369][  0]LogAudio: Display: Audio Device Manager Initialized
+[2025.04.26-14.17.12:369][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2025.04.26-14.17.12:372][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.26-14.17.12:372][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.26-14.17.12:372][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.26-14.17.12:372][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.26-14.17.12:372][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.26-14.17.12:372][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.04.26-14.17.12:372][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.26-14.17.12:372][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.26-14.17.12:389][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.26-14.17.12:389][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.26-14.17.12:389][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.26-14.17.12:428][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.26-14.17.12:467][  0]LogAudioMixer: Display: Using Audio Hardware Device T27B551 (NVIDIA High Definition Audio)
+[2025.04.26-14.17.12:490][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.26-14.17.12:627][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.26-14.17.12:627][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.26-14.17.12:648][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.04.26-14.17.12:665][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.04.26-14.17.12:667][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.04.26-14.17.12:667][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2025.04.26-14.17.12:667][  0]LogInit: FAudioDevice initialized.
+[2025.04.26-14.17.12:695][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.26-14.17.12:704][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2025.04.26-14.17.12:863][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2025.04.26-14.17.12:883][  0]LogLiveCoding: Display: Starting LiveCoding
+[2025.04.26-14.17.12:883][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2025.04.26-14.17.12:885][  0]LogLiveCoding: Display: First instance in process group "UE_PeterSimulator_0x61d44634", spawning console
+[2025.04.26-14.17.13:467][  0]LogLiveCoding: Display: Waiting for server
+[2025.04.26-14.17.17:886][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2025.04.26-14.17.18:196][  0]LogInit: Transaction tracking system initialized
+[2025.04.26-14.17.18:470][  0]LogSourceControl: Display: Uncontrolled Changelist persistency file loaded ../../../../../Repos/HotelSimulator/PeterSimulator/Saved/SourceControl/UncontrolledChangelists.json
+[2025.04.26-14.17.18:470][  0]LogSourceControl: Uncontrolled asset enumeration started...
+[2025.04.26-14.17.18:472][  0]LogSourceControl: Uncontrolled asset enumeration finished in 0.002134 seconds (Found 115 uncontrolled assets)
+[2025.04.26-14.17.18:946][  0]BlueprintLog: New page: Editor Load
+[2025.04.26-14.17.20:597][  0]LocalizationService: Localization service is disabled
+[2025.04.26-14.17.20:951][  0]TimingProfiler: Initialize
+[2025.04.26-14.17.20:952][  0]TimingProfiler: OnSessionChanged
+[2025.04.26-14.17.20:954][  0]LoadingProfiler: Initialize
+[2025.04.26-14.17.20:963][  0]LoadingProfiler: OnSessionChanged
+[2025.04.26-14.17.20:968][  0]NetworkingProfiler: Initialize
+[2025.04.26-14.17.20:977][  0]NetworkingProfiler: OnSessionChanged
+[2025.04.26-14.17.20:977][  0]MemoryProfiler: Initialize
+[2025.04.26-14.17.20:978][  0]MemoryProfiler: OnSessionChanged
+[2025.04.26-14.17.22:108][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2025.04.26-14.17.22:109][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2025.04.26-14.17.22:109][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2025.04.26-14.17.24:341][  0]LogFileCache: Scanning file cache for directory 'D:/Repos/HotelSimulator/PeterSimulator/Content/' took 0.02s
+[2025.04.26-14.17.28:401][  0]LogEditorDomain: Display: Class /Script/AnimationData.AnimationSequencerDataModel is imported by a package but does not exist in memory. EditorDomain keys for packages using it will be invalid if it still exists.
+	To clear this message, resave packages that use the deleted class, or load its module earlier than the packages that use it are referenced.
+[2025.04.26-14.17.31:307][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2025.04.26-14.17.31:638][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2025.04.26-14.17.31:818][  0]SourceControl: Source control is disabled
+[2025.04.26-14.17.31:835][  0]LogUnrealEdMisc: Loading editor; pre map load, took 386.184
+[2025.04.26-14.17.31:874][  0]Cmd: MAP LOAD FILE="../../../../../Repos/HotelSimulator/PeterSimulator/Content/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.04.26-14.17.31:885][  0]LightingResults: New page: Lighting Build
+[2025.04.26-14.17.32:052][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.04.26-14.17.32:087][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.26-14.17.32:252][  0]MapCheck: New page: Map Check
+[2025.04.26-14.17.32:252][  0]LightingResults: New page: Lighting Build
+[2025.04.26-14.17.32:717][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.26-14.17.33:052][  0]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2025.04.26-14.17.35:941][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2025.04.26-14.17.35:942][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.26-14.17.35:943][  0]LogAIModule: Creating AISystem for world FirstPersonMap
+[2025.04.26-14.17.36:031][  0]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2025.04.26-14.17.36:084][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.04.26-14.17.36:084][  0]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2025.04.26-14.17.41:499][  0]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2025.04.26-14.17.41:499][  0]LogWorldPartition: Display: WorldPartition initialize took 5.46 sec
+[2025.04.26-14.17.42:166][  0]PIE: Warning: AttachTo: '/Game/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Desk1_C_UAID_F02F741C15230B1E02_1380271112.DefaultSceneRoot' is not static  (in blueprint "BPC_Desk1"), cannot attach '/Game/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Desk1_C_UAID_F02F741C15230B1E02_1380271112.NoteBook' which is static to it. Aborting.
+[2025.04.26-14.17.42:166][  0]PIE: Warning: AttachTo: '/Game/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Desk1_C_UAID_F02F741C15230B1E02_1380271112.DefaultSceneRoot' is not static  (in blueprint "BPC_Desk1"), cannot attach '/Game/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Desk1_C_UAID_F02F741C15230B1E02_1380271112.Pen' which is static to it. Aborting.
+[2025.04.26-14.17.42:166][  0]PIE: Warning: AttachTo: '/Game/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Desk1_C_UAID_F02F741C15230B1E02_1380271112.DefaultSceneRoot' is not static  (in blueprint "BPC_Desk1"), cannot attach '/Game/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Desk1_C_UAID_F02F741C15230B1E02_1380271112.Lamp' which is static to it. Aborting.
+[2025.04.26-14.17.42:166][  0]PIE: Warning: AttachTo: '/Game/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Desk1_C_UAID_F02F741C15230B1E02_1380271112.DefaultSceneRoot' is not static  (in blueprint "BPC_Desk1"), cannot attach '/Game/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Desk1_C_UAID_F02F741C15230B1E02_1380271112.Laptop' which is static to it. Aborting.
+[2025.04.26-14.17.42:313][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.04.26-14.17.43:338][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.04.26-14.17.43:419][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.04.26-14.17.43:519][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 100.204ms to complete.
+[2025.04.26-14.17.43:538][  0]LogFileHelpers: Loading map 'FirstPersonMap' took 11.664
+[2025.04.26-14.17.44:722][  0]LogUnrealEdMisc: Total Editor Startup Time, took 399.069
+[2025.04.26-14.17.44:744][  0]LogShaderCompilers: Display: ================================================
+[2025.04.26-14.17.44:752][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.26-14.17.44:752][  0]LogShaderCompilers: Display: Total job queries 3552, among them cache hits 0 (0.00%)
+[2025.04.26-14.17.44:752][  0]LogShaderCompilers: Display: Tracking 3552 distinct input hashes that result in 2528 distinct outputs (71.17%)
+[2025.04.26-14.17.44:752][  0]LogShaderCompilers: Display: RAM used: 24.47 MB (0.02 GB) of 819.20 MB (0.80 GB) budget. Usage: 2.99%
+[2025.04.26-14.17.44:752][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.26-14.17.44:752][  0]LogShaderCompilers: Display: Shaders Compiled: 3552
+[2025.04.26-14.17.44:752][  0]LogShaderCompilers: Display: Jobs assigned 3552, completed 3552 (100.00%)
+[2025.04.26-14.17.44:752][  0]LogShaderCompilers: Display: Average time worker was idle: 1.71 s
+[2025.04.26-14.17.44:752][  0]LogShaderCompilers: Display: Time job spent in pending queue: average 120.34 s, longest 268.97 s
+[2025.04.26-14.17.44:752][  0]LogShaderCompilers: Display: Job execution time: average 5.92 s, max 30.97 s
+[2025.04.26-14.17.44:752][  0]LogShaderCompilers: Display: Job life time (pending + execution): average 126.26 s, max 272.51
+[2025.04.26-14.17.44:752][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 275.44 s
+[2025.04.26-14.17.44:816][  0]LogShaderCompilers: Display: Jobs were issued in 382 batches (only local compilation was used), average 9.30 jobs/batch
+[2025.04.26-14.17.44:816][  0]LogShaderCompilers: Display: Average processing rate: 12.90 jobs/sec
+[2025.04.26-14.17.44:816][  0]LogShaderCompilers: Display: Total thread time: 2078.19 s
+[2025.04.26-14.17.44:816][  0]LogShaderCompilers: Display: Total thread preprocess time: 116.25 s
+[2025.04.26-14.17.44:816][  0]LogShaderCompilers: Display: Percentage time preprocessing: 5.59%
+[2025.04.26-14.17.44:816][  0]LogShaderCompilers: Display: Effective parallelization: 7.54 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.04.26-14.17.44:816][  0]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.26-14.17.44:816][  0]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 6.64 sec, max 10.33 sec, min 2.72 sec)
+[2025.04.26-14.17.44:816][  0]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 6.38 sec, max 7.36 sec, min 4.64 sec)
+[2025.04.26-14.17.44:816][  0]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 2.18 sec, max 4.19 sec, min 1.30 sec)
+[2025.04.26-14.17.44:816][  0]LogShaderCompilers: Display:                                             FDeferredLightPS (compiled  150 times, average 2.06 sec, max 3.18 sec, min 1.53 sec)
+[2025.04.26-14.17.44:816][  0]LogShaderCompilers: Display:                                    FShadingFurnaceTestPassPS (compiled    1 times, average 1.75 sec, max 1.75 sec, min 1.75 sec)
+[2025.04.26-14.17.44:816][  0]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.26-14.17.44:816][  0]LogShaderCompilers: Display:                                             FDeferredLightPS - 14.89% of total time (compiled  150 times, average 2.06 sec, max 3.18 sec, min 1.53 sec)
+[2025.04.26-14.17.44:816][  0]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.07% of total time (compiled  128 times, average 0.66 sec, max 1.63 sec, min 0.38 sec)
+[2025.04.26-14.17.44:816][  0]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 3.70% of total time (compiled  128 times, average 0.60 sec, max 0.88 sec, min 0.46 sec)
+[2025.04.26-14.17.44:816][  0]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 3.69% of total time (compiled   96 times, average 0.80 sec, max 1.29 sec, min 0.33 sec)
+[2025.04.26-14.17.44:816][  0]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 3.64% of total time (compiled  128 times, average 0.59 sec, max 0.86 sec, min 0.46 sec)
+[2025.04.26-14.17.44:816][  0]LogShaderCompilers: Display: ================================================
+[2025.04.26-14.17.45:296][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2025.04.26-14.17.45:296][  0]LogSlate: The tab "LevelEditorToolBar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2025.04.26-14.17.45:494][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.26-14.17.45:548][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.26-14.17.45:552][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.26-14.17.45:557][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.26-14.17.46:203][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic/UE_5.1/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2025.04.26-14.17.46:234][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic/UE_5.1/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2025.04.26-14.17.46:253][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic/UE_5.1/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2025.04.26-14.17.46:276][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic/UE_5.1/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2025.04.26-14.17.46:301][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic/UE_5.1/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2025.04.26-14.17.46:319][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic/UE_5.1/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2025.04.26-14.17.46:335][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic/UE_5.1/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2025.04.26-14.17.46:347][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic/UE_5.1/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2025.04.26-14.17.46:368][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic/UE_5.1/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2025.04.26-14.17.46:416][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic/UE_5.1/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2025.04.26-14.17.48:751][  0]LogSlate: Took 0.014913 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.04.26-14.17.48:791][  0]LogSlate: Took 0.031653 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.04.26-14.17.48:837][  0]LogSlate: Took 0.020178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.04.26-14.17.48:862][  0]LogSlate: Took 0.012965 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.04.26-14.17.48:997][  0]LogViewport: Scene viewport resized to 1225x489, mode Windowed.
+[2025.04.26-14.17.49:564][  0]LogSlate: Took 0.041050 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.04.26-14.17.51:099][  0]LogStall: Startup...
+[2025.04.26-14.17.51:102][  0]LogStall: Startup complete.
+[2025.04.26-14.17.51:276][  0]LogLoad: (Engine Initialization) Total time: 405.60 seconds
+[2025.04.26-14.17.51:276][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2025.04.26-14.17.51:602][  0]LogAssetRegistry: Asset discovery search completed in 358.0148 seconds
+[2025.04.26-14.17.51:752][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2025.04.26-14.17.52:060][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2025.04.26-14.19.14:129][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
