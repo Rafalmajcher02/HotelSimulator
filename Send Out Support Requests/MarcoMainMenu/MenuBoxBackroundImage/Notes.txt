@@ -1,0 +1,7 @@
+As this is mainly just a background the exact resolution and size doesn't matter too much.
+At the current moment it is set to be 15cm by 10cm (yes I know . It's not pixels ) 
+
+The feeling is that the current configuration is too wide in the menu when playing the game and will likely be slimmed to 15cm by 7cm 
+
+This background does not include logo, buttons, or any interactive items as of now. There is a floating idea to add door animation but that is a future plan and modifications 
+For now this is just a still image

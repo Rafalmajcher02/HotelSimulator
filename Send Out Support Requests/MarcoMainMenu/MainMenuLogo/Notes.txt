@@ -1,0 +1,19 @@
+Todo:
+- Color variations
+	Requested:
+		- Blue/White/Gold (After Alfa Leisureplex https://www.alfaleisureplex.co.uk)
+		- Dark Blue/Navy Blue/Purple side (After Premier Inn but more blue https://www.premierinn.com/gb/en/home.html)
+		- Dark Green/Light Green/Lime Green (After Holiday Inn Hotels but lighter https://www.ihg.com/holidayinn/hotels/gb/en/reservation)
+		- Black and White/Gray/Simple (After Hilton Hotels but with our existing details https://www.hilton.com/en/?WT.mc_id=zINDA0EMEA1MB2PSH3GGL4INTCRB5dkt6MULTIBR7_121127646_1003528_p66626553867&ads_rl=7695469998&=&=&=&gclsrc=aw.ds&gad_source=1)
+
+- Resolution and Size finalization
+	- We shall resize to 1.3 Aspect Ratio (Or simply said for every pixel height, 1.3 pixels wide. If it's 500 high, it'll be 650 wide)
+	- Current 1920x1080 UE5 size is 500x650. Remember that larger if this is the resolution you settle on, people with wide and larger monitors will start loosing on details. But if you go too high, the quality might be too big meaning more work and larger file sizes. Personally I think 500x650 is best fit at the moment unless we make a 4K game, but you are free to adjust the resolution as long as the width is exactly x1.30 of height otherwise the logo will look stretched. 
+
+- Outline
+	- The outline must be included within the requested resolution and size if it'll remain. 
+	- Outline is not required but it was in the concept art and it influenced Nokta's original decision when choosing the logo
+	- Use your own judgement to the logo outline
+
+Note: This specific logo variant is main menu only at the moment. In near future you might receive requests for same logo being redone in different sizes and resolutions, however the current size and resolution settings are made to make the logo as reusable as possible. 
+
