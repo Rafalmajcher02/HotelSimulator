@@ -1,0 +1,11 @@
+Audio
+Common Audio File Prefixes:
+SFX_: Sound Effects (e.g., SFX_Explosion, SFX_Footsteps)
+VO_: Voice-Over (e.g., VO_HeroLine01, VO_VillainLaugh)
+MUS_: Music (e.g., MUS_BattleTheme, MUS_AmbientTrack)
+AMB_: Ambient Sounds (e.g., AMB_ForestWind, AMB_CrowdNoise)
+UI_: UI Sounds (e.g., UI_Click, UI_Hover)
+ENV_: Environmental Sounds (e.g., ENV_Rain, ENV_Thunder)
+FOLEY_: Foley Sounds (e.g., FOLEY_ClothRustle, FOLEY_FootstepGravel)
+ST_: Stingers (e.g., ST_LevelComplete, ST_FailSound)
+DIA_: Dialogue (e.g., DIA_NPC01, DIA_QuestGiver)

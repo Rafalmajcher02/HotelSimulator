@@ -1,0 +1,22 @@
+Currently at no resolution constraints
+UE5 says it's at 1200 x 200 pixels if you believe it (I wouldn't)
+In other words. It's mean to be an interesting rectangle and it also means that for the most part, as long as it can stretch or shirk a little without looking bad. it'll be perfect
+
+We need:
+- Normal
+- Hovered
+- Pressed
+- Disabled (That's a new one you normally didn't do. In UE5 by default it's just the 'Normal' button with dark gray tint applied to it, and text darkened)
+
+
+However, if you have any other ideas feel free to send over concepts 
+
+
+
+Additional Notes:
+- If you'd like to make image text
+"Continue" or "Resume" or "Play" (Only one of them needed, if you make multiple we can do visual surveys for player or randomise which one shows up to fuck with the players)
+"Options" or "Settings"
+"Quit"
+Feel free to do so
+Otherwise it'll just be game text

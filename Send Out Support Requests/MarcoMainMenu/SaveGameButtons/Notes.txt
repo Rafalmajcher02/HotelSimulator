@@ -1,0 +1,21 @@
+Currently at 1x1.75 ratio (Meaning if height is 100, the width is 175)
+Currently there is no size recommendation as UE5 is poo poo at giving you the size but it did say 300x160 (which is incorrect resolution anyways)
+
+Idea is for the button to be :
+- a wide window with closed blinds when not in use (not having a save game on it)
+- a wide window with lights on when currently selected (console/controller) or hovered over (pc/cursor)
+- a wide window with lights off when used (having a save game on it)
+
+
+However, if you have any other ideas feel free to send over concepts 
+
+
+
+Additional Notes:
+- If you'd like to make image text
+"Save 1"
+"Save 2"
+"Save 3"
+"Save 4"
+Feel free to do so
+Otherwise it'll just be game text
