@@ -51573,3 +51573,58 @@ Script call stack:
 [2025.04.26-13.00.01:002][321]AssetCheck: New page: Asset Save: multiple assets
 [2025.04.26-13.00.01:002][321]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
 [2025.04.26-13.00.01:002][321]LogContentValidation: Display: Validating /Game/Blueprints/BPC_Desk1.BPC_Desk1_C /Game/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Desk1_C_UAID_F02F741C15230B1E02_1380271112
+[2025.04.26-13.02.33:969][825]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.26-13.02.43:931][646]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.26-13.02.50:124][ 40]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.26-13.03.03:825][368]LogEditorTransaction: Undo Resize Node
+[2025.04.26-13.03.18:529][598]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.26-13.03.22:342][877]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.26-13.03.29:847][451]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.26-13.03.40:373][525]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.26-13.03.50:962][527]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.26-13.03.56:337][ 82]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.26-13.04.07:191][267]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2025.04.26-13.04.07:343][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2025.04.26-13.04.07:351][267]PIE: Warning: AttachTo: '/Game/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Desk1_C_UAID_F02F741C15230B1E02_1380271112.DefaultSceneRoot' is not static  (in blueprint "BPC_Desk1"), cannot attach '/Game/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Desk1_C_UAID_F02F741C15230B1E02_1380271112.NoteBook' which is static to it. Aborting.
+[2025.04.26-13.04.07:351][267]PIE: Warning: AttachTo: '/Game/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Desk1_C_UAID_F02F741C15230B1E02_1380271112.DefaultSceneRoot' is not static  (in blueprint "BPC_Desk1"), cannot attach '/Game/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Desk1_C_UAID_F02F741C15230B1E02_1380271112.Pen' which is static to it. Aborting.
+[2025.04.26-13.04.07:351][267]PIE: Warning: AttachTo: '/Game/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Desk1_C_UAID_F02F741C15230B1E02_1380271112.DefaultSceneRoot' is not static  (in blueprint "BPC_Desk1"), cannot attach '/Game/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Desk1_C_UAID_F02F741C15230B1E02_1380271112.Lamp' which is static to it. Aborting.
+[2025.04.26-13.04.07:351][267]PIE: Warning: AttachTo: '/Game/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Desk1_C_UAID_F02F741C15230B1E02_1380271112.DefaultSceneRoot' is not static  (in blueprint "BPC_Desk1"), cannot attach '/Game/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Desk1_C_UAID_F02F741C15230B1E02_1380271112.Laptop' which is static to it. Aborting.
+[2025.04.26-13.04.07:356][267]PIE: Warning: AttachTo: '/Engine/Transient.World_1:PersistentLevel.BPC_Desk1_C_5.DefaultSceneRoot' is not static  (in blueprint "BPC_Desk1"), cannot attach '/Engine/Transient.World_1:PersistentLevel.BPC_Desk1_C_5.NoteBook' which is static to it. Aborting.
+[2025.04.26-13.04.07:356][267]PIE: Warning: AttachTo: '/Engine/Transient.World_1:PersistentLevel.BPC_Desk1_C_5.DefaultSceneRoot' is not static  (in blueprint "BPC_Desk1"), cannot attach '/Engine/Transient.World_1:PersistentLevel.BPC_Desk1_C_5.Pen' which is static to it. Aborting.
+[2025.04.26-13.04.07:356][267]PIE: Warning: AttachTo: '/Engine/Transient.World_1:PersistentLevel.BPC_Desk1_C_5.DefaultSceneRoot' is not static  (in blueprint "BPC_Desk1"), cannot attach '/Engine/Transient.World_1:PersistentLevel.BPC_Desk1_C_5.Lamp' which is static to it. Aborting.
+[2025.04.26-13.04.07:357][267]PIE: Warning: AttachTo: '/Engine/Transient.World_1:PersistentLevel.BPC_Desk1_C_5.DefaultSceneRoot' is not static  (in blueprint "BPC_Desk1"), cannot attach '/Engine/Transient.World_1:PersistentLevel.BPC_Desk1_C_5.Laptop' which is static to it. Aborting.
+[2025.04.26-13.04.07:361][267]PIE: Warning: AttachTo: '/Engine/Transient.World_3:PersistentLevel.BPC_Desk1_C_0.DefaultSceneRoot' is not static  (in blueprint "BPC_Desk1"), cannot attach '/Engine/Transient.World_3:PersistentLevel.BPC_Desk1_C_0.NoteBook' which is static to it. Aborting.
+[2025.04.26-13.04.07:361][267]PIE: Warning: AttachTo: '/Engine/Transient.World_3:PersistentLevel.BPC_Desk1_C_0.DefaultSceneRoot' is not static  (in blueprint "BPC_Desk1"), cannot attach '/Engine/Transient.World_3:PersistentLevel.BPC_Desk1_C_0.Pen' which is static to it. Aborting.
+[2025.04.26-13.04.07:361][267]PIE: Warning: AttachTo: '/Engine/Transient.World_3:PersistentLevel.BPC_Desk1_C_0.DefaultSceneRoot' is not static  (in blueprint "BPC_Desk1"), cannot attach '/Engine/Transient.World_3:PersistentLevel.BPC_Desk1_C_0.Lamp' which is static to it. Aborting.
+[2025.04.26-13.04.07:361][267]PIE: Warning: AttachTo: '/Engine/Transient.World_3:PersistentLevel.BPC_Desk1_C_0.DefaultSceneRoot' is not static  (in blueprint "BPC_Desk1"), cannot attach '/Engine/Transient.World_3:PersistentLevel.BPC_Desk1_C_0.Laptop' which is static to it. Aborting.
+[2025.04.26-13.04.07:417][267]PIE: Warning: AttachTo: '/Game/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Desk1_C_UAID_F02F741C15230B1E02_1380271112.DefaultSceneRoot' is not static  (in blueprint "BPC_Desk1"), cannot attach '/Game/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Desk1_C_UAID_F02F741C15230B1E02_1380271112.NoteBook' which is static to it. Aborting.
+[2025.04.26-13.04.07:417][267]PIE: Warning: AttachTo: '/Game/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Desk1_C_UAID_F02F741C15230B1E02_1380271112.DefaultSceneRoot' is not static  (in blueprint "BPC_Desk1"), cannot attach '/Game/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Desk1_C_UAID_F02F741C15230B1E02_1380271112.Pen' which is static to it. Aborting.
+[2025.04.26-13.04.07:417][267]PIE: Warning: AttachTo: '/Game/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Desk1_C_UAID_F02F741C15230B1E02_1380271112.DefaultSceneRoot' is not static  (in blueprint "BPC_Desk1"), cannot attach '/Game/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Desk1_C_UAID_F02F741C15230B1E02_1380271112.Lamp' which is static to it. Aborting.
+[2025.04.26-13.04.07:417][267]PIE: Warning: AttachTo: '/Game/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Desk1_C_UAID_F02F741C15230B1E02_1380271112.DefaultSceneRoot' is not static  (in blueprint "BPC_Desk1"), cannot attach '/Game/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Desk1_C_UAID_F02F741C15230B1E02_1380271112.Laptop' which is static to it. Aborting.
+[2025.04.26-13.04.07:421][267]PIE: Warning: AttachTo: '/Engine/Transient.World_1:PersistentLevel.BPC_Desk1_C_5.DefaultSceneRoot' is not static  (in blueprint "BPC_Desk1"), cannot attach '/Engine/Transient.World_1:PersistentLevel.BPC_Desk1_C_5.NoteBook' which is static to it. Aborting.
+[2025.04.26-13.04.07:421][267]PIE: Warning: AttachTo: '/Engine/Transient.World_1:PersistentLevel.BPC_Desk1_C_5.DefaultSceneRoot' is not static  (in blueprint "BPC_Desk1"), cannot attach '/Engine/Transient.World_1:PersistentLevel.BPC_Desk1_C_5.Pen' which is static to it. Aborting.
+[2025.04.26-13.04.07:421][267]PIE: Warning: AttachTo: '/Engine/Transient.World_1:PersistentLevel.BPC_Desk1_C_5.DefaultSceneRoot' is not static  (in blueprint "BPC_Desk1"), cannot attach '/Engine/Transient.World_1:PersistentLevel.BPC_Desk1_C_5.Lamp' which is static to it. Aborting.
+[2025.04.26-13.04.07:421][267]PIE: Warning: AttachTo: '/Engine/Transient.World_1:PersistentLevel.BPC_Desk1_C_5.DefaultSceneRoot' is not static  (in blueprint "BPC_Desk1"), cannot attach '/Engine/Transient.World_1:PersistentLevel.BPC_Desk1_C_5.Laptop' which is static to it. Aborting.
+[2025.04.26-13.04.07:424][267]PIE: Warning: AttachTo: '/Engine/Transient.World_3:PersistentLevel.BPC_Desk1_C_0.DefaultSceneRoot' is not static  (in blueprint "BPC_Desk1"), cannot attach '/Engine/Transient.World_3:PersistentLevel.BPC_Desk1_C_0.NoteBook' which is static to it. Aborting.
+[2025.04.26-13.04.07:425][267]PIE: Warning: AttachTo: '/Engine/Transient.World_3:PersistentLevel.BPC_Desk1_C_0.DefaultSceneRoot' is not static  (in blueprint "BPC_Desk1"), cannot attach '/Engine/Transient.World_3:PersistentLevel.BPC_Desk1_C_0.Pen' which is static to it. Aborting.
+[2025.04.26-13.04.07:425][267]PIE: Warning: AttachTo: '/Engine/Transient.World_3:PersistentLevel.BPC_Desk1_C_0.DefaultSceneRoot' is not static  (in blueprint "BPC_Desk1"), cannot attach '/Engine/Transient.World_3:PersistentLevel.BPC_Desk1_C_0.Lamp' which is static to it. Aborting.
+[2025.04.26-13.04.07:425][267]PIE: Warning: AttachTo: '/Engine/Transient.World_3:PersistentLevel.BPC_Desk1_C_0.DefaultSceneRoot' is not static  (in blueprint "BPC_Desk1"), cannot attach '/Engine/Transient.World_3:PersistentLevel.BPC_Desk1_C_0.Laptop' which is static to it. Aborting.
+[2025.04.26-13.04.07:828][289]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.26-13.04.07:959][289]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.04.26-13.04.07:959][289]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/PeterSimulator/Saved/BP_FirstPersonCharacter1720FB4347FE2DF8C47880A01B2FF64F.tmp' to '../../../../../Repos/HotelSimulator/PeterSimulator/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.04.26-13.04.07:972][289]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 2.62 sec)
+[2025.04.26-13.04.07:977][289]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2025.04.26-13.04.07:978][289]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2025.04.26-13.04.10:244][446]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.04.26-13.04.10:921][446]LogSlate: Window 'Save Content' being destroyed
+[2025.04.26-13.04.10:933][446]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.26-13.04.10:998][446]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPersonMap/1/Z6/3UJW1QUZQHWC9GLDD08WCQ
+[2025.04.26-13.04.10:999][446]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/PeterSimulator/Saved/3UJW1QUZQHWC9GLDD08WCQ10F132534745677051EB9A9C724EF085.tmp' to '../../../../../Repos/HotelSimulator/PeterSimulator/Content/__ExternalActors__/FirstPersonMap/1/Z6/3UJW1QUZQHWC9GLDD08WCQ.uasset'
+[2025.04.26-13.04.11:012][446]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 2.70 sec)
+[2025.04.26-13.04.11:018][446]AssetCheck: New page: Asset Save: BPC_Desk1_C_UAID_F02F741C15230B1E02_1380271112
+[2025.04.26-13.04.11:018][446]LogContentValidation: Display: Validating /Game/Blueprints/BPC_Desk1.BPC_Desk1_C /Game/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_Desk1_C_UAID_F02F741C15230B1E02_1380271112
+[2025.04.26-13.04.12:006][532]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.04.26-13.04.12:007][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.26-13.04.12:703][583]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.04.26-13.04.12:703][583]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.04.26-13.04.12:703][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
