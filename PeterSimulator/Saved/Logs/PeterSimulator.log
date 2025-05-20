@@ -40649,3 +40649,37 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.05.20-11.32.27:190][ 97]LogSlate: Window 'Message Log' being destroyed
 [2025.05.20-11.32.27:198][ 97]LogSlate: Window 'Message Log' being destroyed
 [2025.05.20-11.32.41:179][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.05.20-11.32.54:450][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.05.20-11.33.02:778][130]LogShaderCompilers: Display: ================================================
+[2025.05.20-11.33.02:778][130]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.20-11.33.02:778][130]LogShaderCompilers: Display: Total job queries 172, among them cache hits 17 (9.88%)
+[2025.05.20-11.33.02:778][130]LogShaderCompilers: Display: Tracking 151 distinct input hashes that result in 119 distinct outputs (78.81%)
+[2025.05.20-11.33.02:778][130]LogShaderCompilers: Display: RAM used: 1.15 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.14%
+[2025.05.20-11.33.02:778][130]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.20-11.33.02:778][130]LogShaderCompilers: Display: Shaders Compiled: 23
+[2025.05.20-11.33.02:778][130]LogShaderCompilers: Display: Jobs assigned 27, completed 23 (85.19%)
+[2025.05.20-11.33.02:778][130]LogShaderCompilers: Display: Average time worker was idle: 995.57 s
+[2025.05.20-11.33.02:778][130]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.11 s
+[2025.05.20-11.33.02:778][130]LogShaderCompilers: Display: Job execution time: average 1.60 s, max 3.39 s
+[2025.05.20-11.33.02:778][130]LogShaderCompilers: Display: Job life time (pending + execution): average 1.68 s, max 3.49
+[2025.05.20-11.33.02:778][130]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.99 s
+[2025.05.20-11.33.02:778][130]LogShaderCompilers: Display: Jobs were issued in 27 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.05.20-11.33.02:778][130]LogShaderCompilers: Display: Average processing rate: 2.56 jobs/sec
+[2025.05.20-11.33.02:778][130]LogShaderCompilers: Display: Total thread time: 14.97 s
+[2025.05.20-11.33.02:778][130]LogShaderCompilers: Display: Total thread preprocess time: 0.95 s
+[2025.05.20-11.33.02:778][130]LogShaderCompilers: Display: Percentage time preprocessing: 6.32%
+[2025.05.20-11.33.02:778][130]LogShaderCompilers: Display: Effective parallelization: 1.67 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.05.20-11.33.02:778][130]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.20-11.33.02:778][130]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 0.92 sec, max 0.92 sec, min 0.92 sec)
+[2025.05.20-11.33.02:778][130]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    5 times, average 0.83 sec, max 0.97 sec, min 0.62 sec)
+[2025.05.20-11.33.02:778][130]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    5 times, average 0.83 sec, max 0.90 sec, min 0.75 sec)
+[2025.05.20-11.33.02:778][130]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    2 times, average 0.80 sec, max 0.85 sec, min 0.75 sec)
+[2025.05.20-11.33.02:778][130]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.61 sec, max 0.65 sec, min 0.57 sec)
+[2025.05.20-11.33.02:778][130]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.20-11.33.02:778][130]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 27.85% of total time (compiled    5 times, average 0.83 sec, max 0.97 sec, min 0.62 sec)
+[2025.05.20-11.33.02:778][130]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 27.80% of total time (compiled    5 times, average 0.83 sec, max 0.90 sec, min 0.75 sec)
+[2025.05.20-11.33.02:778][130]LogShaderCompilers: Display:                                                  FHitProxyVS - 10.72% of total time (compiled    2 times, average 0.80 sec, max 0.85 sec, min 0.75 sec)
+[2025.05.20-11.33.02:778][130]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 9.50% of total time (compiled    3 times, average 0.47 sec, max 0.56 sec, min 0.37 sec)
+[2025.05.20-11.33.02:778][130]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.17% of total time (compiled    2 times, average 0.61 sec, max 0.65 sec, min 0.57 sec)
+[2025.05.20-11.33.02:778][130]LogShaderCompilers: Display: ================================================
+[2025.05.20-11.33.41:820][643]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
