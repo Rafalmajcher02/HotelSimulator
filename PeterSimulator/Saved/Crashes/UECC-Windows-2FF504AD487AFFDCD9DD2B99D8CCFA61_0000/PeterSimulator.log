@@ -3495,23 +3495,3 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.06.23-10.30.55:579][602]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
 [2025.06.23-10.30.55:609][602]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2025.06.23-10.30.57:581][602]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
-[2025.06.23-10.31.30:033][602]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [32241ms] waiting for h/w. InstanceID=1
-[2025.06.23-10.31.30:034][602]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.049944s
-[2025.06.23-10.31.34:164][602]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.003007s (4.176623s overbudget)
-[2025.06.23-10.31.34:197][602]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13568
-[2025.06.23-10.31.35:197][602]LogAudioMixer: Warning: Timed out waiting to flush the source manager command queue (1).
-[2025.06.23-10.31.36:198][602]LogAudioMixer: Warning: Timed out waiting to flush the source manager command queue (2).
-[2025.06.23-10.31.36:210][602]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{af81af67-076f-452d-a40c-56928b23a079}, Name=T27B551 (NVIDIA High Definition Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=19.10
-[2025.06.23-10.31.36:210][602]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
-[2025.06.23-10.31.36:212][602]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
-[2025.06.23-10.31.36:259][602]LogSlate: Took 0.044782 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
-[2025.06.23-10.33.46:345][106]BlueprintLog: New page: Compile BP_FirstPersonCharacter
-[2025.06.23-10.33.46:481][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
-[2025.06.23-10.33.47:049][107]LogFileHelpers: InternalPromptForCheckoutAndSave started...
-[2025.06.23-10.33.47:119][107]LogPackageLocalizationCache: Processed 43 localized package path(s) for 1 prioritized culture(s) in 0.008367 seconds
-[2025.06.23-10.33.47:203][107]LogSerialization: UsePackageTrailer: 'true'
-[2025.06.23-10.33.47:268][107]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
-[2025.06.23-10.33.47:268][107]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/PeterSimulator/Saved/BP_FirstPersonCharacterA54E61D64F75CA5588FB86B7772EDFD3.tmp' to '../../../../../Repos/HotelSimulator/PeterSimulator/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
-[2025.06.23-10.33.47:311][107]LogFileHelpers: InternalPromptForCheckoutAndSave took 272 ms
-[2025.06.23-10.33.47:318][107]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
-[2025.06.23-10.33.47:318][107]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
