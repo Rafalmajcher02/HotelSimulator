@@ -14337,3 +14337,49 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.10.25-09.52.33:629][153]AssetCheck: New page: Asset Save: WBP_HUD
 [2025.10.25-09.52.33:629][153]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UserInterface/WBP_HUD.WBP_HUD
 [2025.10.25-09.52.33:640][154]LogBlueprintUserMessages: [WBP_MonitorScreen] pre invisibility
+[2025.10.25-09.52.53:235][265]LogBlueprintUserMessages: [WBP_MonitorScreen_C_4] pre invisibility
+[2025.10.25-09.52.53:738][306]LogBlueprintUserMessages: [WBP_MonitorScreen_C_4] pre invisibility
+[2025.10.25-09.52.53:748][307]LogBlueprintUserMessages: [WBP_MonitorScreen_C_4] pre invisibility
+[2025.10.25-09.52.53:761][308]LogBlueprintUserMessages: [WBP_MonitorScreen_C_4] pre invisibility
+[2025.10.25-09.52.53:775][309]LogBlueprintUserMessages: [WBP_MonitorScreen_C_4] pre invisibility
+[2025.10.25-09.52.53:788][310]LogBlueprintUserMessages: [WBP_MonitorScreen_C_4] pre invisibility
+[2025.10.25-09.52.53:800][311]LogBlueprintUserMessages: [WBP_MonitorScreen_C_4] pre invisibility
+[2025.10.25-09.52.53:817][312]LogBlueprintUserMessages: [WBP_MonitorScreen] pre invisibility
+[2025.10.25-09.52.53:838][313]LogBlueprintUserMessages: [WBP_MonitorScreen] pre invisibility
+[2025.10.25-09.52.53:848][314]LogBlueprintUserMessages: [WBP_MonitorScreen] pre invisibility
+[2025.10.25-09.52.53:860][315]LogBlueprintUserMessages: [WBP_MonitorScreen] pre invisibility
+[2025.10.25-09.52.53:871][316]LogBlueprintUserMessages: [WBP_MonitorScreen] pre invisibility
+[2025.10.25-09.52.53:880][317]LogBlueprintUserMessages: [WBP_MonitorScreen] pre invisibility
+[2025.10.25-09.52.53:894][318]LogBlueprintUserMessages: [WBP_MonitorScreen] pre invisibility
+[2025.10.25-09.52.53:906][319]LogBlueprintUserMessages: [WBP_MonitorScreen] pre invisibility
+[2025.10.25-09.52.53:918][320]LogBlueprintUserMessages: [WBP_MonitorScreen] pre invisibility
+[2025.10.25-09.52.53:931][321]LogBlueprintUserMessages: [WBP_MonitorScreen] pre invisibility
+[2025.10.25-09.52.53:945][322]LogBlueprintUserMessages: [WBP_MonitorScreen] pre invisibility
+[2025.10.25-09.52.53:958][323]LogBlueprintUserMessages: [WBP_MonitorScreen] pre invisibility
+[2025.10.25-09.52.53:971][324]LogBlueprintUserMessages: [WBP_MonitorScreen] pre invisibility
+[2025.10.25-09.52.53:985][325]LogBlueprintUserMessages: [WBP_MonitorScreen] pre invisibility
+[2025.10.25-09.52.53:998][326]LogBlueprintUserMessages: [WBP_MonitorScreen] pre invisibility
+[2025.10.25-09.52.54:013][327]LogBlueprintUserMessages: [WBP_MonitorScreen] pre invisibility
+[2025.10.25-09.52.54:024][328]LogBlueprintUserMessages: [WBP_MonitorScreen] pre invisibility
+[2025.10.25-09.53.23:780][863]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/GameInstance/GI_MainGameInstance.GI_MainGameInstance
+[2025.10.25-09.53.23:780][863]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.10.25-09.53.37:345][411]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2025.10.25-09.53.37:346][411]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.10.25-09.53.38:029][413]LogShaderCompilers: Display: ================================================
+[2025.10.25-09.53.38:029][413]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.25-09.53.38:029][413]LogShaderCompilers: Display: Total job queries 176, among them cache hits 20 (11.36%)
+[2025.10.25-09.53.38:029][413]LogShaderCompilers: Display: Tracking 156 distinct input hashes that result in 118 distinct outputs (75.64%)
+[2025.10.25-09.53.38:029][413]LogShaderCompilers: Display: RAM used: 1.18 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.14%
+[2025.10.25-09.53.38:029][413]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.25-09.53.38:029][413]LogShaderCompilers: Display: Shaders Compiled: 0
+[2025.10.25-09.53.38:029][413]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2025.10.25-09.53.38:029][413]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2025.10.25-09.53.38:029][413]LogShaderCompilers: Display: ================================================
+[2025.10.25-09.55.03:712][556]BlueprintLog: New page: Compile GI_MainGameInstance
+[2025.10.25-09.55.03:808][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.10.25-09.55.04:367][587]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.25-09.55.04:440][587]LogSavePackage: Moving output files for package: /Game/Blueprints/GameInstance/GI_MainGameInstance
+[2025.10.25-09.55.04:440][587]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/PeterSimulator/Saved/GI_MainGameInstance2F0093684B22B3B7A124C39C1B5191A2.tmp' to '../../../../../Repos/HotelSimulator/PeterSimulator/Content/Blueprints/GameInstance/GI_MainGameInstance.uasset'
+[2025.10.25-09.55.04:447][587]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 896 ms)
+[2025.10.25-09.55.04:458][587]AssetCheck: New page: Asset Save: GI_MainGameInstance
+[2025.10.25-09.55.04:458][587]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameInstance/GI_MainGameInstance.GI_MainGameInstance
