@@ -138670,3 +138670,22 @@ Script Stack (0 frames) :
 [2025.11.09-02.04.03:409][105]LogFileHelpers: InternalPromptForCheckoutAndSave took 231 ms (total: 1.18 sec)
 [2025.11.09-02.04.03:415][105]AssetCheck: New page: Asset Save: BTT_GetToRoom
 [2025.11.09-02.04.03:415][105]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AI/BTT_GetToRoom.BTT_GetToRoom
+[2025.11.09-02.05.52:473][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.11.09-02.05.52:474][750]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/HotelAlfaMap' took 0.060
+[2025.11.09-02.05.52:475][750]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/AIC_Customer] ([2] browsable assets)...
+[2025.11.09-02.05.52:475][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/AIC_Customer]
+[2025.11.09-02.05.52:475][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AIC_Customer" FILE="../../../../../Repos/HotelSimulator/PeterSimulator/Saved/Autosaves/Game/AI/AIC_Customer_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2025.11.09-02.05.52:477][750]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/AIC_Customer_Auto2
+[2025.11.09-02.05.52:477][750]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/PeterSimulator/Saved/AIC_Customer_Auto201CA41524C1C65F2C81EC0B08B53F573.tmp' to '../../../../../Repos/HotelSimulator/PeterSimulator/Saved/Autosaves/Game/AI/AIC_Customer_Auto2.uasset'
+[2025.11.09-02.05.52:478][750]LogFileHelpers: Auto-saving content packages took 0.004
+[2025.11.09-02.06.02:359][912]BlueprintLog: New page: Compile AIC_Customer
+[2025.11.09-02.06.02:434][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.11.09-02.06.04:352][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.11.09-02.06.05:216][ 79]LogSlate: Window 'Save Content' being destroyed
+[2025.11.09-02.06.05:224][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.09-02.06.05:275][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AIC_Customer" FILE="../../../../../Repos/HotelSimulator/PeterSimulator/Content/AI/AIC_Customer.uasset" SILENT=true
+[2025.11.09-02.06.05:279][ 79]LogSavePackage: Moving output files for package: /Game/AI/AIC_Customer
+[2025.11.09-02.06.05:280][ 79]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/PeterSimulator/Saved/AIC_CustomerA0AFBFD04187482824CA6E806E911DF4.tmp' to '../../../../../Repos/HotelSimulator/PeterSimulator/Content/AI/AIC_Customer.uasset'
+[2025.11.09-02.06.05:288][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 1.24 sec)
+[2025.11.09-02.06.05:293][ 79]AssetCheck: New page: Asset Save: AIC_Customer
+[2025.11.09-02.06.05:293][ 79]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AI/AIC_Customer.AIC_Customer
