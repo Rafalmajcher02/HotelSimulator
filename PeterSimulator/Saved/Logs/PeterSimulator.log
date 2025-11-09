@@ -138458,3 +138458,24 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.11.09-01.46.57:800][204]AssetCheck: New page: Asset Save: multiple assets
 [2025.11.09-01.46.57:800][204]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AI/BP_Customer.BP_Customer
 [2025.11.09-01.46.57:800][204]LogContentValidation: Display: Validating /Game/AI/BP_Customer.BP_Customer_C /Game/Levels/HotelAlfaMap.HotelAlfaMap:PersistentLevel.BP_Customer_C_UAID_F02F741C15235BA002_1401384475
+[2025.11.09-01.47.15:146][389]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/AIC_Customer.AIC_Customer
+[2025.11.09-01.47.15:146][389]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.11.09-01.47.15:728][389]LogViewport: Scene viewport resized to 603x270, mode Windowed.
+[2025.11.09-01.47.17:317][478]LogViewport: Scene viewport resized to 601x289, mode Windowed.
+[2025.11.09-01.47.17:417][480]LogViewport: Scene viewport resized to 522x236, mode Windowed.
+[2025.11.09-01.47.17:446][481]LogViewport: Scene viewport resized to 502x223, mode Windowed.
+[2025.11.09-01.47.17:717][497]LogViewport: Scene viewport resized to 1226x686, mode Windowed.
+[2025.11.09-01.47.18:145][534]LogSlate: Window 'AIC_Customer' being destroyed
+[2025.11.09-01.47.25:236][278]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/AI/BB_Customer.BB_Customer
+[2025.11.09-01.47.29:291][612]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/AI/BT_Customer.BT_Customer
+[2025.11.09-01.47.58:479][ 29]LogSlate: Took 0.000272 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.11.09-01.49.06:497][ 51]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.11.09-01.49.06:498][ 51]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.11.09-01.49.06:498][ 51]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.11.09-01.50.51:357][253]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.09-01.50.51:410][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BB_Customer" FILE="../../../../../Repos/HotelSimulator/PeterSimulator/Content/AI/BB_Customer.uasset" SILENT=true
+[2025.11.09-01.50.51:501][253]LogSavePackage: Moving output files for package: /Game/AI/BB_Customer
+[2025.11.09-01.50.51:502][253]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/PeterSimulator/Saved/BB_CustomerF0B43F874E7B68F7A0018C8D6DF65C87.tmp' to '../../../../../Repos/HotelSimulator/PeterSimulator/Content/AI/BB_Customer.uasset'
+[2025.11.09-01.50.51:509][253]LogFileHelpers: InternalPromptForCheckoutAndSave took 152 ms (total: 549 ms)
+[2025.11.09-01.50.51:517][253]AssetCheck: New page: Asset Save: BB_Customer
+[2025.11.09-01.50.51:517][253]LogContentValidation: Display: Validating /Script/AIModule.BlackboardData /Game/AI/BB_Customer.BB_Customer
