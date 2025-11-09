@@ -138649,24 +138649,3 @@ Script Stack (0 frames) :
 [2025.11.09-02.02.20:333][694]LogOutputDevice: Error: [Callstack] 0x00007ff8853de8d7 KERNEL32.DLL!UnknownFunction []
 [2025.11.09-02.02.20:333][694]LogOutputDevice: Error: [Callstack] 0x00007ff88658c53c ntdll.dll!UnknownFunction []
 [2025.11.09-02.02.20:333][694]LogOutputDevice: Error: 
-[2025.11.09-02.02.20:339][694]LogStats:                SubmitErrorReport -  0.000 s
-[2025.11.09-02.02.21:588][694]LogStats:                    SendNewReport -  1.250 s
-[2025.11.09-02.02.21:588][694]LogStats:             FDebug::EnsureFailed -  1.491 s
-[2025.11.09-02.03.45:542][869]BlueprintLog: New page: Compile BTT_FindLoiterLocation
-[2025.11.09-02.03.45:653][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
-[2025.11.09-02.03.46:315][938]LogFileHelpers: InternalPromptForCheckoutAndSave started...
-[2025.11.09-02.03.46:377][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BTT_FindLoiterLocation" FILE="../../../../../Repos/HotelSimulator/PeterSimulator/Content/AI/BTT_FindLoiterLocation.uasset" SILENT=true
-[2025.11.09-02.03.46:445][938]LogSavePackage: Moving output files for package: /Game/AI/BTT_FindLoiterLocation
-[2025.11.09-02.03.46:446][938]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/PeterSimulator/Saved/BTT_FindLoiterLocationD909554B45E0692F0BA575B19AEA3EC1.tmp' to '../../../../../Repos/HotelSimulator/PeterSimulator/Content/AI/BTT_FindLoiterLocation.uasset'
-[2025.11.09-02.03.46:457][938]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 950 ms)
-[2025.11.09-02.03.46:464][938]AssetCheck: New page: Asset Save: BTT_FindLoiterLocation
-[2025.11.09-02.03.46:464][938]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AI/BTT_FindLoiterLocation.BTT_FindLoiterLocation
-[2025.11.09-02.04.02:371][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
-[2025.11.09-02.04.03:168][105]LogSlate: Window 'Save Content' being destroyed
-[2025.11.09-02.04.03:177][105]LogFileHelpers: InternalPromptForCheckoutAndSave started...
-[2025.11.09-02.04.03:226][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BTT_GetToRoom" FILE="../../../../../Repos/HotelSimulator/PeterSimulator/Content/AI/BTT_GetToRoom.uasset" SILENT=true
-[2025.11.09-02.04.03:399][105]LogSavePackage: Moving output files for package: /Game/AI/BTT_GetToRoom
-[2025.11.09-02.04.03:399][105]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/PeterSimulator/Saved/BTT_GetToRoom1B003F9E44F36B51954FFBBBB12B6D55.tmp' to '../../../../../Repos/HotelSimulator/PeterSimulator/Content/AI/BTT_GetToRoom.uasset'
-[2025.11.09-02.04.03:409][105]LogFileHelpers: InternalPromptForCheckoutAndSave took 231 ms (total: 1.18 sec)
-[2025.11.09-02.04.03:415][105]AssetCheck: New page: Asset Save: BTT_GetToRoom
-[2025.11.09-02.04.03:415][105]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AI/BTT_GetToRoom.BTT_GetToRoom
