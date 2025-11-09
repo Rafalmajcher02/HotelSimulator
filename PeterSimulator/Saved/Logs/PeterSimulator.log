@@ -138689,3 +138689,12 @@ Script Stack (0 frames) :
 [2025.11.09-02.06.05:288][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 1.24 sec)
 [2025.11.09-02.06.05:293][ 79]AssetCheck: New page: Asset Save: AIC_Customer
 [2025.11.09-02.06.05:293][ 79]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AI/AIC_Customer.AIC_Customer
+[2025.11.09-02.06.45:799][969]BlueprintLog: New page: Compile BP_Customer
+[2025.11.09-02.06.45:879][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.11.09-02.06.46:585][ 42]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.09-02.06.46:664][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_Customer" FILE="../../../../../Repos/HotelSimulator/PeterSimulator/Content/AI/BP_Customer.uasset" SILENT=true
+[2025.11.09-02.06.46:669][ 42]LogSavePackage: Moving output files for package: /Game/AI/BP_Customer
+[2025.11.09-02.06.46:669][ 42]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/PeterSimulator/Saved/BP_CustomerECC3E1854F360677BB1EC49869DE6B41.tmp' to '../../../../../Repos/HotelSimulator/PeterSimulator/Content/AI/BP_Customer.uasset'
+[2025.11.09-02.06.46:677][ 42]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 1.33 sec)
+[2025.11.09-02.06.46:684][ 42]AssetCheck: New page: Asset Save: BP_Customer
+[2025.11.09-02.06.46:684][ 42]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AI/BP_Customer.BP_Customer
