@@ -89700,3 +89700,63 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2026.01.11-03.39.57:139][128]AssetCheck: New page: Asset Save: multiple assets
 [2026.01.11-03.39.57:139][128]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AI/BP_Customer.BP_Customer
 [2026.01.11-03.39.57:139][128]LogContentValidation: Display: Validating /Game/AI/BP_CustomerTest.BP_CustomerTest_C /Game/Levels/HotelAlfaMap.HotelAlfaMap:PersistentLevel.BP_CustomerTest_C_UAID_F02F741C15232EB402_1799380675
+[2026.01.11-03.40.44:043][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2026.01.11-03.40.46:262][411]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.11-03.40.46:491][411]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.01.11-03.40.46:491][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.11-03.40.46:671][411]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.01.11-03.40.46:671][411]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.01.11-03.40.46:671][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.11-03.40.46:732][411]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/AI/BP_Customer.BP_Customer
+	Asset Type: Blueprint
+[2026.01.11-03.40.47:090][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.01.11-03.40.47:260][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.01.11-03.40.47:285][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.01.11-03.40.47:310][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.01.11-03.40.49:480][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.01.11-03.40.52:251][587]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.11-03.40.52:287][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.01.11-03.40.52:312][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.01.11-03.40.52:337][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.01.11-03.40.55:496][853]LogContentBrowser: Attempting asset rename: BP_CustomerTest -> BP_Customer
+[2026.01.11-03.40.55:526][853]LogMetaData: Removing '/Game/AI/BP_Customer.BP_Customer_C' ref from Metadata '/Game/AI/BP_CustomerTest.PackageMetaData'
+[2026.01.11-03.40.55:526][853]LogMetaData: Removing '/Game/AI/BP_Customer.SKEL_BP_Customer_C' ref from Metadata '/Game/AI/BP_CustomerTest.PackageMetaData'
+[2026.01.11-03.40.55:526][853]LogMetaData: Removing '/Game/AI/BP_Customer.SKEL_BP_Customer_C:UserConstructionScript' ref from Metadata '/Game/AI/BP_CustomerTest.PackageMetaData'
+[2026.01.11-03.40.55:537][853]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.11-03.40.55:605][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_Customer" FILE="../../../../../Repos/HotelSimulator/PeterSimulator/Content/AI/BP_Customer.uasset" SILENT=true
+[2026.01.11-03.40.55:608][853]LogSavePackage: Moving output files for package: /Game/AI/BP_Customer
+[2026.01.11-03.40.55:609][853]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/PeterSimulator/Saved/BP_Customer94C4F77B41F09F24188BD094CD5471E8.tmp' to '../../../../../Repos/HotelSimulator/PeterSimulator/Content/AI/BP_Customer.uasset'
+[2026.01.11-03.40.55:610][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_CustomerTest" FILE="../../../../../Repos/HotelSimulator/PeterSimulator/Content/AI/BP_CustomerTest.uasset" SILENT=true
+[2026.01.11-03.40.55:611][853]LogSavePackage: Moving output files for package: /Game/AI/BP_CustomerTest
+[2026.01.11-03.40.55:611][853]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/PeterSimulator/Saved/BP_CustomerTestE3ACF2BE40FF3D1A664FB0A90D2D98D7.tmp' to '../../../../../Repos/HotelSimulator/PeterSimulator/Content/AI/BP_CustomerTest.uasset'
+[2026.01.11-03.40.55:620][853]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 989 ms)
+[2026.01.11-03.40.55:632][853]AssetCheck: New page: Asset Save: multiple assets
+[2026.01.11-03.40.55:632][853]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AI/BP_Customer.BP_Customer
+[2026.01.11-03.40.55:632][853]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/AI/BP_CustomerTest.BP_CustomerTest
+[2026.01.11-03.40.55:632][853]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/AI/BP_CustomerTest.Default__BP_CustomerTest_C
+[2026.01.11-03.40.55:632][853]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/AI/BP_CustomerTest.BP_CustomerTest_C
+[2026.01.11-03.40.57:674][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.01.11-03.40.58:916][  9]LogSlate: Window 'Save Content' being destroyed
+[2026.01.11-03.40.58:925][  9]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.11-03.40.59:041][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.01.11-03.40.59:066][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.01.11-03.40.59:092][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.01.11-03.40.59:133][  9]LogFileHelpers: No new changes to save!
+[2026.01.11-03.40.59:134][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/HotelAlfaMap" FILE="../../../../../Repos/HotelSimulator/PeterSimulator/Content/Levels/HotelAlfaMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.01.11-03.40.59:159][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.01.11-03.40.59:363][  9]LogSavePackage: Moving output files for package: /Game/Levels/HotelAlfaMap
+[2026.01.11-03.40.59:364][  9]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/PeterSimulator/Saved/HotelAlfaMapED1B7D1B4202296BD6F7B09A291DA2AE.tmp' to '../../../../../Repos/HotelSimulator/PeterSimulator/Content/Levels/HotelAlfaMap.umap'
+[2026.01.11-03.40.59:388][  9]LogFileHelpers: Saving map 'HotelAlfaMap' took 0.269
+[2026.01.11-03.40.59:388][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BTT_GetToRoom" FILE="../../../../../Repos/HotelSimulator/PeterSimulator/Content/AI/BTT_GetToRoom.uasset" SILENT=true
+[2026.01.11-03.40.59:393][  9]LogSavePackage: Moving output files for package: /Game/AI/BTT_GetToRoom
+[2026.01.11-03.40.59:394][  9]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/PeterSimulator/Saved/BTT_GetToRoomE3EAECB04A79CFF0DED61D875C7E876B.tmp' to '../../../../../Repos/HotelSimulator/PeterSimulator/Content/AI/BTT_GetToRoom.uasset'
+[2026.01.11-03.40.59:426][  9]LogFileHelpers: InternalPromptForCheckoutAndSave took 501 ms (total: 1.49 sec)
+[2026.01.11-03.40.59:433][  9]AssetCheck: New page: Asset Save: multiple assets
+[2026.01.11-03.40.59:433][  9]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AI/BTT_GetToRoom.BTT_GetToRoom
+[2026.01.11-03.40.59:433][  9]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/HotelAlfaMap.HotelAlfaMap
+[2026.01.11-03.40.59:879][ 41]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/BTT_GetToRoom.BTT_GetToRoom
+[2026.01.11-03.40.59:880][ 41]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.01.11-03.41.05:152][604]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.01.11-03.41.05:152][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.11-03.41.06:466][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
