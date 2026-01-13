@@ -88206,3 +88206,49 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2026.01.13-02.47.27:567][649]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AI/BTT_FindReception.BTT_FindReception
 [2026.01.13-02.47.27:570][649]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/BTT_FindReception.
 [2026.01.13-02.47.29:826][799]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2026.01.13-02.48.02:255][681]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/BTT_TestLocationTast.BTT_TestLocationTast
+[2026.01.13-02.48.02:255][681]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.01.13-02.48.07:235][ 98]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.01.13-02.48.07:235][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.13-02.48.15:530][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2026.01.13-02.48.17:468][768]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.13-02.48.17:582][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2026.01.13-02.48.17:650][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2026.01.13-02.48.17:715][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.01.13-02.48.19:536][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2026.01.13-02.48.20:538][885]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.13-02.48.20:610][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2026.01.13-02.48.20:682][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2026.01.13-02.48.20:748][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.01.13-02.48.22:588][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2026.01.13-02.48.25:455][  9]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.13-02.48.26:699][  9]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.01.13-02.48.26:699][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.13-02.48.26:851][  9]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.01.13-02.48.26:851][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.13-02.48.27:719][  9]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/AI/BTT_FindBed.BTT_FindBed
+	Asset Type: Blueprint
+[2026.01.13-02.48.29:206][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2026.01.13-02.48.29:533][  9]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2026.01.13-02.48.29:588][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.01.13-02.48.38:198][584]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/BP_Customer.BP_Customer
+[2026.01.13-02.48.38:199][584]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.01.13-02.48.41:390][783]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/AI/BT_Customer.BT_Customer
+[2026.01.13-02.48.41:471][783]LogAIGraph: Error: BTT_FindBed class missing. Referenced by BehaviorTreeGraphNode_Task /Game/AI/BT_Customer.BT_Customer:Behavior Tree.BehaviorTreeGraphNode_Task_3
+[2026.01.13-02.48.41:540][783]LogLinker: Warning: Failed to load '/Game/AI/BTT_FindBed': Can't find file.
+[2026.01.13-02.48.41:542][783]LogLinker: Warning: Failed to load '/Game/AI/BTT_FindBed': Can't find file.
+[2026.01.13-02.48.47:255][364]LogAIGraph: Error: BTT_FindBed class missing. Referenced by BehaviorTreeGraphNode_Task /Game/AI/BT_Customer.BT_Customer:Behavior Tree.BehaviorTreeGraphNode_Task_3
+[2026.01.13-02.48.47:255][364]LogAIGraph: Error: BTT_FindBed class missing. Referenced by BehaviorTreeGraphNode_Task /Game/AI/BT_Customer.BT_Customer:Behavior Tree.BehaviorTreeGraphNode_Task_3
+[2026.01.13-02.48.47:264][364]LogAIGraph: Error: BTT_FindBed class missing. Referenced by BehaviorTreeGraphNode_Task /Game/AI/BT_Customer.BT_Customer:Behavior Tree.BehaviorTreeGraphNode_Task_3
+[2026.01.13-02.48.47:264][364]LogAIGraph: Error: BTT_FindBed class missing. Referenced by BehaviorTreeGraphNode_Task /Game/AI/BT_Customer.BT_Customer:Behavior Tree.BehaviorTreeGraphNode_Task_3
+[2026.01.13-02.48.50:251][691]LogAIGraph: Error: BTT_FindBed class missing. Referenced by BehaviorTreeGraphNode_Task /Game/AI/BT_Customer.BT_Customer:Behavior Tree.BehaviorTreeGraphNode_Task_3
+[2026.01.13-02.48.50:251][691]LogAIGraph: Error: BTT_FindBed class missing. Referenced by BehaviorTreeGraphNode_Task /Game/AI/BT_Customer.BT_Customer:Behavior Tree.BehaviorTreeGraphNode_Task_3
+[2026.01.13-02.48.54:382][139]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.13-02.48.54:445][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT_Customer" FILE="../../../../../Repos/HotelSimulator/PeterSimulator/Content/AI/BT_Customer.uasset" SILENT=true
+[2026.01.13-02.48.54:448][139]LogSavePackage: Moving output files for package: /Game/AI/BT_Customer
+[2026.01.13-02.48.54:448][139]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/PeterSimulator/Saved/BT_Customer104690D749A2A73F528580957777CA6C.tmp' to '../../../../../Repos/HotelSimulator/PeterSimulator/Content/AI/BT_Customer.uasset'
+[2026.01.13-02.48.54:457][139]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 1.97 sec)
+[2026.01.13-02.48.54:463][139]AssetCheck: New page: Asset Save: BT_Customer
+[2026.01.13-02.48.54:463][139]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/AI/BT_Customer.BT_Customer
+[2026.01.13-02.48.56:699][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
