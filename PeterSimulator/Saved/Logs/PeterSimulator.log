@@ -88145,3 +88145,64 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2026.01.13-02.25.31:485][694]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Waypoints/BP_WayPointMaster.BP_WayPointMaster
 [2026.01.13-02.25.31:485][694]LogContentValidation: Display: Validating /Game/Blueprints/Waypoints/BPC_ReceptionCustomerWaypoint.BPC_ReceptionCustomerWaypoint_C /Game/Levels/HotelAlfaMap.HotelAlfaMap:PersistentLevel.BPC_ReceptionCustomerWaypoint_C_UAID_F02F741C1523CBB402_1199169307
 [2026.01.13-02.26.07:757][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2026.01.13-02.43.17:710][145]LogDerivedDataCache: C:/Users/rafal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.244 and deleted 0 files with total size 0 MiB. Scanned 2443 files in 2420 folders with total size 214 MiB.
+[2026.01.13-02.46.12:484][902]LogShaderCompilers: Display: ================================================
+[2026.01.13-02.46.12:484][902]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.13-02.46.12:484][902]LogShaderCompilers: Display: Total job queries 196, among them cache hits 41 (20.92%)
+[2026.01.13-02.46.12:484][902]LogShaderCompilers: Display: Tracking 155 distinct input hashes that result in 119 distinct outputs (76.77%)
+[2026.01.13-02.46.12:484][902]LogShaderCompilers: Display: RAM used: 1.17 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.14%
+[2026.01.13-02.46.12:484][902]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.13-02.46.12:484][902]LogShaderCompilers: Display: Shaders Compiled: 0
+[2026.01.13-02.46.12:484][902]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2026.01.13-02.46.12:484][902]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2026.01.13-02.46.12:484][902]LogShaderCompilers: Display: ================================================
+[2026.01.13-02.46.53:694][908]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.01.13-02.46.53:694][908]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.01.13-02.46.53:694][908]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.01.13-02.47.17:550][ 96]LogSlate: Window 'Save Asset As' being destroyed
+[2026.01.13-02.47.20:667][301]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1662)].
+[2026.01.13-02.47.20:667][301]LogContentBrowser: Attempting asset rename: BTT_BookARoom -> BTT_Bo
+[2026.01.13-02.47.21:761][301]LogMetaData: Removing '/Game/AI/BTT_Bo.SKEL_BTT_Bo_C' ref from Metadata '/Game/AI/BTT_BookARoom.PackageMetaData'
+[2026.01.13-02.47.21:761][301]LogMetaData: Removing '/Game/AI/BTT_Bo.BTT_Bo_C' ref from Metadata '/Game/AI/BTT_BookARoom.PackageMetaData'
+[2026.01.13-02.47.21:761][301]LogMetaData: Removing '/Game/AI/BTT_Bo.BTT_Bo:FindReceptionToQueueAt.K2Node_FunctionEntry_0' ref from Metadata '/Game/AI/BTT_BookARoom.PackageMetaData'
+[2026.01.13-02.47.21:761][301]LogMetaData: Removing '/Game/AI/BTT_Bo.BTT_Bo_C:ReceiveExecuteAI' ref from Metadata '/Game/AI/BTT_BookARoom.PackageMetaData'
+[2026.01.13-02.47.21:761][301]LogMetaData: Removing '/Game/AI/BTT_Bo.SKEL_BTT_Bo_C:ReceiveExecuteAI' ref from Metadata '/Game/AI/BTT_BookARoom.PackageMetaData'
+[2026.01.13-02.47.21:932][301]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.13-02.47.21:932][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT_Customer" FILE="../../../../../Repos/HotelSimulator/PeterSimulator/Content/AI/BT_Customer.uasset" SILENT=true
+[2026.01.13-02.47.21:938][301]LogSavePackage: Moving output files for package: /Game/AI/BT_Customer
+[2026.01.13-02.47.21:939][301]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/PeterSimulator/Saved/BT_Customer75D7C1D141B300EDFF9D1C8F2715D845.tmp' to '../../../../../Repos/HotelSimulator/PeterSimulator/Content/AI/BT_Customer.uasset'
+[2026.01.13-02.47.21:940][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BTT_Bo" FILE="../../../../../Repos/HotelSimulator/PeterSimulator/Content/AI/BTT_Bo.uasset" SILENT=true
+[2026.01.13-02.47.21:978][301]LogSavePackage: Moving output files for package: /Game/AI/BTT_Bo
+[2026.01.13-02.47.21:978][301]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/PeterSimulator/Saved/BTT_Bo31FE43164F0DDF86FD5E4EAA15592B58.tmp' to '../../../../../Repos/HotelSimulator/PeterSimulator/Content/AI/BTT_Bo.uasset'
+[2026.01.13-02.47.21:978][301]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 1.80 sec)
+[2026.01.13-02.47.22:132][301]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2026.01.13-02.47.22:200][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2026.01.13-02.47.22:263][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.01.13-02.47.22:340][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.01.13-02.47.22:343][301]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/HotelAlfaMap' took 0.064
+[2026.01.13-02.47.22:371][302]AssetCheck: New page: Asset Save: multiple assets
+[2026.01.13-02.47.22:371][302]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/AI/BT_Customer.BT_Customer
+[2026.01.13-02.47.22:371][302]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AI/BTT_Bo.BTT_Bo
+[2026.01.13-02.47.22:374][302]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/BTT_Bo.
+[2026.01.13-02.47.27:039][649]LogContentBrowser: Attempting asset rename: BTT_Bo -> BTT_FindReception
+[2026.01.13-02.47.27:250][649]LogMetaData: Removing '/Game/AI/BTT_FindReception.BTT_FindReception_C' ref from Metadata '/Game/AI/BTT_Bo.PackageMetaData'
+[2026.01.13-02.47.27:251][649]LogMetaData: Removing '/Game/AI/BTT_FindReception.BTT_FindReception_C:ReceiveExecuteAI' ref from Metadata '/Game/AI/BTT_Bo.PackageMetaData'
+[2026.01.13-02.47.27:251][649]LogMetaData: Removing '/Game/AI/BTT_FindReception.SKEL_BTT_FindReception_C' ref from Metadata '/Game/AI/BTT_Bo.PackageMetaData'
+[2026.01.13-02.47.27:251][649]LogMetaData: Removing '/Game/AI/BTT_FindReception.SKEL_BTT_FindReception_C:ReceiveExecuteAI' ref from Metadata '/Game/AI/BTT_Bo.PackageMetaData'
+[2026.01.13-02.47.27:251][649]LogMetaData: Removing '/Game/AI/BTT_FindReception.BTT_FindReception:FindReceptionToQueueAt.K2Node_FunctionEntry_0' ref from Metadata '/Game/AI/BTT_Bo.PackageMetaData'
+[2026.01.13-02.47.27:251][649]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.13-02.47.27:310][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT_Customer" FILE="../../../../../Repos/HotelSimulator/PeterSimulator/Content/AI/BT_Customer.uasset" SILENT=true
+[2026.01.13-02.47.27:315][649]LogSavePackage: Moving output files for package: /Game/AI/BT_Customer
+[2026.01.13-02.47.27:315][649]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/PeterSimulator/Saved/BT_CustomerDD9981604B4FFB3958B5E4BF377F648E.tmp' to '../../../../../Repos/HotelSimulator/PeterSimulator/Content/AI/BT_Customer.uasset'
+[2026.01.13-02.47.27:316][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BTT_FindReception" FILE="../../../../../Repos/HotelSimulator/PeterSimulator/Content/AI/BTT_FindReception.uasset" SILENT=true
+[2026.01.13-02.47.27:334][649]LogSavePackage: Moving output files for package: /Game/AI/BTT_FindReception
+[2026.01.13-02.47.27:334][649]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/PeterSimulator/Saved/BTT_FindReception5B2CCABF4B9BD02BAB545893F0B66B29.tmp' to '../../../../../Repos/HotelSimulator/PeterSimulator/Content/AI/BTT_FindReception.uasset'
+[2026.01.13-02.47.27:343][649]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 1.89 sec)
+[2026.01.13-02.47.27:427][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2026.01.13-02.47.27:493][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2026.01.13-02.47.27:557][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.01.13-02.47.27:567][649]AssetCheck: New page: Asset Save: multiple assets
+[2026.01.13-02.47.27:567][649]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/AI/BT_Customer.BT_Customer
+[2026.01.13-02.47.27:567][649]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AI/BTT_FindReception.BTT_FindReception
+[2026.01.13-02.47.27:570][649]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/BTT_FindReception.
+[2026.01.13-02.47.29:826][799]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
