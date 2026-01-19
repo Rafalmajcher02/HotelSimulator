@@ -1,2 +1,4 @@
+Main Exit - Tags: Exit
+	- String ExitType: Main
 Master - Tags: Waypoint
 Reception Customer - Tags: ReceptionCustomer
