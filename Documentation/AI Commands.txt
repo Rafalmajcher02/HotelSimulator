@@ -1,4 +1,6 @@
 ## These are commands you can input to change AI's behaviour through AI_Command string for uninteracting
 
-Off - Simply cancel your interaction. Does nothing to AI's behaviour and closes all UI used.
+
 DenyRoom - Causes customer to leave your hotel without room or payment. Is automatically followed by Off command to close any UI.
+Off - Simply cancel your interaction. Does nothing to AI's behaviour and closes all UI used.
+RoomSelect - 
