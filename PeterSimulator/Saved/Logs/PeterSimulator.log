@@ -49870,3 +49870,98 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2026.04.16-14.14.35:392][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2026.04.16-14.14.35:405][338]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
 [2026.04.16-14.14.35:405][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.16-14.15.43:399][910]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UserInterface/WBP_RoomSelectingButton.WBP_RoomSelectingButton
+[2026.04.16-14.15.43:400][910]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.04.16-14.15.43:418][910]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.04.16-14.15.43:880][910]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2026.04.16-14.15.43:880][910]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2026.04.16-14.15.56:343][335]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2026.04.16-14.15.56:344][335]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2026.04.16-14.16.03:991][160]LogBlueprintUserMessages: [WBP_MonitorScreen] pre invisibility
+[2026.04.16-14.16.04:014][161]LogBlueprintUserMessages: [WBP_MonitorScreen] pre invisibility
+[2026.04.16-14.16.05:367][267]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UserInterface/Menues/WBP_CustomerRoomSelectionMenu.WBP_CustomerRoomSelectionMenu
+[2026.04.16-14.16.05:368][267]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.04.16-14.16.05:385][267]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.04.16-14.16.05:821][267]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2026.04.16-14.16.05:821][267]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2026.04.16-14.16.48:515][118]BlueprintLog: New page: Compile WBP_RoomSelectingButton
+[2026.04.16-14.16.48:716][118]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2026.04.16-14.16.58:976][  5]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2026.04.16-14.16.58:976][  5]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.04.16-14.17.19:019][945]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Interaction/AC_InteractionTrace.AC_InteractionTrace
+[2026.04.16-14.17.19:019][945]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.04.16-14.17.36:910][918]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2026.04.16-14.17.36:910][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.16-14.17.46:450][723]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/AIC_Customer.AIC_Customer
+[2026.04.16-14.17.46:451][723]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.04.16-14.17.51:705][265]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2026.04.16-14.17.51:705][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.16-14.17.54:491][508]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/BP_Customer.BP_Customer
+[2026.04.16-14.17.54:491][508]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.04.16-14.18.55:971][293]LogHttp: Warning: 0000091A2FFD9600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDB7395D8-4DE6-D4C8-CD50-61A078C6553D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.04.16-14.18.55:971][293]LogHttp: Warning: 0000091A2FFD9600: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2026.04.16-14.18.55:971][293]LogHttp: Warning: 0000091A2FFD9600: libcurl info message cache 0 (Found bundle for host: 0x919c0960f30 [serially])
+[2026.04.16-14.18.55:971][293]LogHttp: Warning: 0000091A2FFD9600: libcurl info message cache 1 (Re-using existing connection #4 with host datarouter.ol.epicgames.com)
+[2026.04.16-14.18.55:971][293]LogHttp: Warning: 0000091A2FFD9600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (98.86.7.172) port 443 (#4))
+[2026.04.16-14.18.55:971][293]LogHttp: Warning: 0000091A2FFD9600: libcurl info message cache 3 (We are completely uploaded and fine)
+[2026.04.16-14.18.55:971][293]LogHttp: Warning: 0000091A2FFD9600: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2026.04.16-14.18.55:971][293]LogHttp: Warning: 0000091A2FFD9600: libcurl info message cache 5 (necessary data rewind wasn't possible)
+[2026.04.16-14.18.55:971][293]LogHttp: Warning: 0000091A2FFD9600: libcurl info message cache 6 (Closing connection 4)
+[2026.04.16-14.18.55:971][293]LogHttp: Warning: 0000091A2FFD9600: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2026.04.16-14.18.55:971][293]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDB7395D8-4DE6-D4C8-CD50-61A078C6553D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=b1b0e9f8406ea203c6f798a7ee625eed%7Cebc71537d5ab41df856f47d43a4c5ff5%7C09d7b6c7-77d6-4606-8802-5a0bdc1aca77&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2026.04.16-14.19.01:195][837]LogUObjectHash: Compacting FUObjectHashTables data took   6.52ms
+[2026.04.16-14.19.01:203][837]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/HotelAlfaMap/2/IA/ECG7O3H74GV79LS2AEX17Z_Auto2
+[2026.04.16-14.19.01:203][837]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/PeterSimulator/Saved/ECG7O3H74GV79LS2AEX17Z_Auto217AF3A744B2BA773396B84820C541734.tmp' to '../../../../../Repos/HotelSimulator/PeterSimulator/Saved/Autosaves/Game/__ExternalActors__/Levels/HotelAlfaMap/2/IA/ECG7O3H74GV79LS2AEX17Z_Auto2.uasset'
+[2026.04.16-14.19.01:204][837]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/HotelAlfaMap' took 0.176
+[2026.04.16-14.19.01:204][837]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.176
+[2026.04.16-14.19.01:205][837]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AI/BP_Customer] ([2] browsable assets)...
+[2026.04.16-14.19.01:232][837]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BP_Customer.BP_Customer]
+[2026.04.16-14.19.01:233][837]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_Customer]
+[2026.04.16-14.19.01:233][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_Customer" FILE="../../../../../Repos/HotelSimulator/PeterSimulator/Saved/Autosaves/Game/AI/BP_Customer_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2026.04.16-14.19.01:293][837]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/BP_Customer_Auto2
+[2026.04.16-14.19.01:294][837]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/PeterSimulator/Saved/BP_Customer_Auto2F7C6F6874F23739528F0369F4AC003E3.tmp' to '../../../../../Repos/HotelSimulator/PeterSimulator/Saved/Autosaves/Game/AI/BP_Customer_Auto2.uasset'
+[2026.04.16-14.19.01:295][837]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UserInterface/WBP_RoomSelectingButton] ([2] browsable assets)...
+[2026.04.16-14.19.01:299][837]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UserInterface/WBP_RoomSelectingButton.WBP_RoomSelectingButton]
+[2026.04.16-14.19.01:299][837]OBJ SavePackage: Finished generating thumbnails for package [/Game/UserInterface/WBP_RoomSelectingButton]
+[2026.04.16-14.19.01:317][837]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UserInterface/WBP_RoomSelectingButton_Auto2
+[2026.04.16-14.19.01:317][837]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/PeterSimulator/Saved/WBP_RoomSelectingButton_Auto27121A74244D128C9847990A929A7C4F0.tmp' to '../../../../../Repos/HotelSimulator/PeterSimulator/Saved/Autosaves/Game/UserInterface/WBP_RoomSelectingButton_Auto2.uasset'
+[2026.04.16-14.19.01:317][837]LogFileHelpers: Auto-saving content packages took 0.113
+[2026.04.16-14.20.22:385][995]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/AI/BT_Customer.BT_Customer
+[2026.04.16-14.20.24:888][149]LogSlate: Window 'BT_Customer' being destroyed
+[2026.04.16-14.22.47:218][977]BlueprintLog: New page: Compile BP_Customer
+[2026.04.16-14.22.47:382][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.04.16-14.22.50:946][351]BlueprintLog: New page: Compile BP_Customer
+[2026.04.16-14.22.51:079][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.04.16-14.24.04:776][118]BlueprintLog: New page: Compile WBP_RoomSelectingButton
+[2026.04.16-14.24.04:845][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.04.16-14.24.18:179][186]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.04.16-14.24.18:180][186]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.04.16-14.24.18:180][186]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.04.16-14.24.19:422][186]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.04.16-14.24.19:456][186]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.04.16-14.24.19:462][186]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.04.16-14.24.19:485][187]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.04.16-14.24.25:799][775]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_AiManager
+[2026.04.16-14.24.26:610][775]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/AI/BP_AiManager.
+[2026.04.16-14.24.26:804][775]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.04.16-14.24.29:273][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.04.16-14.24.30:162][982]LogSlate: Window 'Save Content' being destroyed
+[2026.04.16-14.24.30:170][982]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.16-14.24.30:218][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AiManager" FILE="../../../../../Repos/HotelSimulator/PeterSimulator/Content/AI/BP_AiManager.uasset" SILENT=true
+[2026.04.16-14.24.30:229][982]LogSavePackage: Moving output files for package: /Game/AI/BP_AiManager
+[2026.04.16-14.24.30:229][982]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/PeterSimulator/Saved/BP_AiManagerDE060D64436A27003D55E9B96D2097D6.tmp' to '../../../../../Repos/HotelSimulator/PeterSimulator/Content/AI/BP_AiManager.uasset'
+[2026.04.16-14.24.30:263][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_Customer" FILE="../../../../../Repos/HotelSimulator/PeterSimulator/Content/AI/BP_Customer.uasset" SILENT=true
+[2026.04.16-14.24.30:328][982]LogSavePackage: Moving output files for package: /Game/AI/BP_Customer
+[2026.04.16-14.24.30:329][982]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/PeterSimulator/Saved/BP_Customer06DBF29E45553E371F5891A1840605BD.tmp' to '../../../../../Repos/HotelSimulator/PeterSimulator/Content/AI/BP_Customer.uasset'
+[2026.04.16-14.24.30:341][982]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/HotelAlfaMap/2/IA/ECG7O3H74GV79LS2AEX17Z
+[2026.04.16-14.24.30:341][982]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/PeterSimulator/Saved/ECG7O3H74GV79LS2AEX17Z87C25F82430D6B741293B78299DA6747.tmp' to '../../../../../Repos/HotelSimulator/PeterSimulator/Content/__ExternalActors__/Levels/HotelAlfaMap/2/IA/ECG7O3H74GV79LS2AEX17Z.uasset'
+[2026.04.16-14.24.30:344][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UserInterface/WBP_RoomSelectingButton" FILE="../../../../../Repos/HotelSimulator/PeterSimulator/Content/UserInterface/WBP_RoomSelectingButton.uasset" SILENT=true
+[2026.04.16-14.24.30:367][982]LogSavePackage: Moving output files for package: /Game/UserInterface/WBP_RoomSelectingButton
+[2026.04.16-14.24.30:367][982]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/PeterSimulator/Saved/WBP_RoomSelectingButtonF3545A8F49F09715B5FA18A5172BF5E0.tmp' to '../../../../../Repos/HotelSimulator/PeterSimulator/Content/UserInterface/WBP_RoomSelectingButton.uasset'
+[2026.04.16-14.24.30:377][982]LogFileHelpers: InternalPromptForCheckoutAndSave took 206 ms (total: 1.87 sec)
+[2026.04.16-14.24.30:384][982]AssetCheck: New page: Asset Save: multiple assets
+[2026.04.16-14.24.30:384][982]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UserInterface/WBP_RoomSelectingButton.WBP_RoomSelectingButton
+[2026.04.16-14.24.30:384][982]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AI/BP_Customer.BP_Customer
+[2026.04.16-14.24.30:384][982]LogContentValidation: Display: Validating /Game/AI/BP_Customer.BP_Customer_C /Game/Levels/HotelAlfaMap.HotelAlfaMap:PersistentLevel.BP_CustomerTest_C_UAID_F02F741C15232EB402_1799380675
+[2026.04.16-14.24.30:384][982]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AI/BP_AiManager.BP_AiManager
+[2026.04.16-14.24.30:397][982]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/BP_AiManager.
