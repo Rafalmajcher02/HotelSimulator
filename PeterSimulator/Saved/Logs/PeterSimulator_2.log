@@ -19643,3 +19643,10 @@ Make sure 'BPC_Customer_C' has been compiled for  Get playerRefLocal
 [2026.04.22-02.05.44:751][242]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/BT_Customer_Auto2
 [2026.04.22-02.05.44:751][242]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/PeterSimulator/Saved/BT_Customer_Auto288F5FCF540D565A97176CA968E7874AA.tmp' to '../../../../../Repos/HotelSimulator/PeterSimulator/Saved/Autosaves/Game/AI/BT_Customer_Auto2.uasset'
 [2026.04.22-02.05.44:753][242]LogFileHelpers: Auto-saving content packages took 0.024
+[2026.04.22-02.07.33:745][569]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.22-02.07.33:795][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT_Customer" FILE="../../../../../Repos/HotelSimulator/PeterSimulator/Content/AI/BT_Customer.uasset" SILENT=true
+[2026.04.22-02.07.33:800][569]LogSavePackage: Moving output files for package: /Game/AI/BT_Customer
+[2026.04.22-02.07.33:800][569]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/PeterSimulator/Saved/BT_Customer724052844BE6BA4012AC929E56D9CD7D.tmp' to '../../../../../Repos/HotelSimulator/PeterSimulator/Content/AI/BT_Customer.uasset'
+[2026.04.22-02.07.33:809][569]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 1.73 sec)
+[2026.04.22-02.07.33:816][569]AssetCheck: New page: Asset Save: BT_Customer
+[2026.04.22-02.07.33:816][569]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/AI/BT_Customer.BT_Customer
