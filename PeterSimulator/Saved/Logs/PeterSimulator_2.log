@@ -19603,3 +19603,43 @@ Make sure 'BPC_Customer_C' has been compiled for  Get playerRefLocal
 [2026.04.22-01.49.30:384][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2026.04.22-01.49.30:389][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
 [2026.04.22-01.49.30:429][601]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2026.04.22-01.50.01:185][223]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/BPC_Customer.BPC_Customer
+[2026.04.22-01.50.01:185][223]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.04.22-01.50.24:135][292]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/BTT_WaitForRoomAssignment.BTT_WaitForRoomAssignment
+[2026.04.22-01.50.24:135][292]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.04.22-01.50.26:697][529]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-01.50.26:697][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-01.50.30:360][850]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/BTT_FindWayToAssingedRoom.BTT_FindWayToAssingedRoom
+[2026.04.22-01.50.30:360][850]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.04.22-01.50.33:246][ 27]LogSlate: Window 'BTT_FindWayToAssingedRoom' being destroyed
+[2026.04.22-01.54.34:029][140]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/AI/BB_Customer.BB_Customer
+[2026.04.22-01.58.08:353][766]LogSlate: Window 'Color Picker' being destroyed
+[2026.04.22-02.01.20:498][518]BlueprintLog: New page: Compile BTT_FindWayToAssingedRoom
+[2026.04.22-02.01.20:565][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2026.04.22-02.01.21:358][599]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.22-02.01.21:414][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BTT_FindWayToAssingedRoom" FILE="../../../../../Repos/HotelSimulator/PeterSimulator/Content/AI/BTT_FindWayToAssingedRoom.uasset" SILENT=true
+[2026.04.22-02.01.21:437][599]LogSavePackage: Moving output files for package: /Game/AI/BTT_FindWayToAssingedRoom
+[2026.04.22-02.01.21:438][599]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/PeterSimulator/Saved/BTT_FindWayToAssingedRoom65CA464A495646F99ED706B037F1960A.tmp' to '../../../../../Repos/HotelSimulator/PeterSimulator/Content/AI/BTT_FindWayToAssingedRoom.uasset'
+[2026.04.22-02.01.21:446][599]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 1.59 sec)
+[2026.04.22-02.01.21:454][599]AssetCheck: New page: Asset Save: BTT_FindWayToAssingedRoom
+[2026.04.22-02.01.21:454][599]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AI/BTT_FindWayToAssingedRoom.BTT_FindWayToAssingedRoom
+[2026.04.22-02.02.07:124][567]LogSlate: Window 'Color Picker' being destroyed
+[2026.04.22-02.02.45:638][750]LogSlate: Window 'Color Picker' being destroyed
+[2026.04.22-02.04.35:407][586]BlueprintLog: New page: Compile BTT_FindWayToAssingedRoom
+[2026.04.22-02.04.35:465][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2026.04.22-02.04.36:174][657]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.22-02.04.36:230][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BTT_FindWayToAssingedRoom" FILE="../../../../../Repos/HotelSimulator/PeterSimulator/Content/AI/BTT_FindWayToAssingedRoom.uasset" SILENT=true
+[2026.04.22-02.04.36:245][657]LogSavePackage: Moving output files for package: /Game/AI/BTT_FindWayToAssingedRoom
+[2026.04.22-02.04.36:246][657]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/PeterSimulator/Saved/BTT_FindWayToAssingedRoom471AF2E946F6F1D78AC45E99716861FB.tmp' to '../../../../../Repos/HotelSimulator/PeterSimulator/Content/AI/BTT_FindWayToAssingedRoom.uasset'
+[2026.04.22-02.04.36:255][657]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 1.67 sec)
+[2026.04.22-02.04.36:263][657]AssetCheck: New page: Asset Save: BTT_FindWayToAssingedRoom
+[2026.04.22-02.04.36:263][657]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AI/BTT_FindWayToAssingedRoom.BTT_FindWayToAssingedRoom
+[2026.04.22-02.04.52:753][512]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/AI/BT_Customer.BT_Customer
+[2026.04.22-02.05.44:726][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.04.22-02.05.44:729][242]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/HotelAlfaMap' took 0.053
+[2026.04.22-02.05.44:729][242]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BT_Customer] ([1] browsable assets)...
+[2026.04.22-02.05.44:729][242]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BT_Customer]
+[2026.04.22-02.05.44:729][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT_Customer" FILE="../../../../../Repos/HotelSimulator/PeterSimulator/Saved/Autosaves/Game/AI/BT_Customer_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2026.04.22-02.05.44:751][242]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/BT_Customer_Auto2
+[2026.04.22-02.05.44:751][242]LogSavePackage: Moving '../../../../../Repos/HotelSimulator/PeterSimulator/Saved/BT_Customer_Auto288F5FCF540D565A97176CA968E7874AA.tmp' to '../../../../../Repos/HotelSimulator/PeterSimulator/Saved/Autosaves/Game/AI/BT_Customer_Auto2.uasset'
+[2026.04.22-02.05.44:753][242]LogFileHelpers: Auto-saving content packages took 0.024
