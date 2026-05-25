@@ -145,6 +145,7 @@
 				"D:/Repos/HotelSimulator/PeterSimulator/Content/AI/BP_AiMaster.uasset",
 				"D:/Repos/HotelSimulator/PeterSimulator/Content/AI/BTT_FindWayToAssingedRoom.uasset",
 				"D:/Repos/HotelSimulator/PeterSimulator/Content/__ExternalActors__/Levels/HotelAlfaMap/0/VE/QIFTKFE91518QRD0IJVL1K.uasset",
+				"D:/Repos/HotelSimulator/PeterSimulator/Content/AI/BTT_UninteractAI.uasset",
 				"D:/Repos/HotelSimulator/PeterSimulator/Content/AI/BP_AiManager.uasset",
 				"D:/Repos/HotelSimulator/PeterSimulator/Content/Blueprints/Room/BPS_BedroomStructure.uasset",
 				"D:/Repos/HotelSimulator/PeterSimulator/Content/Blueprints/Room/DT_BedroomList.uasset",
