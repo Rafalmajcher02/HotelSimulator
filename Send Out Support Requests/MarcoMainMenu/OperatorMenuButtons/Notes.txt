@@ -1,6 +1,6 @@
 Currently at no resolution constraints
 UE5 says it's at 1200 x 200 pixels if you believe it (I wouldn't)
-In other words. It's mean to be an interesting rectangle and it also means that for the most part, as long as it can stretch or shirk a little without looking bad. it'll be perfect
+In other words. It's meant to be an interesting rectangle and it also means that for the most part, as long as it can stretch or shrink a little without looking bad. it'll be perfect
 
 We need:
 - Normal
